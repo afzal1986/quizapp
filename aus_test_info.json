@@ -1,27 +1,26 @@
 {
   "passPercent": 75,
   "passQuestions": -1,
-  "timeInMins": 45,  
+  "timeInMins": 45,   
   "questions": [
     {
       "questionText": "What are the Australian values that you must accept and uphold if you want to become an Australian citizen?",
       "options": [
-        "Respect for the freedom and dignity of the individual",
+        "Respect for freedom and dignity",
         "Respect for the rule of law",
-        "Parliamentary democracy",
         "Equality of men and women",
         "All of the above"
       ],
-      "answer": 4,
+      "answer": 3,
       "isFail": false,
       "explanation": "Accepting and upholding all the mentioned values is necessary to become an Australian citizen."
     },
     {
       "questionText": "What is the significance of the Australian flag?",
       "options": [
-        "Represents the unity of the Australian people",
-        "Symbolizes Australia's British heritage",
-        "Represents the unique natural environment of Australia",
+        "Symbolizes Australia's identity",
+        "Represents unity of the Australian people",
+        "Reflects British heritage",
         "All of the above"
       ],
       "answer": 3,
@@ -33,7 +32,7 @@
       "options": [
         "Represents Australia's history and identity",
         "Includes symbols of native Australian animals",
-        "Symbolizes the sovereignty of Australia",
+        "Symbolizes sovereignty of Australia",
         "All of the above"
       ],
       "answer": 3,
@@ -43,9 +42,9 @@
     {
       "questionText": "What is the significance of the national anthem 'Advance Australia Fair'?",
       "options": [
-        "Celebrates Australian spirit of freedom, democracy, and equality",
-        "Represents the country's shared values, history, and culture",
-        "Calls on all Australians to stand together as a proud and united nation",
+        "Celebrates Australian spirit",
+        "Represents shared values, history, and culture",
+        "Calls on all Australians to stand together",
         "All of the above"
       ],
       "answer": 3,
@@ -55,14 +54,578 @@
     {
       "questionText": "What are the Australian values of freedom and democracy?",
       "options": [
-        "Reflected in the system of government based on parliamentary democracy",
-        "Ensured by the rule of law and the Australian Constitution",
-        "Protecting the rights and freedoms of all Australians",
+        "Reflected in parliamentary democracy",
+        "Ensured by the rule of law",
+        "Protecting rights and freedoms",
         "All of the above"
       ],
       "answer": 3,
       "isFail": false,
       "explanation": "The values of freedom and democracy encompass all the mentioned aspects, shaping the Australian society."
+    },
+    {
+      "questionText": "Which event is celebrated on Australia Day?",
+      "options": [
+        "Arrival of the First Fleet",
+        "Proclamation of Australia as a nation",
+        "End of World War II",
+        "Abolition of White Australia Policy"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "Australia Day commemorates the proclamation of Australia as a nation on 26th January 1788."
+    },
+    {
+      "questionText": "Which native animal is a symbol of Australia?",
+      "options": [
+        "Kangaroo",
+        "Koala",
+        "Platypus",
+        "Emu"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The kangaroo is a well-known symbol of Australia, representing the country's unique wildlife."
+    },
+    {
+      "questionText": "Who has the power to make and change Australian laws?",
+      "options": [
+        "The Prime Minister",
+        "The Governor-General",
+        "The Australian Parliament",
+        "The High Court"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The Australian Parliament has the authority to make and change laws in the country."
+    },
+    {
+      "questionText": "What is the official language of Australia?",
+      "options": [
+        "English",
+        "French",
+        "Spanish",
+        "Mandarin"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "English is the official language of Australia, widely spoken across the country."
+    },
+    {
+      "questionText": "What is the name of the Australian national currency?",
+      "options": [
+        "Australian Dollar",
+        "Australian Pound",
+        "Australian Euro",
+        "Australian Rupee"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Australian Dollar is the national currency of Australia."
+    },
+    {
+      "questionText": "What is the largest state in Australia by land area?",
+      "options": [
+        "Western Australia",
+        "New South Wales",
+        "Queensland",
+        "Victoria"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Western Australia is the largest state in Australia by land area."
+    },
+    {
+      "questionText": "Which city is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "Canberra is the capital city of Australia."
+    },
+    {
+      "questionText": "Which ocean surrounds Australia?",
+      "options": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Atlantic Ocean",
+        "Arctic Ocean"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "Australia is surrounded by the Indian Ocean."
+    },
+    {
+      "questionText": "What is the national sport of Australia?",
+      "options": [
+        "Cricket",
+        "Rugby",
+        "Australian Rules Football",
+        "Soccer"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Cricket is considered the national sport of Australia."
+    },
+    {
+      "questionText": "Which Indigenous people are the traditional owners of the land now called Australia?",
+      "options": [
+        "Aboriginal and Torres Strait Islander peoples",
+        "Maori",
+        "Pacific Islanders",
+        "Indigenous Americans"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Aboriginal and Torres Strait Islander peoples are the traditional owners of the land now called Australia."
+    },
+    {
+      "questionText": "Who is the head of state in Australia?",
+      "options": [
+        "Queen Elizabeth II",
+        "The Prime Minister",
+        "The Governor-General",
+        "The President"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Queen Elizabeth II is the head of state in Australia."
+    },
+    {
+      "questionText": "What is the name of the world's largest coral reef system located off the coast of Australia?",
+      "options": [
+        "The Great Barrier Reef",
+        "The Amazon Reef",
+        "The Coral Triangle",
+        "The Mesoamerican Barrier Reef"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Australia."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous Opera House and Harbour Bridge?",
+      "options": [
+        "New South Wales",
+        "Queensland",
+        "Victoria",
+        "Tasmania"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The state of New South Wales is known for its famous Opera House and Harbour Bridge."
+    },
+    {
+      "questionText": "What is the famous rock formation located in the Northern Territory of Australia?",
+      "options": [
+        "Uluru",
+        "Great Ocean Road",
+        "Kakadu",
+        "The Pinnacles"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Uluru, also known as Ayers Rock, is the famous rock formation located in the Northern Territory of Australia."
+    },
+    {
+      "questionText": "What is the national flower of Australia?",
+      "options": [
+        "Golden Wattle",
+        "Kangaroo Paw",
+        "Waratah",
+        "Sturt's Desert Pea"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Golden Wattle is the national flower of Australia."
+    },
+    {
+      "questionText": "Who were the early European settlers who arrived in Australia in 1788?",
+      "options": [
+        "Convicts",
+        "Pilgrims",
+        "Explorers",
+        "Pioneers"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The early European settlers who arrived in Australia in 1788 were primarily convicts."
+    },
+    {
+      "questionText": "What is the national gemstone of Australia?",
+      "options": [
+        "Opal",
+        "Diamond",
+        "Ruby",
+        "Sapphire"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Opal is the national gemstone of Australia."
+    },
+    {
+      "questionText": "Which animal is a popular symbol associated with Australian currency?",
+      "options": [
+        "Kangaroo",
+        "Koala",
+        "Platypus",
+        "Emu"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "The image of an emu is featured on Australian currency."
+    },
+    {
+      "questionText": "What is the traditional Australian meat pie filled with?",
+      "options": [
+        "Beef",
+        "Chicken",
+        "Lamb",
+        "Pork"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The traditional Australian meat pie is typically filled with lamb."
+    },
+    {
+      "questionText": "What is the national airline of Australia?",
+      "options": [
+        "Qantas",
+        "Virgin Australia",
+        "Jetstar",
+        "Tigerair"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Qantas is the national airline of Australia."
+    },
+    {
+      "questionText": "What is the famous Australian rock band known for hits like 'Highway to Hell' and 'Back in Black'?",
+      "options": [
+        "AC/DC",
+        "INXS",
+        "Cold Chisel",
+        "Midnight Oil"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "AC/DC is the famous Australian rock band known for hits like 'Highway to Hell' and 'Back in Black'."
+    },
+    {
+      "questionText": "Which city in Australia is known for its iconic surf breaks such as Bondi Beach?",
+      "options": [
+        "Sydney",
+        "Gold Coast",
+        "Perth",
+        "Adelaide"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Sydney is known for its iconic surf breaks, including Bondi Beach."
+    },
+    {
+      "questionText": "Which famous Australian actor played the lead role in the 'Mad Max' film series?",
+      "options": [
+        "Hugh Jackman",
+        "Russell Crowe",
+        "Mel Gibson",
+        "Cate Blanchett"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "Mel Gibson played the lead role in the 'Mad Max' film series."
+    },
+    {
+      "questionText": "Which iconic Australian landmark is a large sandstone rock formation in the Northern Territory?",
+      "options": [
+        "Twelve Apostles",
+        "Wave Rock",
+        "Mount Kosciuszko",
+        "Uluru"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "Uluru, also known as Ayers Rock, is the iconic Australian landmark located in the Northern Territory."
+    },
+    {
+      "questionText": "What is the national dish of Australia?",
+      "options": [
+        "Pavlova",
+        "Vegemite on Toast",
+        "Anzac Biscuits",
+        "Lamingtons"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "Vegemite on Toast is often considered the national dish of Australia."
+    },
+    {
+      "questionText": "Which sport is commonly known as 'footy' in Australia?",
+      "options": [
+        "Rugby League",
+        "Australian Rules Football",
+        "Soccer",
+        "Cricket"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "Australian Rules Football is commonly referred to as 'footy' in Australia."
+    },
+    {
+      "questionText": "What is the largest living structure on Earth?",
+      "options": [
+        "Great Barrier Reef",
+        "Amazon Rainforest",
+        "Mount Everest",
+        "The Grand Canyon"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Great Barrier Reef is the largest living structure on Earth."
+    },
+    {
+      "questionText": "What is the national park located in the heart of Australia?",
+      "options": [
+        "Kakadu National Park",
+        "Daintree National Park",
+        "Blue Mountains National Park",
+        "Uluru-Kata Tjuta National Park"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "Uluru-Kata Tjuta National Park is the national park located in the heart of Australia."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous wine regions such as Barossa Valley and Margaret River?",
+      "options": [
+        "South Australia",
+        "Victoria",
+        "Western Australia",
+        "New South Wales"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "South Australia is known for its famous wine regions like Barossa Valley and McLaren Vale."
+    },
+    {
+      "questionText": "What is the name of the famous horse race held annually in Melbourne, Australia?",
+      "options": [
+        "Melbourne Cup",
+        "Cox Plate",
+        "Golden Slipper",
+        "The Everest"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The famous horse race held annually in Melbourne is called the Melbourne Cup."
+    },
+    {
+      "questionText": "Which Australian city hosted the Olympic Games in the year 2000?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Adelaide"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Sydney hosted the Olympic Games in the year 2000."
+    },
+    {
+      "questionText": "What is the national animal emblem of Australia?",
+      "options": [
+        "Kangaroo",
+        "Koala",
+        "Emu",
+        "Platypus"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The national animal emblem of Australia is the Emu."
+    },
+    {
+      "questionText": "What is the famous road that stretches along the southeast coast of Australia, known for its scenic beauty?",
+      "options": [
+        "Great Ocean Road",
+        "Pacific Coast Highway",
+        "Stuart Highway",
+        "Gibb River Road"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Great Ocean Road is the famous road that stretches along the southeast coast of Australia."
+    },
+    {
+      "questionText": "What is the name of the famous Australian dessert made with layers of sponge cake, chocolate, and coconut?",
+      "options": [
+        "Pavlova",
+        "Vegemite on Toast",
+        "Anzac Biscuits",
+        "Lamingtons"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "Lamingtons are the famous Australian desserts made with sponge cake, chocolate, and coconut."
+    },
+    {
+      "questionText": "Which Australian state is known for its iconic landmark called the 'Twelve Apostles'?",
+      "options": [
+        "Victoria",
+        "Queensland",
+        "Tasmania",
+        "Western Australia"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The state of Victoria is known for its iconic landmark called the 'Twelve Apostles'."
+    },
+    {
+      "questionText": "What is the name of the Australian space agency established in 2018?",
+      "options": [
+        "NASA",
+        "ESA",
+        "ISRO",
+        "Australian Space Agency"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "The Australian Space Agency is the name of the Australian space agency established in 2018."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous Great Barrier Reef?",
+      "options": [
+        "Queensland",
+        "New South Wales",
+        "Western Australia",
+        "South Australia"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Queensland is known for its famous Great Barrier Reef."
+    },
+    {
+      "questionText": "What is the name of the Australian territory located in the Indian Ocean?",
+      "options": [
+        "Australian Capital Territory",
+        "Christmas Island",
+        "Cocos (Keeling) Islands",
+        "Lord Howe Island"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The Cocos (Keeling) Islands are the Australian territory located in the Indian Ocean."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous Tasmanian Devil?",
+      "options": [
+        "Tasmania",
+        "South Australia",
+        "Western Australia",
+        "Victoria"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Tasmania is known for its famous Tasmanian Devil."
+    },
+    {
+      "questionText": "What is the name of the world's largest monolith, located in Western Australia?",
+      "options": [
+        "Wave Rock",
+        "Mount Kosciuszko",
+        "The Pinnacles",
+        "Mount Augustus"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "Mount Augustus is the name of the world's largest monolith, located in Western Australia."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous Barossa Valley wine region?",
+      "options": [
+        "South Australia",
+        "Victoria",
+        "New South Wales",
+        "Western Australia"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The state of South Australia is known for its famous Barossa Valley wine region."
+    },
+    {
+      "questionText": "What is the famous coral island located on the Great Barrier Reef, popular for snorkeling and diving?",
+      "options": [
+        "Hamilton Island",
+        "Fitzroy Island",
+        "Lady Elliot Island",
+        "Whitsunday Island"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "Lady Elliot Island is the famous coral island located on the Great Barrier Reef, popular for snorkeling and diving."
+    },
+    {
+      "questionText": "What is the name of the famous Australian wildlife sanctuary near Sydney?",
+      "options": [
+        "Taronga Zoo",
+        "Australia Zoo",
+        "Lone Pine Koala Sanctuary",
+        "Healesville Sanctuary"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Taronga Zoo is the name of the famous Australian wildlife sanctuary near Sydney."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous Blue Mountains region?",
+      "options": [
+        "New South Wales",
+        "Victoria",
+        "Queensland",
+        "Tasmania"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "New South Wales is known for its famous Blue Mountains region."
+    },
+    {
+      "questionText": "What is the name of the famous Australian lake known for its pink color?",
+      "options": [
+        "Lake Eyre",
+        "Lake Burley Griffin",
+        "Lake Hillier",
+        "Lake Argyle"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "Lake Hillier is the name of the famous Australian lake known for its pink color."
+    },
+    {
+      "questionText": "Which Australian state is known for its famous kangaroo population?",
+      "options": [
+        "South Australia",
+        "Victoria",
+        "Queensland",
+        "Western Australia"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "Western Australia is known for its famous kangaroo population."
+    },
+    {
+      "questionText": "What is the name of the famous Australian reef located in the Coral Sea?",
+      "options": [
+        "Ningaloo Reef",
+        "Great Barrier Reef",
+        "Rowley Shoals",
+        "Osprey Reef"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The Rowley Shoals is the name of the famous Australian reef located in the Coral Sea."
     }
   ]
 }
