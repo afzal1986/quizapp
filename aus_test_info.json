@@ -1,4 +1,5 @@
 {
+  "testQuestions": 20,
   "passPercent": 75,
   "passQuestions": -1,
   "timeInMins": 45,   
