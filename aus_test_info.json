@@ -1,10 +1,10 @@
 {
-  "testQuestions": 20,
+  "testQuestions": 5,
   "testFailQuestions": 5,
-  "practiceQuestions": 40,
+  "practiceQuestions": 3,
   "passPercent": 75,
   "passQuestions": -1,
-  "timeInMins": 45,   
+  "timeInMins": 1,   
   "questions": [
     {
       "questionText": "What are the Australian values that you must accept and uphold if you want to become an Australian citizen?",
