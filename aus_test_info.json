@@ -1,5 +1,6 @@
 {
   "testQuestions": 20,
+  "testFailQuestions": 5,
   "practiceQuestions": 40,
   "passPercent": 75,
   "passQuestions": -1,
