@@ -15,7 +15,7 @@
         "Very very wrong"
       ],
       "answer": 2,
-      "isFail": false,
+      "isFail": true,
       "explanation": "--"
     },
      {
@@ -27,7 +27,7 @@
         "Very very wrong"
       ],
       "answer": 2,
-      "isFail": false,
+      "isFail": true,
       "explanation": "--"
     },
      {
@@ -39,7 +39,7 @@
         "Very very wrong"
       ],
       "answer": 2,
-      "isFail": false,
+      "isFail": true,
       "explanation": "--"
     },
      {
@@ -51,7 +51,7 @@
         "Very very wrong"
       ],
       "answer": 2,
-      "isFail": false,
+      "isFail": true,
       "explanation": "--"
     },
     {
@@ -63,7 +63,7 @@
         "Very very wrong"
       ],
       "answer": 2,
-      "isFail": false,
+      "isFail": true,
       "explanation": "--"
     },
     {
