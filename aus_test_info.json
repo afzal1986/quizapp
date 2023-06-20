@@ -1,70 +1,70 @@
 {
-  "testQuestions": 5,
+  "testQuestions": 10,
   "testFailQuestions": 5,
-  "practiceQuestions": 3,
+  "practiceQuestions": 5,
   "passPercent": 75,
   "passQuestions": -1,
   "timeInMins": 1,   
   "questions": [
     {
-      "questionText": "What are the Australian values that you must accept and uphold if you want to become an Australian citizen?",
+      "questionText": "This is a value question",
       "options": [
-        "Respect for freedom and dignity",
-        "Respect for the rule of law",
-        "Equality of men and women",
-        "All of the above"
+        "Wrong",
+        "Wrong",
+        "Correct",
+        "Very very wrong"
       ],
-      "answer": 3,
+      "answer": 2,
       "isFail": false,
-      "explanation": "Accepting and upholding all the mentioned values is necessary to become an Australian citizen."
+      "explanation": "--"
+    },
+     {
+      "questionText": "This is a value question",
+      "options": [
+        "Wrong",
+        "Wrong",
+        "Correct",
+        "Very very wrong"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "--"
+    },
+     {
+      "questionText": "This is a value question",
+      "options": [
+        "Wrong",
+        "Wrong",
+        "Correct",
+        "Very very wrong"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "--"
+    },
+     {
+      "questionText": "This is a value question",
+      "options": [
+        "Wrong",
+        "Wrong",
+        "Correct",
+        "Very very wrong"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "--"
     },
     {
-      "questionText": "What is the significance of the Australian flag?",
+      "questionText": "This is a value question",
       "options": [
-        "Symbolizes Australia's identity",
-        "Represents unity of the Australian people",
-        "Reflects British heritage",
-        "All of the above"
+        "Wrong",
+        "Wrong",
+        "Correct",
+        "Very very wrong"
       ],
-      "answer": 3,
+      "answer": 2,
       "isFail": false,
-      "explanation": "The Australian flag holds all the mentioned significance and represents multiple aspects of Australia."
-    },
-    {
-      "questionText": "What is the significance of the Australian Coat of Arms?",
-      "options": [
-        "Represents Australia's history and identity",
-        "Includes symbols of native Australian animals",
-        "Symbolizes sovereignty of Australia",
-        "All of the above"
-      ],
-      "answer": 3,
-      "isFail": false,
-      "explanation": "The Australian Coat of Arms represents all the mentioned aspects, making it significant to Australia."
-    },
-    {
-      "questionText": "What is the significance of the national anthem 'Advance Australia Fair'?",
-      "options": [
-        "Celebrates Australian spirit",
-        "Represents shared values, history, and culture",
-        "Calls on all Australians to stand together",
-        "All of the above"
-      ],
-      "answer": 3,
-      "isFail": false,
-      "explanation": "The national anthem 'Advance Australia Fair' embodies all the mentioned significance, promoting unity and pride."
-    },
-    {
-      "questionText": "What are the Australian values of freedom and democracy?",
-      "options": [
-        "Reflected in parliamentary democracy",
-        "Ensured by the rule of law",
-        "Protecting rights and freedoms",
-        "All of the above"
-      ],
-      "answer": 3,
-      "isFail": false,
-      "explanation": "The values of freedom and democracy encompass all the mentioned aspects, shaping the Australian society."
+      "explanation": "--"
     },
     {
       "questionText": "Which event is celebrated on Australia Day?",
