@@ -5,6 +5,7 @@
   "passPercent": 75,
   "passQuestions": -1,
   "timeInMins": 1,   
+  "credits": 3,
   "practiceMsg": "Answer 50 practice questions",
   "testMsg": "Answer 20 questions including 5 value questions in 45 mins. Score 75% or more to pass the test.",
   "earnMsg": "Watch sponsored content to earn 3 credits?",
