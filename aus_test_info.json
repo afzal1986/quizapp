@@ -487,7 +487,7 @@
 	"explanation": "In 1901, the colonies were united into a federation of states called the Commonwealth of Australia. At that time, Australia’s population was counted at about four million people. This number did not include the Indigenous people."
 	},
 	{
-	"questionText": "n which state in Australia are most of the large mining projects located??",
+	"questionText": "which state in Australia are most of the large mining projects located?",
 	"options": [
 	"Queensland",
 	"Victoria",
@@ -885,7 +885,7 @@
 	"isFail": true
 	},
 	{
-	"questionText": "Is it compulsory for an individual to join one of the Australian political parties??",
+	"questionText": "Is it compulsory for an individual to join one of the Australian political parties?",
 	"options": [
 	"No, a person is free not to join any political party",
 	"Only an Australian citizen need to join a political party",
