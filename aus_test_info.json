@@ -622,6 +622,147 @@
       "isFail": false,
       "explanation": "Western Australia is known for its famous kangaroo population."
     },
+    { 
+
+      "questionText": "What do we commemorate on Anzac Day?", 
+
+      "options": [ 
+
+        "The landing of the Australian and New Zealand Army Corps at Gallipoli, Turkey during World War I", 
+
+        "The arrival of the first free settlers from Great Britain", 
+
+        "The landing of the First Fleet at Sydney Cove", 
+
+         
+
+      ], 
+
+      "answer": 0, 
+
+      "isFail": false, 
+
+}, 
+
+ 
+
+{ 
+
+      "questionText": "What are the colours of the Australian Aboriginal Flag?", 
+
+      "options": [ 
+
+        "Black, red and yellow", 
+
+        "Green, white and black", 
+
+        " Blue, white and green", 
+
+  
+
+      ], 
+
+      "answer": 0, 
+
+      "isFail": false, 
+
+    }, 
+
+ 
+
+{ 
+
+      "questionText": "What is the Commonwealth Coat of Arms?", 
+
+      "options": [ 
+
+        "The national anthem", 
+
+        "Australia’s national flower", 
+
+        "The official symbol of Australia, which identifies Commonwealth property", 
+
+      ], 
+
+      "answer": 2, 
+
+      "isFail": false, 
+
+    }, 
+
+ 
+
+ 
+
+ 
+
+{ 
+
+      "questionText": "What happened in Australia on 1 January 1901?", 
+
+      "options": [ 
+
+        "The Australian Constitution was changed by a referendum", 
+
+        "The separate colonies were united into a federation of states called the Commonwealth of Australia", 
+
+        "The Australian and New Zealand Army Corps was formed", 
+
+      ], 
+
+      "answer": 1, 
+
+      "isFail": false, 
+
+    }, 
+
+ 
+
+{ 
+
+      "questionText": "What is the capital city of Australia?", 
+
+      "options": [ 
+
+        "Brisbane", 
+
+        "Canberra", 
+
+        "Perth", 
+
+         
+
+      ], 
+
+      "answer": 1, 
+
+      "isFail": false, 
+
+    }, 
+
+ 
+
+{ 
+
+      "questionText": "Which of these is an example of freedom of speech?", 
+
+      "options": [ 
+
+        " People can peacefully protest against a government action", 
+
+        "Men and women are treated equally in a court of law", 
+
+        "Australians are free to not follow a religion", 
+
+         
+
+      ], 
+
+      "answer": 0, 
+
+      "isFail": false, 
+
+    }, 
     {
       "questionText": "What is the name of the famous Australian reef located in the Coral Sea?",
       "options": [
