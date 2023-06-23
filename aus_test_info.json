@@ -67,7 +67,7 @@
 			"2021-2022"
 		],
 		"answer": 1,
-		"isFail": true,
+		"isFail": false,
 		"explanation": "During Australia’s devastating bushfire season of 2019-20, which resulted in the loss of life, property and wildlife, and environmental destruction, many multicultural communities worked to collect money, clothes and food donations to help people affected by the bushfires."
 	},
 	{
@@ -511,7 +511,7 @@
 	"explanation": "As well as Anzac Day ceremonies, Remembrance Day is also a day on which Australians remember those who have served and died in war. At 11am on 11 November (the 11th month) each year, Australians pause to remember the sacrifice of the men and women who died or suffered in wars and conflicts, as well as all those who have served. We wear a red poppy on this day."
 	},
 	{
-	"questionText": "n which city, High Court of Australia and Australian Parliament located?",
+	"questionText": "which city, High Court of Australia and Australian Parliament located?",
 	"options": [
 	"Melbourne",
 	"Sydney",
