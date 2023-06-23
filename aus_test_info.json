@@ -13,8 +13,8 @@
  [{
 		"questionText": "What are some examples of undermining Australia’s interests and damaging community relations?",
 		"options": [
-			"Promoting distrust in and fear of an ethnic community",
-			"Sharing official government secrets",
+			"A: Promoting distrust in and fear of an ethnic community",
+			"B: Sharing official government secrets",
 			"None of the above",
 			"Both A and B"
 		],
@@ -49,9 +49,9 @@
 	{
 		"questionText": "What should people who serve in the Australian parliament feel?",
 		"options": [
-			"Pressure",
-			"Honour",
-			"It is a big responsibility",
+			"A: Pressure",
+			"B: Honour",
+			"C: It is a big responsibility",
 			"Both B and C"
 		],
 		"answer": 3,
@@ -549,8 +549,8 @@
 	{
 	"questionText": "Commonwealth of Australia is a federation of states and territories?",
 	"options": [
-	"Yes",
-	"No",
+	"A: Yes",
+	"B: No",
 	"Both A and B",
 	"None of the above"
 	],
@@ -561,8 +561,8 @@
 	{
 	"questionText": "Is it true that Sydney is capital city of New South Wales?",
 	"options": [
-	"Yes",
-	"No",
+	"A: Yes",
+	"B: No",
 	"Both A and B",
 	"None of the above"
 	],
