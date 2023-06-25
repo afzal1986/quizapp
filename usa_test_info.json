@@ -10,8 +10,7 @@
   "testMsg": "Answer 15 questions. Correctly answer atleast 8 questions to pass.",
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": 
- [{
-  "questions": [
+ [
     {
       "questionText": "Who is the President of the United States?",
       "options": [
@@ -252,7 +251,6 @@
       "isFail": false,
       "explanation": "The three branches of the U.S. government are the Executive, Legislative, and Judicial branches."
     }
-  ]
 }
 ]
   
