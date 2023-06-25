@@ -1,1 +1,75 @@
-
+{
+  "testQuestions": 3,
+  "testFailQuestions": 0,
+  "practiceQuestions": 5,
+  "passPercent": -1,
+  "passQuestions": 2,
+  "timeInMins": -1,   
+  "credits": 3,
+  "practiceMsg": "Answer 3 practice questions",
+  "testMsg": "Answer 5 questions. Correctly answer atleast 2 questions to pass.",
+  "earnMsg": "Watch sponsored content to earn +3 credits?",
+  "questions": 
+ [{
+		"questionText": "What are some examples of undermining Australia’s interests and damaging community relations?",
+		"options": [
+			"A: Promoting distrust in and fear of an ethnic community",
+			"B: Sharing official government secrets",
+			"None of the above",
+			"Both A and B"
+		],
+		"answer": 3,
+		"isFail": false,
+		"explanation": "For example, using social media to share official government secrets would be undermining Australia’s interests. Similarly, promoting distrust in and fear of an ethnic community would damage Australian community relations."
+	},
+	{
+		"questionText": "How many Aboriginal and Torres Strait Islander languages are included in Australian culture?",
+		"options": [
+			"More than 50",
+			"More than 150",
+			"More than 200",
+			"More than 100"
+		],
+		"answer": 3,
+		"isFail": false,
+		"explanation": "In Australia, other languages are also valued, including more than 100 distinct Aboriginal and Torres Strait Islander languages."
+	},
+	{
+		"questionText": "What are the laws regarding divorce in Australia?",
+		"options": [
+			"It is not acceptable",
+			"It is acceptable",
+			"It is frowned upon",
+			"There are no laws regarding divorce in Australia"
+		],
+		"answer": 1,
+		"isFail": true,
+		"explanation": "Divorce is acceptable in Australia.."
+	},
+	{
+		"questionText": "What should people who serve in the Australian parliament feel?",
+		"options": [
+			"A: Pressure",
+			"B: Honour",
+			"C: It is a big responsibility",
+			"Both B and C"
+		],
+		"answer": 3,
+		"isFail": false,
+		"explanation": "It is an honour and a serious responsibility to serve in an Australian parliament"
+	},
+	{
+		"questionText": "When was the bushfire season in Australia?",
+		"options": [
+			"2018-2019",
+			"2019-2020",
+			"2020-2021",
+			"2021-2022"
+		],
+		"answer": 1,
+		"isFail": false,
+		"explanation": "During Australia’s devastating bushfire season of 2019-20, which resulted in the loss of life, property and wildlife, and environmental destruction, many multicultural communities worked to collect money, clothes and food donations to help people affected by the bushfires."
+	}
+]
+  
+}
