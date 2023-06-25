@@ -11,65 +11,249 @@
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": 
  [{
-		"questionText": "What are some examples of undermining Australia’s interests and damaging community relations?",
-		"options": [
-			"A: Promoting distrust in and fear of an ethnic community",
-			"B: Sharing official government secrets",
-			"None of the above",
-			"Both A and B"
-		],
-		"answer": 3,
-		"isFail": false,
-		"explanation": "For example, using social media to share official government secrets would be undermining Australia’s interests. Similarly, promoting distrust in and fear of an ethnic community would damage Australian community relations."
-	},
-	{
-		"questionText": "How many Aboriginal and Torres Strait Islander languages are included in Australian culture?",
-		"options": [
-			"More than 50",
-			"More than 150",
-			"More than 200",
-			"More than 100"
-		],
-		"answer": 3,
-		"isFail": false,
-		"explanation": "In Australia, other languages are also valued, including more than 100 distinct Aboriginal and Torres Strait Islander languages."
-	},
-	{
-		"questionText": "What are the laws regarding divorce in Australia?",
-		"options": [
-			"It is not acceptable",
-			"It is acceptable",
-			"It is frowned upon",
-			"There are no laws regarding divorce in Australia"
-		],
-		"answer": 1,
-		"isFail": true,
-		"explanation": "Divorce is acceptable in Australia.."
-	},
-	{
-		"questionText": "What should people who serve in the Australian parliament feel?",
-		"options": [
-			"A: Pressure",
-			"B: Honour",
-			"C: It is a big responsibility",
-			"Both B and C"
-		],
-		"answer": 3,
-		"isFail": false,
-		"explanation": "It is an honour and a serious responsibility to serve in an Australian parliament"
-	},
-	{
-		"questionText": "When was the bushfire season in Australia?",
-		"options": [
-			"2018-2019",
-			"2019-2020",
-			"2020-2021",
-			"2021-2022"
-		],
-		"answer": 1,
-		"isFail": false,
-		"explanation": "During Australia’s devastating bushfire season of 2019-20, which resulted in the loss of life, property and wildlife, and environmental destruction, many multicultural communities worked to collect money, clothes and food donations to help people affected by the bushfires."
-	}
+  "questions": [
+    {
+      "questionText": "Who is the President of the United States?",
+      "options": [
+        "Joe Biden",
+        "Donald Trump",
+        "Barack Obama",
+        "George Washington"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Joe Biden is the current President of the United States."
+    },
+    {
+      "questionText": "What is the capital of the United States?",
+      "options": [
+        "New York City",
+        "Los Angeles",
+        "Chicago",
+        "Washington, D.C."
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "Washington, D.C. is the capital of the United States."
+    },
+    {
+      "questionText": "How many stars are there on the American flag?",
+      "options": [
+        "50",
+        "13",
+        "48",
+        "51"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "There are 50 stars on the American flag, representing the 50 states."
+    },
+    {
+      "questionText": "Who wrote the Declaration of Independence?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams",
+        "Abraham Lincoln"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "Thomas Jefferson wrote the Declaration of Independence."
+    },
+    {
+      "questionText": "What is the supreme law of the land in the United States?",
+      "options": [
+        "Declaration of Independence",
+        "Bill of Rights",
+        "Emancipation Proclamation",
+        "Constitution"
+      ],
+      "answer": 3,
+      "isFail": false,
+      "explanation": "The Constitution is the supreme law of the land in the United States."
+    },
+    {
+      "questionText": "Who is the current Vice President of the United States?",
+      "options": [
+        "Kamala Harris",
+        "Mike Pence",
+        "Joe Biden",
+        "Nancy Pelosi"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Kamala Harris is the current Vice President of the United States."
+    },
+    {
+      "questionText": "What is the economic system in the United States?",
+      "options": [
+        "Socialism",
+        "Communism",
+        "Capitalism",
+        "Feudalism"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The United States has a capitalist economic system."
+    },
+    {
+      "questionText": "Who is considered the 'Father of Our Country'?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "Abraham Lincoln"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "George Washington is considered the 'Father of Our Country'."
+    },
+    {
+      "questionText": "What are the first ten amendments to the Constitution called?",
+      "options": [
+        "The Preamble",
+        "The Articles",
+        "The Bill of Rights",
+        "The Amendments"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The first ten amendments to the Constitution are called the Bill of Rights."
+    },
+    {
+      "questionText": "Who has the power to declare war in the United States?",
+      "options": [
+        "The President",
+        "The Supreme Court",
+        "The Congress",
+        "The Secretary of Defense"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The power to declare war lies with the Congress."
+    },
+    {
+      "questionText": "What is the national anthem of the United States?",
+      "options": [
+        "America the Beautiful",
+        "God Bless America",
+        "The Star-Spangled Banner",
+        "My Country, 'Tis of Thee"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The national anthem of the United States is The Star-Spangled Banner."
+    },
+    {
+      "questionText": "When do we celebrate Independence Day in the United States?",
+      "options": [
+        "July 4",
+        "November 11",
+        "January 1",
+        "December 25"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Independence Day is celebrated on July 4th in the United States."
+    },
+    {
+      "questionText": "Who was the first President of the United States?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "George Washington was the first President of the United States."
+    },
+    {
+      "questionText": "What is the supreme court of the United States?",
+      "options": [
+        "The Federal Court",
+        "The District Court",
+        "The Supreme Court",
+        "The Appeals Court"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "The Supreme Court is the highest court in the United States."
+    },
+    {
+      "questionText": "Who is the current Speaker of the House of Representatives?",
+      "options": [
+        "Nancy Pelosi",
+        "Mitch McConnell",
+        "Kamala Harris",
+        "Joe Biden"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "Nancy Pelosi is the current Speaker of the House of Representatives."
+    },
+    {
+      "questionText": "What is the nickname of the American flag?",
+      "options": [
+        "The Red, White, and Blue",
+        "The Stars and Stripes",
+        "The Old Glory",
+        "The Star-Spangled Banner"
+      ],
+      "answer": 1,
+      "isFail": false,
+      "explanation": "The American flag is often referred to as the Stars and Stripes."
+    },
+    {
+      "questionText": "Who was the main writer of the Constitution?",
+      "options": [
+        "George Washington",
+        "Thomas Jefferson",
+        "James Madison",
+        "Alexander Hamilton"
+      ],
+      "answer": 2,
+      "isFail": false,
+      "explanation": "James Madison was the main writer of the Constitution."
+    },
+    {
+      "questionText": "What is the highest court in the United States?",
+      "options": [
+        "The Supreme Court",
+        "The Federal Court",
+        "The District Court",
+        "The Appeals Court"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The Supreme Court is the highest court in the United States."
+    },
+    {
+      "questionText": "What are the two major political parties in the United States?",
+      "options": [
+        "Republicans and Democrats",
+        "Liberals and Conservatives",
+        "Socialists and Communists",
+        "Independents and Greens"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The two major political parties in the United States are the Republicans and Democrats."
+    },
+    {
+      "questionText": "What are the three branches of the U.S. government?",
+      "options": [
+        "Executive, Legislative, Judicial",
+        "President, Congress, Senate",
+        "House of Representatives, Senate, Supreme Court",
+        "Republicans, Democrats, Independents"
+      ],
+      "answer": 0,
+      "isFail": false,
+      "explanation": "The three branches of the U.S. government are the Executive, Legislative, and Judicial branches."
+    }
+  ]
+}
 ]
   
 }
