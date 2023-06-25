@@ -1,13 +1,13 @@
 {
-  "testQuestions": 3,
+  "testQuestions": 15,
   "testFailQuestions": 0,
-  "practiceQuestions": 5,
+  "practiceQuestions": 20,
   "passPercent": -1,
-  "passQuestions": 2,
+  "passQuestions": 8,
   "timeInMins": -1,   
   "credits": 3,
-  "practiceMsg": "Answer 3 practice questions",
-  "testMsg": "Answer 5 questions. Correctly answer atleast 2 questions to pass.",
+  "practiceMsg": "Answer 20 practice questions",
+  "testMsg": "Answer 15 questions. Correctly answer atleast 8 questions to pass.",
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": 
  [{
