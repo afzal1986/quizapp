@@ -1,9 +1,9 @@
 {
-  "testQuestions": 15,
+  "testQuestions": 10,
   "testFailQuestions": 0,
   "practiceQuestions": 20,
   "passPercent": -1,
-  "passQuestions": 8,
+  "passQuestions": 6,
   "timeInMins": -1,   
   "credits": 3,
   "practiceMsg": "Answer 20 practice questions",
