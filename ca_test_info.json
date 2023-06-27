@@ -8,8 +8,7 @@
   "credits": 3,
   "practiceMsg": "Answer 20 practice questions",
   "testMsg": "Answer 20 questions. Correctly answer atleast 15 questions to pass the test.",
-  "earnMsg": "Watch sponsored content to earn +3 credits?",
-  {
+  "earnMsg": "Watch sponsored content to earn +3 credits?",  
   "questions": [
     {
       "questionText": "What is the capital city of Canada?",
