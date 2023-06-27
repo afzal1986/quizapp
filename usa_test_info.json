@@ -7,7 +7,7 @@
   "timeInMins": -1,   
   "credits": 3,
   "practiceMsg": "Answer 20 practice questions",
-  "testMsg": "Answer 15 questions. Correctly answer atleast 8 questions to pass.",
+  "testMsg": "Answer 10 questions. Correctly answer atleast 6 questions to pass the test.",
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": 
  [
