@@ -13,7 +13,7 @@
    {
     "questionText": "No person or group is above the law. TRUE or FALSE?",
     "options": [
-      "true",
+      "True",
       "False"
     ],
     "answer": 0,
@@ -55,7 +55,7 @@
   {
     "questionText": "Military service is compulsory in Canada. TRUE or FALSE?",
     "options": [
-      "true",
+      "True",
       "False"
     ],
     "answer": 1,
