@@ -1,12 +1,12 @@
 {
   "testQuestions": 15,
   "testFailQuestions": 5,
-  "practiceQuestions": 30,
+  "practiceQuestions": 75,
   "passPercent": 75,
   "passQuestions": -1,
   "timeInMins": 45,   
   "credits": 3,
-  "practiceMsg": "Answer 30 practice questions",
+  "practiceMsg": "Answer 75 practice questions",
   "testMsg": "Answer 20 questions including 5 value questions in 45 mins.\n\nScore 75% or more to pass the test.",
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": 
