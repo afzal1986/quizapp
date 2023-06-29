@@ -11,246 +11,1226 @@
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": 
  [
-    {
-      "questionText": "Who is the President of the United States?",
-      "options": [
-        "Joe Biden",
-        "Donald Trump",
-        "Barack Obama",
-        "George Washington"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "Joe Biden is the current President of the United States."
-    },
-    {
-      "questionText": "What is the capital of the United States?",
-      "options": [
-        "New York City",
-        "Los Angeles",
-        "Chicago",
-        "Washington, D.C."
-      ],
-      "answer": 3,
-      "isFail": false,
-      "explanation": "Washington, D.C. is the capital of the United States."
-    },
-    {
-      "questionText": "How many stars are there on the American flag?",
-      "options": [
-        "50",
-        "13",
-        "48",
-        "51"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "There are 50 stars on the American flag, representing the 50 states."
-    },
-    {
-      "questionText": "Who wrote the Declaration of Independence?",
-      "options": [
-        "George Washington",
-        "Thomas Jefferson",
-        "John Adams",
-        "Abraham Lincoln"
-      ],
-      "answer": 1,
-      "isFail": false,
-      "explanation": "Thomas Jefferson wrote the Declaration of Independence."
-    },
-    {
-      "questionText": "What is the supreme law of the land in the United States?",
-      "options": [
-        "Declaration of Independence",
-        "Bill of Rights",
-        "Emancipation Proclamation",
-        "Constitution"
-      ],
-      "answer": 3,
-      "isFail": false,
-      "explanation": "The Constitution is the supreme law of the land in the United States."
-    },
-    {
-      "questionText": "Who is the current Vice President of the United States?",
-      "options": [
-        "Kamala Harris",
-        "Mike Pence",
-        "Joe Biden",
-        "Nancy Pelosi"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "Kamala Harris is the current Vice President of the United States."
-    },
-    {
-      "questionText": "What is the economic system in the United States?",
-      "options": [
-        "Socialism",
-        "Communism",
-        "Capitalism",
-        "Feudalism"
-      ],
-      "answer": 2,
-      "isFail": false,
-      "explanation": "The United States has a capitalist economic system."
-    },
-    {
-      "questionText": "Who is considered the 'Father of Our Country'?",
-      "options": [
-        "George Washington",
-        "Thomas Jefferson",
-        "Benjamin Franklin",
-        "Abraham Lincoln"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "George Washington is considered the 'Father of Our Country'."
-    },
-    {
-      "questionText": "What are the first ten amendments to the Constitution called?",
-      "options": [
-        "The Preamble",
-        "The Articles",
-        "The Bill of Rights",
-        "The Amendments"
-      ],
-      "answer": 2,
-      "isFail": false,
-      "explanation": "The first ten amendments to the Constitution are called the Bill of Rights."
-    },
-    {
-      "questionText": "Who has the power to declare war in the United States?",
-      "options": [
-        "The President",
-        "The Supreme Court",
-        "The Congress",
-        "The Secretary of Defense"
-      ],
-      "answer": 2,
-      "isFail": false,
-      "explanation": "The power to declare war lies with the Congress."
-    },
-    {
-      "questionText": "What is the national anthem of the United States?",
-      "options": [
-        "America the Beautiful",
-        "God Bless America",
-        "The Star-Spangled Banner",
-        "My Country, 'Tis of Thee"
-      ],
-      "answer": 2,
-      "isFail": false,
-      "explanation": "The national anthem of the United States is The Star-Spangled Banner."
-    },
-    {
-      "questionText": "When do we celebrate Independence Day in the United States?",
-      "options": [
-        "July 4",
-        "November 11",
-        "January 1",
-        "December 25"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "Independence Day is celebrated on July 4th in the United States."
-    },
-    {
-      "questionText": "Who was the first President of the United States?",
-      "options": [
-        "George Washington",
-        "Thomas Jefferson",
-        "Abraham Lincoln",
-        "John Adams"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "George Washington was the first President of the United States."
-    },
-    {
-      "questionText": "What is the supreme court of the United States?",
-      "options": [
-        "The Federal Court",
-        "The District Court",
-        "The Supreme Court",
-        "The Appeals Court"
-      ],
-      "answer": 2,
-      "isFail": false,
-      "explanation": "The Supreme Court is the highest court in the United States."
-    },
-    {
-      "questionText": "Who is the current Speaker of the House of Representatives?",
-      "options": [
-        "Nancy Pelosi",
-        "Mitch McConnell",
-        "Kamala Harris",
-        "Joe Biden"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "Nancy Pelosi is the current Speaker of the House of Representatives."
-    },
-    {
-      "questionText": "What is the nickname of the American flag?",
-      "options": [
-        "The Red, White, and Blue",
-        "The Stars and Stripes",
-        "The Old Glory",
-        "The Star-Spangled Banner"
-      ],
-      "answer": 1,
-      "isFail": false,
-      "explanation": "The American flag is often referred to as the Stars and Stripes."
-    },
-    {
-      "questionText": "Who was the main writer of the Constitution?",
-      "options": [
-        "George Washington",
-        "Thomas Jefferson",
-        "James Madison",
-        "Alexander Hamilton"
-      ],
-      "answer": 2,
-      "isFail": false,
-      "explanation": "James Madison was the main writer of the Constitution."
-    },
-    {
-      "questionText": "What is the highest court in the United States?",
-      "options": [
-        "The Supreme Court",
-        "The Federal Court",
-        "The District Court",
-        "The Appeals Court"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "The Supreme Court is the highest court in the United States."
-    },
-    {
-      "questionText": "What are the two major political parties in the United States?",
-      "options": [
-        "Republicans and Democrats",
-        "Liberals and Conservatives",
-        "Socialists and Communists",
-        "Independents and Greens"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "The two major political parties in the United States are the Republicans and Democrats."
-    },
-    {
-      "questionText": "What are the three branches of the U.S. government?",
-      "options": [
-        "Executive, Legislative, Judicial",
-        "President, Congress, Senate",
-        "House of Representatives, Senate, Supreme Court",
-        "Republicans, Democrats, Independents"
-      ],
-      "answer": 0,
-      "isFail": false,
-      "explanation": "The three branches of the U.S. government are the Executive, Legislative, and Judicial branches."
-    }
+  {
+    "questionText": "Name two promises that new citizens make in the Oath of Allegiance?",
+    "options": [
+      "Give up loyalty to other countries and defend the (U.S.) Constitution",
+      "Be free to express yourself and not cause trouble",
+      "Serve in the military and bear arms",
+      "To petition the government if it does anything wrong and be employed in the United States"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Who can vote in federal elections, run for federal office, and serve on a jury in the United States?",
+    "options": [
+      "Citizens of the United States",
+      "Permanent Residence of the United States",
+      "Anyone in the United States during time of election",
+      "Anyone"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "How can people become United States citizens?",
+    "options": [
+      "Naturalize",
+      "Derive citizenship",
+      "Be born in the United States",
+      "Any of the above"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What do we show loyalty to when we say the Pledge of Allegiance?",
+    "options": [
+      "Congress",
+      "The President",
+      "The United States",
+      "The state where you live"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Which of the following is a right only for U.S. Citizens?",
+    "options": [
+      "Vote in a federal election and serve on a jury",
+      "Serve on a jury and free access to healthcare",
+      "Run for federal office and serve on a jury.",
+      "Vote in a federal election and run for federal office."
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "It is important for all men age 18 through 25 to register for the Selective Service. Name one reason why?",
+    "options": [
+      "Required by law",
+      "Civic duty",
+      "Makes the draft fair, if needed.",
+      "All of the above."
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "When must all men register for the Selective Service?",
+    "options": [
+      "All male between the age of 16 & 21 must register within 30 days of arriving to the US and within 30 days of their 18th birthday.",
+      "All male between the age of 18 & 21 must register within 30 days of arriving to the US and within 30 days of their 18th birthday.",
+      "All male between the age of 16 & 25 must register within 30 days of arriving to the US and within 30 days of their 18th birthday.",
+      "All male between the age of 18 & 25 must register within 30 days of arriving to the US and within 30 days of their 18th birthday."
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What are two examples of civic participation in the United States?",
+    "options": [
+      "Join a political party and join a civic group",
+      "Get a driver's license and attend school",
+      "Volunteer and pay taxes",
+      "Get a job and protest"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What are the four amendments to the Constitution about who can vote?",
+    "options": [
+      "Citizens twenty one (21) and older (can vote). You don't have to pay (a poll tax) to vote. Any citizen can vote. (Women and men can vote.) A male citizen of any race (can vote).",
+      "Citizens sixteen(16) and older (can vote). You don't have to pay (a poll tax) to vote. Any citizen can vote. (Women and men can vote.) A male citizen of any race (can vote).",
+      "Citizens eighteen (18) and older (can vote). You don't have to pay (a poll tax) to vote. Any citizen and immigrant can vote. (Women and men can vote.) A male citizen of any race (can vote).",
+      "Citizens eighteen (18) and older (can vote). You don't have to pay (a poll tax) to vote. Any citizen can vote. (Women and men can vote.) A male citizen of any race (can vote)."
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the responsibility that is only for U.S. Citizens?",
+    "options": [
+      "Be respectful of others",
+      "Pay taxes",
+      "Serve on a jury",
+      "Obey the law"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Why is it important to pay federal taxes?",
+    "options": [
+      "It's required by law (16th Amendment) and to fund the federal government",
+      "To support our military",
+      "Federal tax is optional and not mandatory",
+      "To support the president of the United States"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What is one way Americans can serve their country?",
+    "options": [
+      "Volunteer",
+      "Protest",
+      "Vote",
+      "Get a job"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What are three rights of everyone living in the United States?",
+    "options": [
+      "Freedom of speech, freedom of religion and freedom of expression",
+      "Freedom of religion, freedom of expression and freedom to make treaties with other countries",
+      "Freedom of speech, freedom of expression and freedom to run for president",
+      "Freedom to petition the government, freedom of expression and freedom to disobey traffic laws"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What U.S. war ended slavery?",
+    "options": [
+      "War of 1812",
+      "The Revolutionary War",
+      "The Civil War",
+      "World War I"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one leader of the women's rights movement in the 1800s.?",
+    "options": [
+      "Susan B. Anthony",
+      "Jane Austen",
+      "Anne Frank",
+      "Maya Angelou"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one war fought by the United States in the 1800s.?",
+    "options": [
+      "Korean War",
+      "World War I",
+      "World War II",
+      "Mexican-American War"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "When did all men get the right to vote?",
+    "options": [
+      "After the Civil War",
+      "During Reconstruction",
+      "(With the) 15th Amendment",
+      "All of the above"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What amendment gives citizenship to all persons born in the United States?",
+    "options": [
+      "11th amendment",
+      "12th amendment",
+      "13th amendment",
+      "14th amendment"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Name the U.S. War between the North and the South.?",
+    "options": [
+      "War of 1812",
+      "The Revolutionary War",
+      "The Civil War",
+      "World War I"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What did the Emancipation Proclamation do?",
+    "options": [
+      "Gave women the right to vote",
+      "Freed slaves in most Southern states",
+      "Gave the United States independence from Great Britain",
+      "Ended World War I"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "The Civil War had many important events. Name one.?",
+    "options": [
+      "War of 1812",
+      "Emancipation Proclamation",
+      "Lincoln assassination",
+      "14th amendment"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "What was one important thing that Abraham Lincoln did?",
+    "options": [
+      "Purchased Alaska",
+      "Declared war on Great Britain",
+      "Established the United Nations",
+      "Saved (or preserved) the Union"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What territory did the U.S. Buy from France in 1803?",
+    "options": [
+      "Louisiana",
+      "Minnesota",
+      "Colorado",
+      "Alabama"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What is Independence Day.?",
+    "options": [
+      "A: A holiday to celebrate U.S. independence (from Britain)",
+      "B: The day when the South seceded from the Union",
+      "C: The country's birthday",
+      "Both A & C"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Name two national U.S. holidays.?",
+    "options": [
+      "Citizenship Day and Columbus Day",
+      "April Fool's Day and Labor Day",
+      "Valentine's Day and President's Day",
+      "Labor Day and Thanksgiving"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What is Veterans Day?",
+    "options": [
+      "A holiday to honor soldiers who died in military service",
+      "A holiday to honor the victims of 9/11",
+      "A holiday that recognizes everyone who served in the Armed Forces",
+      "A holiday to honor the people who died fighting for civil rights"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "When do we celebrate Independence Day?",
+    "options": [
+      "January 1",
+      "July 4",
+      "October 1",
+      "December 25"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "What is Memorial Day?",
+    "options": [
+      "A holiday to honor soldiers who died in military service",
+      "A holiday to honor the victims of 9/11",
+      "A holiday that recognizes everyone who served in the Armed Forces",
+      "A holiday to honor the people who died fighting for civil rights"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Why did the United States enter the Korean War?",
+    "options": [
+      "It was rich in resources",
+      "Fight the Japanese",
+      "Stop the spread of communism",
+      "Stop the spread of fascism"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Dwight Eisenhower is famous for many things. Name one.?",
+    "options": [
+      "General during World War I",
+      "Launched astronauts into space",
+      "Developed nuclear bombs that were dropped into Japan during World War II",
+      "Pulled the United States from the Great Depression"
+    ],
+    "answer": 0
+  },
+  {
+    "questionText": "When did all women get the right to vote?",
+    "options": [
+      "1910",
+      "1920",
+      "1930",
+      "1940"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one American Indian tribe in the United States?",
+    "options": [
+      "Indians",
+      "Seneca",
+      "Mayan",
+      "Aztec"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one U.S. military conflict after the September 11, 2001 attacks?",
+    "options": [
+      "War in Afghanistan",
+      "Persian Gulf War",
+      "World War II",
+      "Vietnam War"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the name of the national anthem?",
+    "options": [
+      "America the Beautiful",
+      "My Country Tis of Thee",
+      "The Star-Spangled Banner",
+      "God Bless the U.S.A."
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Who was the United States' main rival during the Cold War?",
+    "options": [
+      "China",
+      "Great Britain",
+      "Vietnam",
+      "Soviet Union"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Why did the United States enter the Persion Gulf War?",
+    "options": [
+      "stop the spread of communism",
+      "to force the Iraqi military from Kuwait",
+      "stop the spread of Iran's influence",
+      "for its resources"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "When did the Great Depression Start?",
+    "options": [
+      "1920",
+      "1929",
+      "1939",
+      "1949"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one war fought by the United States in the 1900s.?",
+    "options": [
+      "Civil War",
+      "War of 1812",
+      "Revolutionary War",
+      "World War I"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What was the Great Depression?",
+    "options": [
+      "Period of low morale in the country during WWII",
+      "A nickname for the Grand Canyon",
+      "Longest economic recession in modern history",
+      "A long period of time where the United States had the lowest literacy rates"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Who was the President during World War II and the Great Depression?",
+    "options": [
+      "Calvin Coolidge",
+      "Herbert Hoover",
+      "Franklin Roosevelt",
+      "Harry Truman"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What happened on September 11, 2001 in the United States?",
+    "options": [
+      "Terrorists attacked the United States",
+      "The stock market crashed",
+      "Same-sex marriage was legalized",
+      "None of the above"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one example of an American innovation?",
+    "options": [
+      "Skyscrapers",
+      "Light bulb",
+      "Assembly line",
+      "All of the above"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What movement tried to end racial discrimination?",
+    "options": [
+      "Conservation",
+      "Women's suffrage",
+      "Civil rights movement",
+      "Prohibition"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What was the main concern of the United States during the Cold War?",
+    "options": [
+      "Slavery",
+      "Communism",
+      "The Great Depression",
+      "Climate Change"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Why did the United States enter the Vietnam War?",
+    "options": [
+      "It was rich in resources",
+      "Fight the Japanese",
+      "Stop the spread of communism",
+      "Stop the spread of fascism"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What did the civil rights movement do?",
+    "options": [
+      "Gave women the right to vote",
+      "Freed the slaves",
+      "Gave minorities the right to vote",
+      "Fought to end racial discrimination"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Why did the United States enter World War I?",
+    "options": [
+      "1: Because German attacked U.S. (civilian) ships",
+      "2: To support the Allied Powers (England, France, Italy, and Russia) and oppose the central powers",
+      "1 & 2",
+      "3: In retaliation on the attack on Pearl Harbor"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What did Martin Luther King, Jr. do?",
+    "options": [
+      "Ran for the president of the United States",
+      "Fought for women's suffrage",
+      "Became a U.S. Senator",
+      "Fought for civil rights"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Why did the United States enter World War II?",
+    "options": [
+      "Japanese attacked Pearl Harbor",
+      "To get out of the Great Depression",
+      "Give the military something to do",
+      "Fight the threat of communism"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the form of government of the United States?",
+    "options": [
+      "Republic, Constitution-based federal republic and Representative democracy",
+      "Socialism, Constitution-based federal republic and Representative democracy",
+      "Republic, Constitution-based federal republic and Monarchy",
+      "Republic, an oligarchy and Representative democracy"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "How many amendments does the U.S. Constitution have?",
+    "options": [
+      "20",
+      "23",
+      "25",
+      "27"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one thing the U.S. Constitution does?",
+    "options": [
+      "Forms the government",
+      "Protects the people",
+      "Defines powers of government",
+      "All of the above"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What founding document said the American colonies were free from Britain?",
+    "options": [
+      "The U.S. Constitution",
+      "Declaration of Independence",
+      "Bill of Rights",
+      "None of the above"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the economic system of the United States?",
+    "options": [
+      "Capitalism",
+      "Communism",
+      "Socialism",
+      "Feudalism"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What does Bill of Rights protect?",
+    "options": [
+      "Rights of businesses",
+      "Human rights worldwide",
+      "Rights of Americans",
+      "Rights of the British"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "The U.S. Constitution starts with the words \"We the People\". What does \"We the People\" mean?",
+    "options": [
+      "Self government",
+      "Popular sovereignty",
+      "Human rights",
+      "both a & b"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "The words \"Life, Liberty and the pursuit of Happiness\" are in what founding document?",
+    "options": [
+      "The U.S. Constitution",
+      "Declaration of Independence",
+      "Bill of Rights",
+      "Articles of Confederation"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Name two important ideas from the Declaration of Independence and the U.S. Constitution?",
+    "options": [
+      "Equality and Liberty",
+      "Limited government and Socialism",
+      "Monarchy and Socialism",
+      "Religion and Natural rights"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the supreme law of the land?",
+    "options": [
+      "UN Charter of Rights and Freedoms",
+      "The Constitution",
+      "Bill of Rights",
+      "Universal Declaration of Human Rights"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "The \"Rule of law\" is:",
+    "options": [
+      "Everyone must follow the law. Leaders obey some laws but not all. Government must obey the law. No one is above the law.",
+      "Everyone must follow the law. Leaders must obey the law. Government is exempt from some laws. No one is above the law",
+      "Everyone must follow the law. Leaders must obey the law. Government must obey the law. The president is above the law",
+      "Everyone must follow the law. Leaders must obey the law. Government must obey the law. No one is above the law."
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Why is the Declaration of Independence important?",
+    "options": [
+      "A: It says America is free from British Control",
+      "B: It identifies inherent rights",
+      "C: It established another country up north",
+      "Both A & B"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "How many amendments does the U.S. Constitution have?",
+    "options": [
+      "10",
+      "21",
+      "23",
+      "27"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "There are three branches of government. Why?",
+    "options": [
+      "A: Checks and Balances",
+      "B: Separation of powers",
+      "Both A & B",
+      "C: Reduce bureaucracy"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "How are changes made to the U.S. Constitution?",
+    "options": [
+      "Amendments",
+      "Law changes",
+      "Proposals",
+      "Bills"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Many documents influenced the U.S. Constitution. Name two?",
+    "options": [
+      "Declaration of Independence and UN Charter of Human Rights",
+      "Articles of Federation and Fundamental Orders of New York",
+      "Articles of Confederation and Federalist Papers",
+      "Anti-Federalist Papers and Virginia Law of Peace"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "When was the Constitution written?",
+    "options": [
+      "1776",
+      "1786",
+      "1787",
+      "1790"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Who wrote the Declaration of Independence?",
+    "options": [
+      "George Washington",
+      "James Madison",
+      "Thomas Jefferson",
+      "Abraham Lincoln"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "There were ____ original states?",
+    "options": [
+      "13",
+      "10",
+      "7",
+      "5"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "There were 13 original states. Name 5.",
+    "options": [
+      "New York, Kentucky, California, Virginia and Georgia",
+      "Virginia, North Carolina, California, New York and Florida",
+      "Washington, Oregon, New York, Florida and California",
+      "Maryland, Virginia, New York, Delaware and North Carolina"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What group of people was taken and sold as slaves?",
+    "options": [
+      "Africans",
+      "Asians",
+      "Indians",
+      "Native Americans"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Thomas Jefferson is famous for many things. Name one.?",
+    "options": [
+      "Writer of the Declaration of Independence",
+      "General of the Continental Army",
+      "President of the Constitutional Convention",
+      "First president of the United States"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "The colonists fought the British because:",
+    "options": [
+      "Of high taxes, no freedom of speech and they didn't have self-government",
+      "Of poor infrastructure, the British army stayed in their houses and they didn't have self-government",
+      "Of high taxes, the British army stayed in their houses and they didn't have healthcare",
+      "Of high taxes, the British army stayed in their houses and they didn't have their own self-government"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "The American Revolution had many important events. Name two?",
+    "options": [
+      "Battle of Bunker Hill and Battle of Gettysburg",
+      "Declaration of Independence and Washington Crossing the Delaware (Battle of Trenton)",
+      "Battle of Yorktown and the Burning of the White House",
+      "Declaration of Independence and the Freeing of Slaves"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "When was the Declaration of Independence adopted?",
+    "options": [
+      "December 7, 1787",
+      "July 4, 1776",
+      "July 4, 1876",
+      "March 4, 1789"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "What Founding document was written in 1787?",
+    "options": [
+      "US Constitution",
+      "Stamps Act",
+      "Townshend Acts",
+      "Boston Tea Party (Tea Act)"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Who lived in America before the Europeans arrived?",
+    "options": [
+      "Native Americans / American Indians",
+      "Canadians",
+      "Floridians",
+      "No one"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Who was the first President?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Barack Obama",
+      "Theodore Roosevelt"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "What war did the Americans fight to win independence from Britain?",
+    "options": [
+      "War of 1812",
+      "The Civil War",
+      "The Revolutionary War",
+      "Cold War"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Alexander Hamilton is famous for many things. Name one.",
+    "options": [
+      "First Secretary of the Treasury",
+      "Fourth president of the United States",
+      "President during the War of 1812",
+      "\"Father of the Constitution\""
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "James Madison is famous for many things. Name one",
+    "options": [
+      "\"Father of the Constitution\"",
+      "Third president of the United States",
+      "Doubled the size of the United States",
+      "Writer of the Declaration of Independence"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "George Washington is famous for many things. Name one:?",
+    "options": [
+      "First president of the United States",
+      "One of the writers of the Federalist Papers",
+      "Helped establish the First Bank of the United States",
+      "First Secretary of the Treasury"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "options": [
+      "Alexander Hamilton",
+      "George Washington",
+      "Abraham Lincoln",
+      "Lucy Stone"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.",
+    "options": [
+      "John Adams",
+      "George Washington",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What is one thing Benjamin Franklin is famous for?",
+    "options": [
+      "U.S. diplomat",
+      "The youngest member of the Constitutional Convention",
+      "Third president of the United States",
+      "Inventor of the airplane"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Why were the Federalist Papers important?",
+    "options": [
+      "It was the detailed version of the US Constitution",
+      "It rallied people to support the revolution",
+      "They helped people understand and supported the passing of the (U.S.) Constitution.",
+      "It gave people hope"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Why did colonists come to America?",
+    "options": [
+      "For freedom, for economic opportunity and for education",
+      "For freedom, for economic opportunity and for better healthcare",
+      "For freedom, for education and to escape persecution",
+      "For freedom, for economic opportunity and to escape persecution"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Why does the flag have 13 stripes?",
+    "options": [
+      "Because the stripes represent the original colonies",
+      "Because it was considered lucky to have 13 stripes on a flag",
+      "Because the stripes represent the number of signatures on the U.S. Constitution",
+      "Because the stripes represent the members of the Second Continental Congress"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Why does the flag have 50 stars?",
+    "options": [
+      "Because there is one star for each president",
+      "Because there is one star for each state",
+      "Because there were 50 original colonies",
+      "Because there were 50 people who originally came to the United States"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Where is the Statue of Liberty?",
+    "options": [
+      "Long Island",
+      "Boston Harbor",
+      "San Francisco Bay",
+      "New York Harbor"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the capital of the United States?",
+    "options": [
+      "Boston, MA",
+      "New York, NY",
+      "Washington, D.C.",
+      "Philadelphia, PA"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "The Nation's first motto was \"E Pluribus Unum.\" What does that mean?",
+    "options": [
+      "A: Out of many, one",
+      "B: We all become one",
+      "Both A & B",
+      "C: We must become one"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Supreme Court justices serve for life. Why?",
+    "options": [
+      "to save on costs",
+      "to be independent of politics",
+      "to increase their influence on the president",
+      "None of the above"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "How many senators does each state have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "How long do Supreme Court justices serve?",
+    "options": [
+      "1: Until they retire",
+      "2: 4 years",
+      "3: For life",
+      "1 & 3"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "Why do U.S. representatives serve shorter terms than U.S. senators?",
+    "options": [
+      "Representatives quit too frequently",
+      "The president wants more frequent turnover of the representatives",
+      "It aligns with the state elections",
+      "To more closely follow public opinion"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "How many years is a U.S. Senator elected for?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Who elects members of the House of Representatives?",
+    "options": [
+      "Citizens from their congressional district",
+      "Citizens of the state",
+      "Residence of the state",
+      "All Citizens in the US"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "Name the powers of the U.S. Congress.",
+    "options": [
+      "Writes laws, Declares war and makes the federal budget.",
+      "Writes laws, select cabinet members and makes the federal budget",
+      "Selects the supreme court judges, writes laws and makes federal budget",
+      "Writes laws, selects the supreme court judges and declares war"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the purpose of the 10th Amendment?",
+    "options": [
+      "All people have equal rights",
+      "Allows citizens to own guns",
+      "Powers not given to the federal government belong to the states or to the people",
+      "Limits the president to two terms"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What are two Cabinet-level positions?",
+    "options": [
+      "Secretary of Health and Human Services and Secretary of the Navy",
+      "Secretary of Weather and Secretary of Energy",
+      "Secretary of the Interior and Secretary of History",
+      "Secretary of State and Secretary of Labor"
+    ],
+    "answer": 3,
+    "isFail": false
+  },
+  {
+    "questionText": "The House of Representatives has how many voting members?",
+    "options": [
+      "100",
+      "200",
+      "435",
+      "441"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "How many justices are on the Supreme Court?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "Name one part of the executive branch?",
+    "options": [
+      "Any of the below",
+      "President of the United States",
+      "Cabinet",
+      "Federal departments and agencies"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "The President of the United States is in charge of which branch of government?",
+    "options": [
+      "Legislative Branch",
+      "Executive Branch",
+      "Judicial branch",
+      "The courts"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "How many Supreme Court justices are usually needed to decide a case?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": 2,
+    "isFail": false
+  },
+  {
+    "questionText": "What is the highest court in the United States?",
+    "options": [
+      "The District Court",
+      "The Supreme Court",
+      "The Federal Court",
+      "The Court of Appeals"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+    "options": [
+      "To declare war",
+      "To issue driver's licenses",
+      "To provide schooling and education",
+      "To provide protection (police)"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "What are the two parts of the U.S. Congress?",
+    "options": [
+      "The Senate and House of Representatives",
+      "The courts and the Senate",
+      "The courts and House of Representatives",
+      "The Legislature and the Senate"
+    ],
+    "answer": 0,
+    "isFail": false
+  },
+  {
+    "questionText": "How many years is a U.S. Representative elected for?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Who is the Commander in Chief of the military?",
+    "options": [
+      "The Vice President",
+      "The President",
+      "The Attorney General",
+      "The Secretary of Defense"
+    ],
+    "answer": 1,
+    "isFail": false
+  },
+  {
+    "questionText": "Under our Constitution, which of the following is NOT a power of the states?",
+    "options": [
+      "To give a driver's license",
+      "To create an army",
+      "To approve zoning and land use",
+      "To provide education"
+    ],
+    "answer": 1,
+    "isFail": false
+  }
 ]
   
 }
