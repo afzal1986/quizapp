@@ -1,13 +1,13 @@
 {
   "testQuestions": 20,
   "testFailQuestions": 0,
-  "practiceQuestions": 40,
+  "practiceQuestions": 80,
   "passPercent": -1,
   "passQuestions": 15,
   "timeInMins": 30,   
   "credits": 3,
-  "practiceMsg": "Answer 40 practice questions",
-  "testMsg": "Answer 20 questions. Correctly answer atleast 15 questions to pass the test.",
+  "practiceMsg": "Answer 80 practice questions.\n\nNo time limit.",
+  "testMsg": "Answer 20 questions.\n\nCorrectly answer atleast 15 questions in 30 mins to pass the test.",
   "earnMsg": "Watch sponsored content to earn +3 credits?",  
   "questions": [
    {
@@ -232,7 +232,7 @@
     "isFail": false
   },
   {
-    "questionText": "More than half the population is Aboriginal (Dene, Inuit and M�tis) in The Northwest Territories?",
+    "questionText": "More than half the population is Aboriginal (Dene, Inuit and Métis) in The Northwest Territories?",
     "options": [
       "True",
       "False"
