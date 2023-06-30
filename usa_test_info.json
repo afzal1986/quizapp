@@ -618,10 +618,10 @@
   {
     "questionText": "The U.S. Constitution starts with the words \"We the People\". What does \"We the People\" mean?",
     "options": [
-      "Self government",
-      "Popular sovereignty",
-      "Human rights",
-      "both a & b"
+      "A: Self government",
+      "B: Popular sovereignty",
+      "C: Human rights",
+      "Both A & B"
     ],
     "answer": 3,
     "isFail": false
