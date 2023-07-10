@@ -10,5 +10,645 @@
    "testMsg":"Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
    "earnMsg":"Watch sponsored content to earn +3 credits?",
    "questions":[
+      {
+         "questionText":"Which movie features the character Luke Skywalker and his battle against the Galactic Empire?",
+         "options":[
+            "Star Trek",
+            "Star Wars",
+            "The Matrix",
+            "Jurassic Park"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie is about a group of superheroes, including Iron Man, Captain America, and Thor, teaming up to save the world?",
+         "options":[
+            "The Avengers",
+            "Justice League",
+            "X-Men",
+            "Guardians of the Galaxy"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a young wizard named Harry Potter and his adventures at Hogwarts School of Witchcraft and Wizardry?",
+         "options":[
+            "The Lord of the Rings",
+            "Harry Potter and the Sorcerer's Stone",
+            "The Hunger Games",
+            "Twilight"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie tells the story of a clownfish named Nemo who gets separated from his father and embarks on a journey to find him?",
+         "options":[
+            "Finding Nemo",
+            "Toy Story",
+            "Shrek",
+            "Frozen"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie features a young lion named Simba and his journey to reclaim his kingdom from his uncle Scar?",
+         "options":[
+            "The Lion King",
+            "Aladdin",
+            "Mulan",
+            "Beauty and the Beast"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a robot named WALL-E who falls in love and embarks on a space adventure?",
+         "options":[
+            "WALL-E",
+            "Up",
+            "Inside Out",
+            "Cars"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a sci-fi epic set in a post-apocalyptic world and follows the journey of a man named Neo, who discovers the truth about his reality?",
+         "options":[
+            "The Matrix",
+            "Inception",
+            "Blade Runner",
+            "Interstellar"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a romantic comedy about a woman named Bridget Jones and her quest for love?",
+         "options":[
+            "Notting Hill",
+            "Love Actually",
+            "Bridget Jones's Diary",
+            "Pretty Woman"
+         ],
+         "answer":2
+      },
+      {
+         "questionText":"Which movie is about a group of friends who go on a road trip to find a dead body and learn important life lessons along the way?",
+         "options":[
+            "Stand by Me",
+            "The Goonies",
+            "The Breakfast Club",
+            "Ferris Bueller's Day Off"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a young girl named Dorothy who is transported to a magical land called Oz?",
+         "options":[
+            "The Wizard of Oz",
+            "Alice in Wonderland",
+            "Peter Pan",
+            "The Chronicles of Narnia"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie tells the story of a young boy named Elliot who befriends an extraterrestrial being?",
+         "options":[
+            "E.T. the Extra-Terrestrial",
+            "Close Encounters of the Third Kind",
+            "Starman",
+            "Contact"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a criminal mastermind named Hannibal Lecter and the FBI agent who seeks his help to catch another serial killer?",
+         "options":[
+            "The Silence of the Lambs",
+            "Se7en",
+            "American Psycho",
+            "Zodiac"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a fantasy adventure about a young girl named Dorothy who is transported to a mystical world and must defeat a wicked witch?",
+         "options":[
+            "Pan's Labyrinth",
+            "Coraline",
+            "The Princess Bride",
+            "The NeverEnding Story"
+         ],
+         "answer":3
+      },
+      {
+         "questionText":"Which movie is about a group of astronauts who embark on a mission to save Earth by traveling through a wormhole?",
+         "options":[
+            "Gravity",
+            "The Martian",
+            "Interstellar",
+            "Apollo 13"
+         ],
+         "answer":2
+      },
+      {
+         "questionText":"Which movie tells the story of a young ballerina who gets caught up in a supernatural rivalry between the White Swan and the Black Swan?",
+         "options":[
+            "Black Swan",
+            "La La Land",
+            "The Red Shoes",
+            "Whiplash"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a man named Forrest Gump and his extraordinary life journey?",
+         "options":[
+            "Forrest Gump",
+            "The Shawshank Redemption",
+            "Pulp Fiction",
+            "The Green Mile"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a romantic drama about a young couple who fall in love despite their cultural differences?",
+         "options":[
+            "Romeo and Juliet",
+            "Casablanca",
+            "The Notebook",
+            "Titanic"
+         ],
+         "answer":2
+      },
+      {
+         "questionText":"Which movie is about a young woman who becomes the assistant to a demanding fashion magazine editor?",
+         "options":[
+            "The Devil Wears Prada",
+            "Mean Girls",
+            "Legally Blonde",
+            "Clueless"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a sci-fi thriller about a team of explorers who travel through a wormhole in search of a new habitable planet?",
+         "options":[
+            "Inception",
+            "Interstellar",
+            "The Martian",
+            "Arrival"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie is about a young man named Will Hunting who possesses extraordinary mathematical abilities?",
+         "options":[
+            "Good Will Hunting",
+            "A Beautiful Mind",
+            "The Social Network",
+            "The Pursuit of Happyness"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a high school teacher who inspires his students through unorthodox teaching methods?",
+         "options":[
+            "Dead Poets Society",
+            "Stand and Deliver",
+            "Goodbye, Mr. Chips",
+            "Mr. Holland's Opus"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a group of rebels who embark on a mission to steal the plans for the Death Star?",
+         "options":[
+            "Star Wars: Episode IV - A New Hope",
+            "Rogue One: A Star Wars Story",
+            "Star Wars: Episode VII - The Force Awakens",
+            "Star Wars: Episode VI - Return of the Jedi"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie tells the story of a young girl who is swept away to a magical world where she encounters various colorful characters?",
+         "options":[
+            "Alice in Wonderland",
+            "Labyrinth",
+            "The Chronicles of Narnia",
+            "The Wizard of Oz"
+         ],
+         "answer":3
+      },
+      {
+         "questionText":"Which movie features the character Luke Skywalker and his battle against the Galactic Empire?",
+         "options":[
+            "Star Trek",
+            "Star Wars",
+            "The Matrix",
+            "Jurassic Park"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie is about a group of superheroes, including Iron Man, Captain America, and Thor, teaming up to save the world?",
+         "options":[
+            "The Avengers",
+            "Justice League",
+            "X-Men",
+            "Guardians of the Galaxy"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a young wizard named Harry Potter and his adventures at Hogwarts School of Witchcraft and Wizardry?",
+         "options":[
+            "The Lord of the Rings",
+            "Harry Potter and the Sorcerer's Stone",
+            "The Hunger Games",
+            "Twilight"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie tells the story of a clownfish named Nemo who gets separated from his father and embarks on a journey to find him?",
+         "options":[
+            "Finding Nemo",
+            "Toy Story",
+            "Shrek",
+            "Frozen"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie features a young lion named Simba and his journey to reclaim his kingdom from his uncle Scar?",
+         "options":[
+            "The Lion King",
+            "Aladdin",
+            "Mulan",
+            "Beauty and the Beast"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a robot named WALL-E who falls in love and embarks on a space adventure?",
+         "options":[
+            "WALL-E",
+            "Up",
+            "Inside Out",
+            "Cars"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a sci-fi epic set in a post-apocalyptic world and follows the journey of a man named Neo, who discovers the truth about his reality?",
+         "options":[
+            "The Matrix",
+            "Inception",
+            "Blade Runner",
+            "Interstellar"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a romantic comedy about a woman named Bridget Jones and her quest for love?",
+         "options":[
+            "Notting Hill",
+            "Love Actually",
+            "Bridget Jones's Diary",
+            "Pretty Woman"
+         ],
+         "answer":2
+      },
+      {
+         "questionText":"Which movie is about a group of friends who go on a road trip to find a dead body and learn important life lessons along the way?",
+         "options":[
+            "Stand by Me",
+            "The Goonies",
+            "The Breakfast Club",
+            "Ferris Bueller's Day Off"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a young girl named Dorothy who is transported to a magical land called Oz?",
+         "options":[
+            "The Wizard of Oz",
+            "Alice in Wonderland",
+            "Peter Pan",
+            "The Chronicles of Narnia"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie tells the story of a young boy named Elliot who befriends an extraterrestrial being?",
+         "options":[
+            "E.T. the Extra-Terrestrial",
+            "Close Encounters of the Third Kind",
+            "Starman",
+            "Contact"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a criminal mastermind named Hannibal Lecter and the FBI agent who seeks his help to catch another serial killer?",
+         "options":[
+            "The Silence of the Lambs",
+            "Se7en",
+            "American Psycho",
+            "Zodiac"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a fantasy adventure about a young girl named Dorothy who is transported to a mystical world and must defeat a wicked witch?",
+         "options":[
+            "Pan's Labyrinth",
+            "Coraline",
+            "The Princess Bride",
+            "The NeverEnding Story"
+         ],
+         "answer":3
+      },
+      {
+         "questionText":"Which movie is about a group of astronauts who embark on a mission to save Earth by traveling through a wormhole?",
+         "options":[
+            "Gravity",
+            "The Martian",
+            "Interstellar",
+            "Apollo 13"
+         ],
+         "answer":2
+      },
+      {
+         "questionText":"Which movie tells the story of a young ballerina who gets caught up in a supernatural rivalry between the White Swan and the Black Swan?",
+         "options":[
+            "Black Swan",
+            "La La Land",
+            "The Red Shoes",
+            "Whiplash"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a man named Forrest Gump and his extraordinary life journey?",
+         "options":[
+            "Forrest Gump",
+            "The Shawshank Redemption",
+            "Pulp Fiction",
+            "The Green Mile"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a romantic drama about a young couple who fall in love despite their cultural differences?",
+         "options":[
+            "Romeo and Juliet",
+            "Casablanca",
+            "The Notebook",
+            "Titanic"
+         ],
+         "answer":2
+      },
+      {
+         "questionText":"Which movie is about a young woman who becomes the assistant to a demanding fashion magazine editor?",
+         "options":[
+            "The Devil Wears Prada",
+            "Mean Girls",
+            "Legally Blonde",
+            "Clueless"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a sci-fi thriller about a team of explorers who travel through a wormhole in search of a new habitable planet?",
+         "options":[
+            "Inception",
+            "Interstellar",
+            "The Martian",
+            "Arrival"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie is about a young man named Will Hunting who possesses extraordinary mathematical abilities?",
+         "options":[
+            "Good Will Hunting",
+            "A Beautiful Mind",
+            "The Social Network",
+            "The Pursuit of Happyness"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a high school teacher who inspires his students through unorthodox teaching methods?",
+         "options":[
+            "Dead Poets Society",
+            "Stand and Deliver",
+            "Goodbye, Mr. Chips",
+            "Mr. Holland's Opus"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a group of rebels who embark on a mission to steal the plans for the Death Star?",
+         "options":[
+            "Star Wars: Episode IV - A New Hope",
+            "Rogue One: A Star Wars Story",
+            "Star Wars: Episode VII - The Force Awakens",
+            "Star Wars: Episode VI - Return of the Jedi"
+         ],
+         "answer":1
+      },
+      {
+         "questionText":"Which movie tells the story of a young girl who is swept away to a magical world where she encounters various colorful characters?",
+         "options":[
+            "Alice in Wonderland",
+            "Labyrinth",
+            "The Chronicles of Narnia",
+            "The Wizard of Oz"
+         ],
+         "answer":3
+      },
+      {
+         "questionText":"Which movie is about a young boy who discovers he is a wizard and attends a magical schoolof witchcraft and wizardry?",
+         "options":[
+            "Harry Potter and the Sorcerer's Stone",
+            "The Lord of the Rings",
+            "Twilight",
+            "The Hunger Games"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a classic romantic comedy about two people who meet on a ship and fall in love despite being from different social classes?",
+         "options":[
+            "Titanic",
+            "Casablanca",
+            "The Notebook",
+            "Gone with the Wind"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a group of thieves who plan and execute a heist on the Bellagio, Mirage, and MGM Grand casinos in Las Vegas?",
+         "options":[
+            "Ocean's Eleven",
+            "The Italian Job",
+            "Heat",
+            "The Usual Suspects"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a young girl who is accidentally left behind by her family during Christmas and must defend her home from burglars?",
+         "options":[
+            "Home Alone",
+            "The Santa Clause",
+            "Elf",
+            "A Christmas Carol"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a fantasy adventure about a young girl who enters a magical world through a wardrobe and helps to defeat an evil witch?",
+         "options":[
+            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "Harry Potter and the Philosopher's Stone",
+            "Alice in Wonderland",
+            "Pan's Labyrinth"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a sci-fi action film about a cyborg assassin who travels back in time to kill the mother of a future resistance leader?",
+         "options":[
+            "The Terminator",
+            "Blade Runner",
+            "RoboCop",
+            "Ex Machina"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a coming-of-age drama about a young boy who befriends a creature from another planet and helps him return home?",
+         "options":[
+            "E.T. the Extra-Terrestrial",
+            "Close Encounters of the Third Kind",
+            "Starman",
+            "Contact"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a psychological thriller about a man who suffers from short-term memory loss and tries to solve the mystery of his wife's murder?",
+         "options":[
+            "Memento",
+            "The Sixth Sense",
+            "Gone Girl",
+            "Shutter Island"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a group of misfit kids who go on an adventure to find a hidden treasure and encounter dangerous criminals?",
+         "options":[
+            "The Goonies",
+            "Stand by Me",
+            "Super 8",
+            "The Sandlot"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a musical romantic comedy about a woman who loves singing and the man who helps her achieve her dreams?",
+         "options":[
+            "La La Land",
+            "Moulin Rouge!",
+            "The Greatest Showman",
+            "Chicago"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is about a young girl who discovers her magical powers and must save her kingdom from an eternal winter?",
+         "options":[
+            "Frozen",
+            "Tangled",
+            "Moana",
+            "Brave"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a sci-fi thriller about a hacker who discovers the true nature of reality and leads a rebellion against machines?",
+         "options":[
+            "The Matrix",
+            "Inception",
+            "Blade Runner",
+            "Interstellar"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a comedy about a man who is cursed to live the same day over and over again until he learns the value of selflessness?",
+         "options":[
+            "Groundhog Day",
+            "Back to the Future",
+            "Hot Tub Time Machine",
+            "Bill & Ted's Excellent Adventure"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a romantic drama about a young couple who meet on a train and spend a magical night together in Vienna?",
+         "options":[
+            "Before Sunrise",
+            "Eternal Sunshine of the Spotless Mind",
+            "Her",
+            "Blue Valentine"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a crime drama about two mob hitmen who have philosophical discussions while carrying out their assignments?",
+         "options":[
+            "Pulp Fiction",
+            "Goodfellas",
+            "Reservoir Dogs",
+            "The Departed"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a fantasy adventure about a young boy who discovers he is a wizard and must defeat a dark wizard?",
+         "options":[
+            "Harry Potter and the Sorcerer's Stone",
+            "The Lord of the Rings: The Fellowship of the Ring",
+            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "Percy Jackson & the Olympians: The Lightning Thief"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a romantic comedy about a woman who hires a male escort to pose as her boyfriend for a family event?",
+         "options":[
+            "Pretty Woman",
+            "Notting Hill",
+            "The Proposal",
+            "Crazy Rich Asians"
+         ],
+         "answer":0
+      },
+      {
+         "questionText":"Which movie is a superhero film about a billionaire genius who builds a high-tech suit to become a crime-fighting vigilante?",
+         "options":[
+            "Iron Man",
+            "The Dark Knight",
+            "Spider-Man",
+            "Black Panther"
+         ],
+         "answer":0
+      }
    ]
 }
