@@ -1,0 +1,14 @@
+{
+   "testQuestions":15,
+   "testFailQuestions":0,
+   "practiceQuestions":40,
+   "passPercent":75,
+   "passQuestions":-1,
+   "timeInMins":10,
+   "credits":3,
+   "practiceMsg":"Answer 40 practice questions.\n\nNo time limit.",
+   "testMsg":"Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
+   "earnMsg":"Watch sponsored content to earn +3 credits?",
+   "questions":[
+   ]
+}
