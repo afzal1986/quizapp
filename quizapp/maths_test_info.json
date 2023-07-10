@@ -1,0 +1,296 @@
+[
+  {
+    "questionText": "What is the value of pi (π) correct to two decimal places?",
+    "options": ["3.14", "3.16", "3.18", "3.12"],
+    "answer": 0,
+    "explanation": "The value of pi (π) correct to two decimal places is 3.14."
+  },
+  {
+    "questionText": "Simplify the expression: 2 + 3 × 4 - 1",
+    "options": ["9", "13", "15", "19"],
+    "answer": 1,
+    "explanation": "Using the order of operations, the expression simplifies to 13."
+  },
+  {
+    "questionText": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "answer": 2,
+    "explanation": "The square root of 144 is 12."
+  },
+  {
+    "questionText": "Solve the equation: 2x + 5 = 15",
+    "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+    "answer": 0,
+    "explanation": "Subtracting 5 from both sides and then dividing by 2, we find that x = 5."
+  },
+  {
+    "questionText": "What is the area of a circle with a radius of 5 units?",
+    "options": ["25π", "50π", "75π", "100π"],
+    "answer": 0,
+    "explanation": "The area of a circle is given by the formula A = πr². Substituting the radius value, we have A = 25π."
+  },
+  {
+    "questionText": "Evaluate: 3² - 4 × 2 + 5",
+    "options": ["5", "9", "11", "17"],
+    "answer": 1,
+    "explanation": "Using the order of operations, the expression simplifies to 9."
+  },
+  {
+    "questionText": "What is the value of 5! (5 factorial)?",
+    "options": ["20", "60", "120", "240"],
+    "answer": 2,
+    "explanation": "5! (5 factorial) is equal to 5 × 4 × 3 × 2 × 1, which equals 120."
+  },
+  {
+    "questionText": "Solve the equation: 2(x - 3) = 10",
+    "options": ["x = 4", "x = 5", "x = 6", "x = 7"],
+    "answer": 1,
+    "explanation": "Dividing both sides by 2 and then adding 3, we find that x = 5."
+  },
+  {
+    "questionText": "What is the perimeter of a rectangle with length 8 units and width 5 units?",
+    "options": ["13", "18", "26", "48"],
+    "answer": 2,
+    "explanation": "The perimeter of a rectangle is given by the formula P = 2(length + width). Substituting the values, we have P = 2(8 + 5) = 26."
+  },
+  {
+    "questionText": "Find the value of x in the equation: 3x - 7 = 8",
+    "options": ["x = 3", "x = 5", "x = 7", "x = 9"],
+    "answer": 3,
+    "explanation": "Adding 7 to both sides and then dividing by 3, we find that x = 9."
+  },
+  {
+    "questionText": "What is the area of a triangle with base 6 units and height 4 units?",
+    "options": ["10", "12", "16", "24"],
+    "answer": 1,
+    "explanation": "The area of a triangle is given by the formula A = (base × height) / 2. Substituting the values, we have A = (6 × 4) / 2 = 12."
+  },
+  {
+    "questionText": "Simplify the expression: 4² + 3 × 2 - 5",
+    "options": ["10", "11", "13", "16"],
+    "answer": 2,
+    "explanation": "Using the order of operations, the expression simplifies to 13."
+  },
+  {
+    "questionText": "What is the square root of 49?",
+    "options": ["4", "6", "7", "9"],
+    "answer": 2,
+    "explanation": "The square root of 49 is 7."
+  },
+  {
+    "questionText": "Solve the equation: 3x + 2 = 14",
+    "options": ["x = 4", "x = 6", "x = 8", "x = 10"],
+    "answer": 1,
+    "explanation": "Subtracting 2 from both sides and then dividing by 3, we find that x = 4."
+  },
+  {
+    "questionText": "What is the area of a circle with a radius of 8 units?",
+    "options": ["32π", "64π", "128π", "256π"],
+    "answer": 1,
+    "explanation": "The area of a circle is given by the formula A = πr². Substituting the radius value, we have A = 64π."
+  },
+  {
+    "questionText": "Evaluate: 4² - 3 × 2 + 7",
+    "options": ["8", "11", "13", "17"],
+    "answer": 2,
+    "explanation": "Using the order of operations, the expression simplifies to 13."
+  },
+  {
+    "questionText": "What is the value of 6! (6 factorial)?",
+    "options": ["48", "120", "360", "720"],
+    "answer": 3,
+    "explanation": "6! (6 factorial) is equal to 6 × 5 × 4 × 3 × 2 × 1, which equals 720."
+  },
+  {
+    "questionText": "Solve the equation: 3(x - 4) = 21",
+    "options": ["x = 5", "x = 7", "x = 9", "x = 11"],
+    "answer": 2,
+    "explanation": "Dividing both sides by 3 and then adding 4, we find that x = 9."
+  },
+  {
+    "questionText": "What is the perimeter of a rectangle with length 10 units and width 7 units?",
+    "options": ["17", "24", "34", "48"],
+    "answer": 2,
+    "explanation": "The perimeter of a rectangle is given by the formula P = 2(length + width). Substituting the values, we have P = 2(10 + 7) = 34."
+  },
+  {
+    "questionText": "Find the value of x in the equation: 2x + 3 = 11",
+    "options": ["x = 4", "x = 5", "x = 6", "x = 7"],
+    "answer": 1,
+    "explanation": "Subtracting 3 from both sides and then dividing by 2, we find that x = 4."
+  },
+  {
+    "questionText": "What is the area of a triangle with base 8 units and height 6 units?",
+    "options": ["18", "24", "32", "48"],
+    "answer": 2,
+    "explanation": "The area of a triangle is given by the formula A = (base × height) / 2. Substituting the values, we have A = (8 × 6) / 2 = 24."
+  },
+  {
+    "questionText": "Simplify the expression: 5² + 4 × 3 - 2",
+    "options": ["21", "27", "31", "37"],
+    "answer": 1,
+    "explanation": "Using the order of operations, the expression simplifies to 27."
+  },
+  {
+    "questionText": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "answer": 2,
+    "explanation": "The square root of 64 is 8."
+  },
+  {
+    "questionText": "Solve the equation: 4x - 6 = 18",
+    "options": ["x = 6", "x = 8", "x = 10", "x = 12"],
+    "answer": 1,
+    "explanation": "Adding 6 to both sides and then dividing by 4, we find that x = 8."
+  },
+  {
+    "questionText": "What is the perimeter of a square with sides measuring 9 units?",
+    "options": ["27", "36", "45", "54"],
+    "answer": 3,
+    "explanation": "The perimeter of a square is given by the formula P = 4s, where s is the length of a side. Substituting the value, we have P = 4(9) = 36."
+  },
+  {
+    "questionText": "Find the value of x in the equation: 5x - 2 = 23",
+    "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+    "answer": 2,
+    "explanation": "Adding 2 to both sides and then dividing by 5, we find that x = 7."
+  },
+  {
+    "questionText": "What is the area of a circle with a radius of 10 units?",
+    "options": ["100π", "200π", "300π", "400π"],
+    "answer": 0,
+    "explanation": "The area of a circle is given by the formula A = πr². Substituting the radius value, we have A = 100π."
+  },
+  {
+    "questionText": "Evaluate: 2² - 4 × 3 + 5",
+    "options": ["-1", "1", "3", "7"],
+    "answer": 0,
+    "explanation": "Using the order of operations, the expression simplifies to -1."
+  },
+  {
+    "questionText": "What is the value of 7! (7 factorial)?",
+    "options": ["120", "504", "1,260", "5,040"],
+    "answer": 2,
+    "explanation": "7! (7 factorial) is equal to 7 × 6 × 5 × 4 × 3 × 2 × 1, which equals 1,260."
+  },
+  {
+    "questionText": "Solve the equation: 2(x + 5) = 18",
+    "options": ["x = 3", "x = 4", "x = 6", "x = 7"],
+    "answer": 1,
+    "explanation": "Dividing both sides by 2 and then subtracting 5, we find that x = 4."
+  },
+  {
+    "questionText": "What is the perimeter of a rectangle with length 12 units and width 9 units?",
+    "options": ["30", "42", "48", "60"],
+    "answer": 2,
+    "explanation": "The perimeter of a rectangle is given by the formula P = 2(length + width). Substituting the values, we have P = 2(12 + 9) = 48."
+  },
+  {
+    "questionText": "Find the value of x in the equation: 3x + 7 = 25",
+    "options": ["x = 6", "x =8", "x = 9", "x = 10"],
+    "answer": 1,
+    "explanation": "Subtracting 7 from both sides and then dividing by 3, we find that x = 6."
+  },
+  {
+    "questionText": "What is the area of a triangle with base 10 units and height 8 units?",
+    "options": ["20", "32", "40", "48"],
+    "answer": 2,
+    "explanation": "The area of a triangle is given by the formula A = (base × height) / 2. Substituting the values, we have A = (10 × 8) / 2 = 40."
+  },
+  {
+    "questionText": "Simplify the expression: 6² + 5 × 3 - 4",
+    "options": ["34", "41", "47", "54"],
+    "answer": 1,
+    "explanation": "Using the order of operations, the expression simplifies to 41."
+  },
+  {
+    "questionText": "What is the square root of 81?",
+    "options": ["7", "8", "9", "10"],
+    "answer": 2,
+    "explanation": "The square root of 81 is 9."
+  },
+  {
+    "questionText": "Solve the equation: 5x - 3 = 22",
+    "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+    "answer": 2,
+    "explanation": "Adding 3 to both sides and then dividing by 5, we find that x = 7."
+  },
+  {
+    "questionText": "What is the perimeter of a square with sides measuring 12 units?",
+    "options": ["24", "36", "48", "60"],
+    "answer": 3,
+    "explanation": "The perimeter of a square is given by the formula P = 4s, where s is the length of a side. Substituting the value, we have P = 4(12) = 48."
+  },
+  {
+    "questionText": "Find the value of x in the equation: 4x + 2 = 30",
+    "options": ["x = 6", "x = 7", "x = 8", "x = 9"],
+    "answer": 1,
+    "explanation": "Subtracting 2 from both sides and then dividing by 4, we find that x = 7."
+  },
+  {
+    "questionText": "What is the area of a circle with a radius of 12 units?",
+    "options": ["144π", "288π", "432π", "576π"],
+    "answer": 0,
+    "explanation": "The area of a circle is given by the formula A = πr². Substituting the radius value, we have A = 144π."
+  },
+  {
+    "questionText": "Evaluate: 3² - 2 × 4 + 6",
+    "options": ["5", "7", "9", "11"],
+    "answer": 2,
+    "explanation": "Using the order of operations, the expression simplifies to 9."
+  },
+  {
+    "questionText": "What is the value of 8! (8 factorial)?",
+    "options": ["40320", "64512", "80640", "96768"],
+    "answer": 0,
+    "explanation": "8! (8 factorial) is equal to 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1, which equals 40,320."
+  },
+  {
+    "questionText": "Solve the equation: 2(x - 2) = 14",
+    "options": ["x = 5", "x = 6", "x = 7", "x = 8"],
+    "answer": 1,
+    "explanation": "Dividing both sides by 2 and then adding 2, we find that x = 6."
+  },
+  {
+    "questionText": "What is the perimeter of a rectangle with length 15 units and width 11 units?",
+    "options": ["32", "52", "56", "92"],
+    "answer": 3,
+    "explanation": "The perimeter of a rectangle is given by the formula P = 2(length + width). Substituting the values, we have P = 2(15 + 11) = 92."
+  },
+  {
+    "questionText": "Find the value of x in the equation: 3x + 5 = 26",
+    "options": ["x = 7", "x = 8", "x = 9", "x = 10"],
+    "answer": 0,
+    "explanation": "Subtracting 5 from both sides and then dividing by 3, we find that x = 7."
+  },
+  {
+    "questionText": "What is the area of a triangle with base 12 units and height 9 units?",
+    "options": ["36", "54", "63", "108"],
+    "answer": 2,
+    "explanation": "The area of a triangle is given by the formula A = (base × height) / 2. Substituting the values, we have A = (12 × 9) / 2 = 54."
+  },
+  {
+    "questionText": "Simplify the expression: 7² + 6 × 2 - 3",
+    "options": ["38", "47", "55", "64"],
+    "answer": 2,
+    "explanation": "Using the order of operations, the expression simplifies to 55."
+  },
+  {
+    "questionText": "What is the square root of 100?",
+    "options": ["8", "9", "10", "11"],
+    "answer": 2,
+    "explanation": "The square root of 100 is 10."
+  },
+  {
+    "questionText": "Solve the equation: 4x - 5 = 27",
+    "options": ["x = 8", "x = 9", "x = 10", "x = 11"],
+    "answer": 1,
+    "explanation": "Adding 5 to both sides and then dividing by 4, we find that x = 9."
+  },
+  {
+    "questionText": "What is the perimeter of a square with sides measuring 15 units?",
+    "options": ["30", "45", "60", "75"],
+    "answer": 2,
+    "explanation": "The perimeter of a square is given by the formula P = 4s, where s is the length of a side. Substituting the value, we have P = 4(15) = 60."
+  }
+]
