@@ -186,7 +186,8 @@
         "Belmopan",
         "Porto-Novo",
         "Thimphu",
-        "Sucre (de jure)"
+        "Sucre (de jure)",
+        ""
       ],
       "answer": 0
     },
@@ -195,8 +196,9 @@
       "options": [
         "Porto-Novo",
         "Thimphu",
-        "Sucre (de jure)",
-        "La Paz (seat of government)"
+        "Sucre (de jure)",
+        "",
+        "La Paz (seat of government)"
       ],
       "answer": 0
     },
@@ -204,8 +206,9 @@
       "questionText": "What is the capital of Bhutan?",
       "options": [
         "Thimphu",
-        "Sucre (de jure)",
-        "La Paz (seat of government)",
+        "Sucre (de jure)",
+        "",
+        "La Paz (seat of government)",
         "Sarajevo"
       ],
       "answer": 0
@@ -506,7 +509,8 @@
         "Quito",
         "Cairo",
         "San Salvador",
-        "Malabo (de jure)"
+        "Malabo (de jure)",
+        ""
       ],
       "answer": 0
     },
@@ -515,8 +519,9 @@
       "options": [
         "Cairo",
         "San Salvador",
-        "Malabo (de jure)",
-        "Oyala (seat of government)"
+        "Malabo (de jure)",
+        "",
+        "Oyala (seat of government)"
       ],
       "answer": 0
     },
@@ -524,8 +529,9 @@
       "questionText": "What is the capital of El Salvador?",
       "options": [
         "San Salvador",
-        "Malabo (de jure)",
-        "Oyala (seat of government)",
+        "Malabo (de jure)",
+        "",
+        "Oyala (seat of government)",
         "Asmara"
       ],
       "answer": 0
@@ -1156,7 +1162,7 @@
         "Maputo",
         "Naypyidaw",
         "Windhoek",
-        "Yaren District (de facto)"
+        "Yaren District (de facto)"
       ],
       "answer": 0
     },
@@ -1165,7 +1171,7 @@
       "options": [
         "Naypyidaw",
         "Windhoek",
-        "Yaren District (de facto)",
+        "Yaren District (de facto)",
         "Kathmandu"
       ],
       "answer": 0
@@ -1174,7 +1180,7 @@
       "questionText": "What is the capital of Namibia?",
       "options": [
         "Windhoek",
-        "Yaren District (de facto)",
+        "Yaren District (de facto)",
         "Kathmandu",
         "Amsterdam"
       ],
@@ -1183,7 +1189,7 @@
     {
       "questionText": "What is the capital of Nauru?",
       "options": [
-        "Yaren District (de facto)",
+        "Yaren District (de facto)",
         "Kathmandu",
         "Amsterdam",
         "Wellington"
@@ -1786,7 +1792,7 @@
         "Ashgabat",
         "Funafuti",
         "Kampala",
-        "Kyiv (also known as Kiev)"
+        "Kyiv (also known as Kiev)"
       ],
       "answer": 0
     },
@@ -1795,7 +1801,7 @@
       "options": [
         "Funafuti",
         "Kampala",
-        "Kyiv (also known as Kiev)",
+        "Kyiv (also known as Kiev)",
         "Abu Dhabi"
       ],
       "answer": 0
@@ -1804,7 +1810,7 @@
       "questionText": "What is the capital of Uganda?",
       "options": [
         "Kampala",
-        "Kyiv (also known as Kiev)",
+        "Kyiv (also known as Kiev)",
         "Abu Dhabi",
         "London"
       ],
@@ -1813,7 +1819,7 @@
     {
       "questionText": "What is the capital of Ukraine?",
       "options": [
-        "Kyiv (also known as Kiev)",
+        "Kyiv (also known as Kiev)",
         "Abu Dhabi",
         "London",
         "Washington",
@@ -2125,46 +2131,6 @@
       "answer": 0
     },
     {
-      "questionText": "What is the National Language of Cambodia?",
-      "options": [
-        "Khmer",
-        "Mohawk",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Canada?",
-      "options": [
-        "Mohawk",
-        "Spanish",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Chile?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Spanish",
-        "Croatian"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Colombia?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Croatian",
-        "Czech"
-      ],
-      "answer": 0
-    },
-    {
       "questionText": "What is the National Language of Costa Rica?",
       "options": [
         "Spanish",
@@ -2181,66 +2147,6 @@
         "Czech",
         "Danish",
         "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Czech Republic?",
-      "options": [
-        "Czech",
-        "Danish",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Denmark?",
-      "options": [
-        "Danish",
-        "Spanish",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Dominican Republic?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Dominican Republic?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Spanish",
-        "Arabic"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Dominican Republic?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Arabic",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Ecuador?",
-      "options": [
-        "Spanish",
-        "Arabic",
-        "Spanish",
-        "Estonian"
       ],
       "answer": 0
     },
@@ -2331,36 +2237,6 @@
         "Greek",
         "Greenlandic",
         "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Greece?",
-      "options": [
-        "Greek",
-        "Greenlandic",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Greenland?",
-      "options": [
-        "Greenlandic",
-        "Spanish",
-        "Spanish",
-        "Chinese (Traditional) legacy"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Guatemala?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Chinese (Traditional) legacy",
-        "Hungarian"
       ],
       "answer": 0
     },
@@ -2495,16 +2371,6 @@
       "answer": 0
     },
     {
-      "questionText": "What is the National Language of Jordan?",
-      "options": [
-        "Arabic",
-        "Kazakh",
-        "Kiswahili",
-        "Arabic"
-      ],
-      "answer": 0
-    },
-    {
       "questionText": "What is the National Language of Kazakhstan?",
       "options": [
         "Kazakh",
@@ -2541,36 +2407,6 @@
         "Lao",
         "Latvian",
         "Arabic"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Laos?",
-      "options": [
-        "Lao",
-        "Latvian",
-        "Arabic",
-        "Arabic"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Latvia?",
-      "options": [
-        "Latvian",
-        "Arabic",
-        "Arabic",
-        "German"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Lebanon?",
-      "options": [
-        "Arabic",
-        "Arabic",
-        "German",
-        "Lithuanian"
       ],
       "answer": 0
     },
@@ -2771,46 +2607,6 @@
         "Arabic",
         "Urdu",
         "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Oman?",
-      "options": [
-        "Arabic",
-        "Urdu",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Pakistan?",
-      "options": [
-        "Urdu",
-        "Spanish",
-        "Spanish",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Panama?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "Spanish",
-        "English"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Paraguay?",
-      "options": [
-        "Spanish",
-        "Spanish",
-        "English",
-        "Polish"
       ],
       "answer": 0
     },
@@ -3135,16 +2931,6 @@
       "answer": 0
     },
     {
-      "questionText": "What is the National Language of Uruguay?",
-      "options": [
-        "Spanish",
-        "English",
-        "Uzbek (Latin)",
-        "Spanish"
-      ],
-      "answer": 0
-    },
-    {
       "questionText": "What is the National Language of United States?",
       "options": [
         "English",
@@ -3170,36 +2956,6 @@
         "Spanish",
         "Vietnamese",
         "Arabic",
-        "English"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Vietnam?",
-      "options": [
-        "Vietnamese",
-        "Arabic",
-        "English",
-        "Vietnamese"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Yemen?",
-      "options": [
-        "Arabic",
-        "English",
-        "Uzbek (Latin)",
-        "English"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the National Language of Zimbabwe?",
-      "options": [
-        "English",
-        "Ukrainian",
-        "Spanish",
         "English"
       ],
       "answer": 0
@@ -3495,138 +3251,12 @@
       "answer": 0
     },
     {
-      "questionText": "Which is the most famous city in Turkey?",
-      "options": [
-        "Istanbul",
-        "London",
-        "New York"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "Which is the most famous city in United Kingdom?",
-      "options": [
-        "London",
-        "New York",
-        "Istanbul"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "Which is the most famous city in United States?",
-      "options": [
-        "New York",
-        "Istanbul",
-        "London"
-      ],
-      "answer": 0
-    },
-    {
       "questionText": "Which is the most famous city in Vietnam?",
       "options": [
         "Ho Chi Minh City",
         "New York",
         "London",
         "Istanbul"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Australia?",
-      "options": [
-        "Sydney Opera House",
-        "Ho Chi Minh City",
-        "Christ the Redeemer of Rio"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Brazil?",
-      "options": [
-        "Christ the Redeemer of Rio",
-        "Sydney Opera House"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Chile?",
-      "options": [
-        "Statues of Easter Island",
-        "Christ the Redeemer of Rio",
-        "Great Wall"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in China?",
-      "options": [
-        "Great Wall",
-        "Statues of Easter Island",
-        "Basilica of Our Lady of Peace Yamoussoukro"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Ivory Coast?",
-      "options": [
-        "Basilica of Our Lady of Peace Yamoussoukro",
-        "Great Wall",
-        "Pyramid of Cheops"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Egypt?",
-      "options": [
-        "Pyramid of Cheops",
-        "Basilica of Our Lady of Peace Yamoussoukro",
-        "Statue of Liberty"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in United States?",
-      "options": [
-        "Statue of Liberty",
-        "Pyramid of Cheops",
-        "Taj Mahal"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in India?",
-      "options": [
-        "Taj Mahal",
-        "Statue of Liberty",
-        "Brandenburg Gate"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Germany?",
-      "options": [
-        "Brandenburg Gate",
-        "Taj Mahal",
-        "Belem Tower"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Portugal?",
-      "options": [
-        "Belem Tower",
-        "Brandenburg Gate",
-        "Taj Mahal"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "What is the Famous landmark in Thailand?",
-      "options": [
-        "Reclining Buddha Temple",
-        "Belem Tower",
-        "Brandenburg Gate",
-        "Belem Tower"
       ],
       "answer": 0
     },
@@ -3641,89 +3271,7 @@
       "answer": 0
     },
     {
-      "questionText": "where is Christ the Redeemer of Rio?",
-      "options": [
-        "Brazil",
-        "Australia",
-        "Chile"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Statues of Easter Island?",
-      "options": [
-        "Chile",
-        "Brazil",
-        "China"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Great Wall?",
-      "options": [
-        "China",
-        "Chile",
-        "Ivory Coast"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Basilica of Our Lady of Peace Yamoussoukro?",
-      "options": [
-        "Ivory Coast",
-        "China",
-        "Egypt"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Pyramid of Cheops?",
-      "options": [
-        "Egypt",
-        "Ivory Coast",
-        "United States"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Statue of Liberty?",
-      "options": [
-        "United States",
-        "Egypt",
-        "India"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Taj Mahal?",
-      "options": [
-        "India",
-        "United States",
-        "Germany"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Brandenburg Gate?",
-      "options": [
-        "Germany",
-        "India",
-        "Egypt"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is Belem Tower?",
-      "options": [
-        "Portugal",
-        "Germany",
-        "India",
-        "Egypt"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "where is  Reclining Buddha Temple?",
+      "questionText": "where is  Reclining Buddha Temple?",
       "options": [
         "Thailand",
         "Portugal",
