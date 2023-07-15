@@ -1,14 +1,394 @@
 {
-   "testQuestions":15,
-   "testFailQuestions":0,
-   "practiceQuestions":40,
-   "passPercent":75,
-   "passQuestions":-1,
-   "timeInMins":10,
-   "credits":3,
-   "practiceMsg":"Answer 40 practice questions.\n\nNo time limit.",
-   "testMsg":"Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
-   "earnMsg":"Watch sponsored content to earn +3 credits?",
-   "questions":[
-   ]
-}
+    "testQuestions": 15,
+    "testFailQuestions": 0,
+    "practiceQuestions": 40,
+    "passPercent": 75,
+    "passQuestions": -1,
+    "timeInMins": 10,
+    "credits": 3,
+    "practiceMsg": "Answer 40 practice questions.\n\nNo time limit.",
+    "testMsg": "Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
+    "earnMsg": "Watch sponsored content to earn +3 credits?",
+    "questions": [
+      {
+        "questionText": "UNIVAC is?",
+        "options": [
+          "Universal Automatic Computer",
+          "Universal Array Computer",
+          "Unique Automatic Computer",
+          "Unvalued Automatic Computer"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "Microprocessors as switching devices are for which generation computers?",
+        "options": [
+          "First Generation",
+          "Second Generation",
+          "Third Generation",
+          "Fourth Generation"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "What does EBCDIC stand for?",
+        "options": [
+          "Extended Binary Coded Decimal Interchange Code",
+          "Extended Bit Code Decimal Interchange Code",
+          "Extended Bit Case Decimal Interchange Code",
+          "Extended Binary Case Decimal Interchange Code"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "The brain of any computer system is?",
+        "options": [
+          "ALU",
+          "Memory",
+          "CPU",
+          "Control unit"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "Storage capacity of magnetic disk depends on?",
+        "options": [
+          "tracks per inch of surface",
+          "bits per inch of tracks",
+          "disk pack in disk surface",
+          "All of above"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "The two kinds of main memory are: ?",
+        "options": [
+          "Primary and secondary",
+          "Random and sequential",
+          "ROM and RAM",
+          "All of above"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "A storage area used to store data to a compensate for the difference in speed at which the different units can handle data is?",
+        "options": [
+          "Memory",
+          "Buffer",
+          "Accumulator",
+          "Address"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Computer is free from tiresome and boardroom. We call it?",
+        "options": [
+          "Accuracy",
+          "Reliability",
+          "Diligence",
+          "Versatility"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "Integrated Circuits (ICs) are related to which generation of computers?",
+        "options": [
+          "First generation",
+          "Second generation",
+          "Third generation",
+          "Fourth generation"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "CD-ROM is a?",
+        "options": [
+          "Semiconductor memory",
+          "Memory register",
+          "Magnetic memory",
+          "None of above"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "A hybrid computer?",
+        "options": [
+          "Resembles digital computer",
+          "Resembles analogue computer",
+          "Resembles both a digital and analogue computer",
+          "None of the above"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "Which type of computers uses the 8-bit code called EBCDIC?",
+        "options": [
+          "Minicomputers",
+          "Microcomputers",
+          "Mainframe computers",
+          "Super computer"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "The ALU of a computer responds to the commands coming from?",
+        "options": [
+          "Primary memory",
+          "Control section",
+          "External memory",
+          "Cache memory"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Chief component of first generation computer was?",
+        "options": [
+          "Transistors",
+          "Vacuum Tubes and Valves",
+          "Integrated Circuits",
+          "None of above"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "To produce high quality graphics (hardcopy) in color, you would want to use a/n?",
+        "options": [
+          "RGB monitor",
+          "Plotter",
+          "Ink-jet printer",
+          "Laser printer"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "What are the stages in the compilation process?",
+        "options": [
+          "Feasibility study, system design and testing",
+          "Implementation and documentation",
+          "Lexical Analysis, syntax analysis, and code generation",
+          "None of the above"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "Which of the following IC was used in third generation of computers?",
+        "options": [
+          "SSI",
+          "MSI",
+          "LSI",
+          "Both a and b"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "The main electronic component used in first generation computers was?",
+        "options": [
+          "Transistors",
+          "Vacuum Tubes and Valves",
+          "Integrated Circuits",
+          "None of above"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "A dumb terminal has?",
+        "options": [
+          "an embedded microprocessor",
+          "extensive memory",
+          "independent processing capability",
+          "a keyboard and screen"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "What is a light pen?",
+        "options": [
+          "Mechanical Input device",
+          "Optical input device",
+          "Electronic input device",
+          "Optical output device"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Which of the following class of computers can not support multiple users simultaneously? ?",
+        "options": [
+          "Mainframe Computer",
+          "Mini Computers",
+          "Micro Computers",
+          "All of them can support"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "Which of the following is considered first computer in the world? ?",
+        "options": [
+          "Z3",
+          "ABC",
+          "Mark I",
+          "None of above"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "When a key is pressed on the keyboard, which standard is used for converting the keystroke into the corresponding bits? ?",
+        "options": [
+          "ANSI",
+          "ASCII",
+          "EBCDIC",
+          "ISO"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "In order to play and hear sound on a computer, one needs: ?",
+        "options": [
+          "a sound card and speakers",
+          "a microphone",
+          "all of them required",
+          "none of them required"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "Which of the following devices can be sued to directly image printed text? ?",
+        "options": [
+          "OCR",
+          "OMR",
+          "MICR",
+          "All of above"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "For which of the following computers can’t be used? ?",
+        "options": [
+          "gathering data",
+          "calculating data",
+          "comparing data",
+          "Arranging data"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "Which of the following is called low level languages? ?",
+        "options": [
+          "Machine language",
+          "Assembly language",
+          "Both of the above",
+          "None of above"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "A factor which would strongly influence a business person to adopt a computer is its?",
+        "options": [
+          "Accuracy",
+          "Reliability",
+          "Speed",
+          "All of above"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "Who invented punched cards? ?",
+        "options": [
+          "Charles Babbage",
+          "Dr. Herman Hollerith",
+          "Howard Aikin",
+          "Joseph Jacquard"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "Each model of a computer has a unique?",
+        "options": [
+          "Assembly of a computer",
+          "Machine language",
+          "High level language",
+          "All of the above"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Which of the following is not a primary storage device? ?",
+        "options": [
+          "Magnetic tape",
+          "Magnetic disk",
+          "Optical disk",
+          "All of the above"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "In a punched card system, data is processed by a?",
+        "options": [
+          "Keypunch machine, sorter and posting machine",
+          "Accounting machine, posting machine, and billing machine",
+          "Sorter, posting machine, and billing machine",
+          "Accounting machine, keypunch machine and sorter"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "Which device is required for the Internet connection? ?",
+        "options": [
+          "Joystick",
+          "Modem",
+          "CD Drive",
+          "NIC Card"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "A set of rods where numbers were carved and used for multiplication and division aids is known as?",
+        "options": [
+          "Pascaline",
+          "Napier’s Bones",
+          "Stepped Reckoner",
+          "Slide Rule"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Seek time is?",
+        "options": [
+          "time to position the head over proper track",
+          "time to position the head over proper sector",
+          "time to position the head over proper cylinder",
+          "none of above"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "Tape speed is measured in?",
+        "options": [
+          "Feet per second",
+          "Inch per second",
+          "Meter per second",
+          "Centimeter per second"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Punched cards were first introduced by?",
+        "options": [
+          "Powers",
+          "Pascal",
+          "Jacquard",
+          "Herman Hollerith"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "Which computer support co-processors? ?",
+        "options": [
+          "XT computer",
+          "AT computers",
+          "None of these",
+          "Both of these"
+        ],
+        "answer": 1
+      }
+    ]
+  }
