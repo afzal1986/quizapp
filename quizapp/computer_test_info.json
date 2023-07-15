@@ -11,6 +11,206 @@
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": [
     {
+      "questionText": "The computer-assisted method that helps in the recording and analysis of a hypothetical or an existing system is known as?",
+      "options": [
+        "Data processing",
+        "Data capture",
+        "Data flow",
+        "Data transmission"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which of these computer languages do we use in artificial intelligence?",
+      "options": [
+        "PROLOG",
+        "FORTRAN",
+        "COBOL",
+        "C"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which of these parts would interpret a program's instructions to initiate the control operations?",
+      "options": [
+        "Logic unit",
+        "Control unit",
+        "Storage unit",
+        "Input"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "The 1's complement of 10 is:",
+      "options": [
+        "10",
+        "11",
+        "110",
+        "01"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "__________ is the computer program that would convert an assembly language to the machine language.",
+      "options": [
+        "Interpreter",
+        "Compiler",
+        "Comparator",
+        "Assembler"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "The total time for which any piece of equipment would operate is known as __________________ time.",
+      "options": [
+        "Effective",
+        "Seek",
+        "Real",
+        "Access"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What access method do we use to obtain any record out of a cassette tape?",
+      "options": [
+        "Random",
+        "Direct",
+        "Sequential",
+        "Access"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "What is the CPU's section that interprets, selects, and also sees to a program instructions' execution?",
+      "options": [
+        "Register unit",
+        "Control unit",
+        "ALU",
+        "Memory"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "One packet on any data link is called:",
+      "options": [
+        "Group",
+        "Block",
+        "Frame",
+        "Path"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "What is the common boundary present between two systems known as?",
+      "options": [
+        "Interface",
+        "Surface",
+        "Interdiction",
+        "path"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "_____________ is a computer that has been designed so that it is as compact as possible.",
+      "options": [
+        "Supercomputer",
+        "Mini",
+        "Mainframe",
+        "Microcomputer"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which of these is a general-purpose microcomputer that is single-user and is designed to be operated by just a single person at any given time?",
+      "options": [
+        "M",
+        "PC",
+        "KIPS",
+        "Special-purpose computer"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "A total of how many bit codes are used for TELEPRINTER machines by Murray code?",
+      "options": [
+        "25",
+        "9",
+        "5",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "__________ refers to the datum that would indicate the important state in an input or output content.",
+      "options": [
+        "Sentinel",
+        "Sequence",
+        "Sibling",
+        "SIO"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which of these refers to a systems programming language for the Intel family microcomputers?",
+      "options": [
+        "PLA",
+        "PL/CT",
+        "PL/M",
+        "PL/C"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Out of the following, which one is still useful if we want to add numbers?",
+      "options": [
+        "UNIVAC",
+        "Abacus",
+        "ENIAC",
+        "EDSAC"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "What is the number used to control the forms of other numbers known as?",
+      "options": [
+        "Mask",
+        "Map",
+        "Marker",
+        "Mantissa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which of these is a high-level machine-oriented language for the machines that are of the GEC 4080 series?",
+      "options": [
+        "ALGOL",
+        "Babbage",
+        "SNOBOL",
+        "LOGO"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which of these output devices are used for the translation of information from any computer into a pictorial form on the papers?",
+      "options": [
+        "Card punch",
+        "Touch panel",
+        "Plotter",
+        "Mouse"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "A list of various coded instructions is known as:",
+      "options": [
+        "Flowchart",
+        "Utility programs",
+        "Algorithm",
+        "Computer program"
+      ],
+      "answer": 3
+    },
+    {
       "questionText": "What does CPU stand for?",
       "options": [
         "Central Processing Unit",
