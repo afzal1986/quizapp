@@ -1,944 +1,4675 @@
 {
-   "testQuestions":15,
-   "testFailQuestions":0,
-   "practiceQuestions":40,
-   "passPercent":75,
-   "passQuestions":-1,
-   "timeInMins":10,
-   "credits":3,
-   "practiceMsg":"Answer 40 practice questions.\n\nNo time limit.",
-   "testMsg":"Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
-   "earnMsg":"Watch sponsored content to earn +3 credits?",
-   "questions":[
-      {
-         "questionText":"Which country is famous for its cultural diversity and vibrant cities like Mumbai and Delhi?",
-         "options":[
-            "China",
-            "India",
-            "Thailand",
-            "Brazil"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its iconic landmark, the Great Wall?",
-         "options":[
-            "India",
-            "China",
-            "France",
-            "Australia"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is home to the famous carnival festival held in Rio de Janeiro?",
-         "options":[
-            "Brazil",
-            "Canada",
-            "Egypt",
-            "Germany"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its tulip fields and windmills?",
-         "options":[
-            "Italy",
-            "Germany",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its delicious sushi and cherry blossoms?",
-         "options":[
-            "Japan",
-            "Mexico",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its historical sites such as the Pyramids of Giza?",
-         "options":[
-            "Brazil",
-            "Greece",
-            "Egypt",
-            "Argentina"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is the birthplace of democracy and the Olympic Games?",
-         "options":[
-            "Greece",
-            "India",
-            "United States",
-            "China"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its breathtaking fjords and the Aurora Borealis?",
-         "options":[
-            "Australia",
-            "Norway",
-            "India",
-            "Canada"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its iconic pyramids and Sphinx?",
-         "options":[
-            "Egypt",
-            "France",
-            "Japan",
-            "Mexico"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous Oktoberfest beer festival?",
-         "options":[
-            "Spain",
-            "Germany",
-            "Italy",
-            "Sweden"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its beautiful beaches and tango dance?",
-         "options":[
-            "Argentina",
-            "China",
-            "Canada",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its ancient ruins of Machu Picchu?",
-         "options":[
-            "Italy",
-            "Peru",
-            "Australia",
-            "Greece"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Alps?",
-         "options":[
-            "Switzerland",
-            "India",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its delicious cuisine, including pizza and pasta?",
-         "options":[
-            "Mexico",
-            "Italy",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is home to the famous Angkor Wat temple complex?",
-         "options":[
-            "Cambodia",
-            "Canada",
-            "Egypt",
-            "Germany"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its stunning beaches, including Copacabana and Ipanema?",
-         "options":[
-            "Brazil",
-            "China",
-            "India",
-            "Thailand"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its historical landmarks such as the Colosseum?",
-         "options":[
-            "Greece",
-            "Egypt",
-            "Italy",
-            "Argentina"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its vibrant festivals, such as Diwali and Holi?",
-         "options":[
-            "India",
-            "Japan",
-            "Mexico",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its beautiful islands, such as Bali and Komodo?",
-         "options":[
-            "Australia",
-            "Japan",
-            "Indonesia",
-            "Canada"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its famous Neuschwanstein Castle?",
-         "options":[
-            "Australia",
-            "Germany",
-            "India",
-            "Canada"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its historical sites such as the Acropolis?",
-         "options":[
-            "Brazil",
-            "Greece",
-            "China",
-            "France"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its stunning fjords and Viking history?",
-         "options":[
-            "Australia",
-            "Norway",
-            "India",
-            "Spain"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its delicious cuisine, including sushi and ramen?",
-         "options":[
-            "Japan",
-            "Mexico",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous ruins of Petra?",
-         "options":[
-            "Egypt",
-            "Italy",
-            "Peru",
-            "Jordan"
-         ],
-         "answer":3
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Serengeti?",
-         "options":[
-            "Australia",
-            "India",
-            "Tanzania",
-            "Canada"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its iconic Eiffel Tower and Louvre Museum?",
-         "options":[
-            "Egypt",
-            "France",
-            "Japan",
-            "Mexico"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its delicious sausages and beer?",
-         "options":[
-            "Germany",
-            "Spain",
-            "Italy",
-            "Sweden"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its beautiful landscapes, including Patagonia?",
-         "options":[
-            "Argentina",
-            "China",
-            "Canada",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous Taj Mahal?",
-         "options":[
-            "India",
-            "China",
-            "Thailand",
-            "Brazil"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its stunning beaches, including Bondi Beach?",
-         "options":[
-            "Australia",
-            "Greece",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its mouthwatering kebabs and baklava?",
-         "options":[
-            "Greece",
-            "India",
-            "Turkey",
-            "China"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its cultural diversity and vibrant cities like Mumbai and Delhi?",
-         "options":[
-            "China",
-            "India",
-            "Thailand",
-            "Brazil"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its iconic landmark, the Great Wall?",
-         "options":[
-            "India",
-            "China",
-            "France",
-            "Australia"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is home to the famous carnival festival held in Rio de Janeiro?",
-         "options":[
-            "Brazil",
-            "Canada",
-            "Egypt",
-            "Germany"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its tulip fields and windmills?",
-         "options":[
-            "Italy",
-            "Germany",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its delicious sushi and cherry blossoms?",
-         "options":[
-            "Japan",
-            "Mexico",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its historical sites such as the Pyramids of Giza?",
-         "options":[
-            "Brazil",
-            "Greece",
-            "Egypt",
-            "Argentina"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is the birthplace of democracy and the Olympic Games?",
-         "options":[
-            "Greece",
-            "India",
-            "United States",
-            "China"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its breathtaking fjords and the Aurora Borealis?",
-         "options":[
-            "Australia",
-            "Norway",
-            "India",
-            "Canada"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its iconic pyramids and Sphinx?",
-         "options":[
-            "Egypt",
-            "France",
-            "Japan",
-            "Mexico"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous Oktoberfest beer festival?",
-         "options":[
-            "Spain",
-            "Germany",
-            "Italy",
-            "Sweden"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its beautiful beaches and tango dance?",
-         "options":[
-            "Argentina",
-            "China",
-            "Canada",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its ancient ruins of Machu Picchu?",
-         "options":[
-            "Italy",
-            "Peru",
-            "Australia",
-            "Greece"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Alps?",
-         "options":[
-            "Switzerland",
-            "India",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its delicious cuisine, including pizza and pasta?",
-         "options":[
-            "Mexico",
-            "Italy",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is home to the famous Angkor Wat temple complex?",
-         "options":[
-            "Cambodia",
-            "Canada",
-            "Egypt",
-            "Germany"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its stunning beaches, including Copacabana and Ipanema?",
-         "options":[
-            "Brazil",
-            "China",
-            "India",
-            "Thailand"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its historical landmarks such as the Colosseum?",
-         "options":[
-            "Greece",
-            "Egypt",
-            "Italy",
-            "Argentina"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its vibrant festivals, such as Diwali and Holi?",
-         "options":[
-            "India",
-            "Japan",
-            "Mexico",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its beautiful islands, such as Bali and Komodo?",
-         "options":[
-            "Australia",
-            "Japan",
-            "Indonesia",
-            "Canada"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its famous Neuschwanstein Castle?",
-         "options":[
-            "Australia",
-            "Germany",
-            "India",
-            "Canada"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its historical sites such as the Acropolis?",
-         "options":[
-            "Brazil",
-            "Greece",
-            "China",
-            "France"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its stunning fjords and Viking history?",
-         "options":[
-            "Australia",
-            "Norway",
-            "India",
-            "Spain"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its delicious cuisine, including sushi and ramen?",
-         "options":[
-            "Japan",
-            "Mexico",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous ruins of Petra?",
-         "options":[
-            "Egypt",
-            "Italy",
-            "Peru",
-            "Jordan"
-         ],
-         "answer":3
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Serengeti?",
-         "options":[
-            "Australia",
-            "India",
-            "Tanzania",
-            "Canada"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its iconic Eiffel Tower and Louvre Museum?",
-         "options":[
-            "Egypt",
-            "France",
-            "Japan",
-            "Mexico"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its delicious sausages and beer?",
-         "options":[
-            "Germany",
-            "Spain",
-            "Italy",
-            "Sweden"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its beautiful landscapes, including Patagonia?",
-         "options":[
-            "Argentina",
-            "China",
-            "Canada",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous Taj Mahal?",
-         "options":[
-            "India",
-            "China",
-            "Thailand",
-            "Brazil"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its stunning beaches, including Bondi Beach?",
-         "options":[
-            "Australia",
-            "Greece",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its mouthwatering kebabs and baklava?",
-         "options":[
-            "Greece",
-            "India",
-            "Turkey",
-            "China"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its vibrant nightlife and coffee shops?",
-         "options":[
-            "Brazil",
-            "France",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its stunning landscapes, including the Grand Canyon?",
-         "options":[
-            "Canada",
-            "United States",
-            "Australia",
-            "Mexico"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its rich historical heritage, including the ruins of Pompeii?",
-         "options":[
-            "Greece",
-            "Italy",
-            "China",
-            "Egypt"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its breathtaking landscapes, including the Matterhorn?",
-         "options":[
-            "Italy",
-            "Switzerland",
-            "Spain",
-            "India"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is home to the famous Galapagos Islands?",
-         "options":[
-            "Ecuador",
-            "Peru",
-            "Chile",
-            "Colombia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its vibrant music and dance styles, such as salsa and rumba?",
-         "options":[
-            "Brazil",
-            "Spain",
-            "Argentina",
-            "Cuba"
-         ],
-         "answer":3
-      },
-      {
-         "questionText":"Which country is famous for its stunning landscapes, including the Scottish Highlands?",
-         "options":[
-            "Australia",
-            "United Kingdom",
-            "Canada",
-            "New Zealand"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its beautiful fjords and Viking history?",
-         "options":[
-            "Iceland",
-            "Norway",
-            "Sweden",
-            "Denmark"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its ancient ruins of Chichen Itza?",
-         "options":[
-            "Mexico",
-            "Peru",
-            "Egypt",
-            "Greece"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Amazon rainforest?",
-         "options":[
-            "Brazil",
-            "Australia",
-            "India",
-            "Canada"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its historical sites such as the Alhambra?",
-         "options":[
-            "Italy",
-            "Spain",
-            "France",
-            "Egypt"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its vibrant cultural festivals, such as Songkran?",
-         "options":[
-            "Japan",
-            "China",
-            "Thailand",
-            "South Korea"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its stunning landscapes, including the Great Barrier Reef?",
-         "options":[
-            "Australia",
-            "Greece",
-            "Canada",
-            "Mexico"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its historical sites such as the Red Square and the Kremlin?",
-         "options":[
-            "Russia",
-            "Germany",
-            "Italy",
-            "France"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its delicious cuisine, including pho and banh mi?",
-         "options":[
-            "Vietnam",
-            "Mexico",
-            "India",
-            "Japan"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous Inca citadel of Machu Picchu?",
-         "options":[
-            "Brazil",
-            "Peru",
-            "Argentina",
-            "Chile"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Sahara Desert?",
-         "options":[
-            "Australia",
-            "China",
-            "Egypt",
-            "Canada"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its iconic landmarks such as the Statue of Liberty and the Grand Central Terminal?",
-         "options":[
-            "United States",
-            "France",
-            "England",
-            "Italy"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its vibrant cultural heritage, including the tango dance?",
-         "options":[
-            "Spain",
-            "Greece",
-            "Argentina",
-            "Mexico"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its beautiful landscapes, including the Lake District?",
-         "options":[
-            "Australia",
-            "Italy",
-            "Canada",
-            "United Kingdom"
-         ],
-         "answer":3
-      },
-      {
-         "questionText":"Which country is known for its stunning fjords and Viking history?",
-         "options":[
-            "Australia",
-            "Norway",
-            "India",
-            "Spain"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is famous for its delicious cuisine, including sushi and ramen?",
-         "options":[
-            "Japan",
-            "Mexico",
-            "Russia",
-            "South Korea"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous ruins of Petra?",
-         "options":[
-            "Egypt",
-            "Italy",
-            "Peru",
-            "Jordan"
-         ],
-         "answer":3
-      },
-      {
-         "questionText":"Which country is known for its stunning landscapes, including the Serengeti?",
-         "options":[
-            "Australia",
-            "India",
-            "Tanzania",
-            "Canada"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is famous for its iconic Eiffel Tower and Louvre Museum?",
-         "options":[
-            "Egypt",
-            "France",
-            "Japan",
-            "Mexico"
-         ],
-         "answer":1
-      },
-      {
-         "questionText":"Which country is known for its delicious sausages and beer?",
-         "options":[
-            "Germany",
-            "Spain",
-            "Italy",
-            "Sweden"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its beautiful landscapes, including Patagonia?",
-         "options":[
-            "Argentina",
-            "China",
-            "Canada",
-            "Russia"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is home to the famous Taj Mahal?",
-         "options":[
-            "India",
-            "China",
-            "Thailand",
-            "Brazil"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is known for its stunning beaches, including Bondi Beach?",
-         "options":[
-            "Australia",
-            "Greece",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":0
-      },
-      {
-         "questionText":"Which country is famous for its mouthwatering kebabs and baklava?",
-         "options":[
-            "Greece",
-            "India",
-            "Turkey",
-            "China"
-         ],
-         "answer":2
-      },
-      {
-         "questionText":"Which country is known for its vibrant nightlife and coffee shops?",
-         "options":[
-            "Brazil",
-            "France",
-            "Netherlands",
-            "Spain"
-         ],
-         "answer":2
-      }
-   ]
+  "testQuestions": 15,
+  "testFailQuestions": 0,
+  "practiceQuestions": 40,
+  "passPercent": 75,
+  "passQuestions": -1,
+  "timeInMins": 10,
+  "credits": 3,
+  "practiceMsg": "Answer 40 practice questions.\n\nNo time limit.",
+  "testMsg": "Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
+  "earnMsg": "Watch sponsored content to earn +3 credits?",
+  "questions": [
+    {
+      "questionText": "What is the capital of Afghanistan?",
+      "options": [
+        "Kabul",
+        "Tirana",
+        "Algiers",
+        "Andorra la Vella"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Albania?",
+      "options": [
+        "Tirana",
+        "Algiers",
+        "Andorra la Vella",
+        "Luanda"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Algeria?",
+      "options": [
+        "Algiers",
+        "Andorra la Vella",
+        "Luanda",
+        "Saint John's"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Andorra?",
+      "options": [
+        "Andorra la Vella",
+        "Luanda",
+        "Saint John's",
+        "Buenos Aires"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Angola?",
+      "options": [
+        "Luanda",
+        "Saint John's",
+        "Buenos Aires",
+        "Yerevan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Antigua and Barbuda?",
+      "options": [
+        "Saint John's",
+        "Buenos Aires",
+        "Yerevan",
+        "Canberra"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Argentina?",
+      "options": [
+        "Buenos Aires",
+        "Yerevan",
+        "Canberra",
+        "Vienna"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Armenia?",
+      "options": [
+        "Yerevan",
+        "Canberra",
+        "Vienna",
+        "Baku"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Australia?",
+      "options": [
+        "Canberra",
+        "Vienna",
+        "Baku",
+        "Nassau"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Austria?",
+      "options": [
+        "Vienna",
+        "Baku",
+        "Nassau",
+        "Manama"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Azerbaijan?",
+      "options": [
+        "Baku",
+        "Nassau",
+        "Manama",
+        "Dhaka"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Bahamas?",
+      "options": [
+        "Nassau",
+        "Manama",
+        "Dhaka",
+        "Bridgetown"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Bahrain?",
+      "options": [
+        "Manama",
+        "Dhaka",
+        "Bridgetown",
+        "Minsk"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Bangladesh?",
+      "options": [
+        "Dhaka",
+        "Bridgetown",
+        "Minsk",
+        "Brussels"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Barbados?",
+      "options": [
+        "Bridgetown",
+        "Minsk",
+        "Brussels",
+        "Belmopan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Belarus?",
+      "options": [
+        "Minsk",
+        "Brussels",
+        "Belmopan",
+        "Porto-Novo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Belgium?",
+      "options": [
+        "Brussels",
+        "Belmopan",
+        "Porto-Novo",
+        "Thimphu"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Belize?",
+      "options": [
+        "Belmopan",
+        "Porto-Novo",
+        "Thimphu",
+        "Sucre (de jure)",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Benin?",
+      "options": [
+        "Porto-Novo",
+        "Thimphu",
+        "Sucre (de jure)",
+        "",
+        "La Paz (seat of government)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Bhutan?",
+      "options": [
+        "Thimphu",
+        "Sucre (de jure)",
+        "",
+        "La Paz (seat of government)",
+        "Sarajevo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Bosnia and Herzegovina?",
+      "options": [
+        "Sarajevo",
+        "Gaborone",
+        "Brasilia",
+        "Bandar Seri Begawan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Botswana?",
+      "options": [
+        "Gaborone",
+        "Brasilia",
+        "Bandar Seri Begawan",
+        "Sofia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Brazil?",
+      "options": [
+        "Brasilia",
+        "Bandar Seri Begawan",
+        "Sofia",
+        "Ouagadougou"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Brunei?",
+      "options": [
+        "Bandar Seri Begawan",
+        "Sofia",
+        "Ouagadougou",
+        "Gitega"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Bulgaria?",
+      "options": [
+        "Sofia",
+        "Ouagadougou",
+        "Gitega",
+        "Praia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Burkina Faso?",
+      "options": [
+        "Ouagadougou",
+        "Gitega",
+        "Praia",
+        "Phnom Penh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Burundi?",
+      "options": [
+        "Gitega",
+        "Praia",
+        "Phnom Penh",
+        "Yaounde"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Cabo Verde?",
+      "options": [
+        "Praia",
+        "Phnom Penh",
+        "Yaounde",
+        "Ottawa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Cambodia?",
+      "options": [
+        "Phnom Penh",
+        "Yaounde",
+        "Ottawa",
+        "Bangui"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Cameroon?",
+      "options": [
+        "Yaounde",
+        "Ottawa",
+        "Bangui",
+        "N'Djamena"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Canada?",
+      "options": [
+        "Ottawa",
+        "Bangui",
+        "N'Djamena",
+        "Santiago"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Central African Republic?",
+      "options": [
+        "Bangui",
+        "N'Djamena",
+        "Santiago",
+        "Beijing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Chad?",
+      "options": [
+        "N'Djamena",
+        "Santiago",
+        "Beijing",
+        "Bogotá"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Chile?",
+      "options": [
+        "Santiago",
+        "Beijing",
+        "Bogotá",
+        "Moroni"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of China?",
+      "options": [
+        "Beijing",
+        "Bogotá",
+        "Moroni",
+        "Kinshasa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Colombia?",
+      "options": [
+        "Bogotá",
+        "Moroni",
+        "Kinshasa",
+        "Brazzaville"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Comoros?",
+      "options": [
+        "Moroni",
+        "Kinshasa",
+        "Brazzaville",
+        "San Jose"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Congo, Democratic Republic of the?",
+      "options": [
+        "Kinshasa",
+        "Brazzaville",
+        "San Jose",
+        "Yamoussoukro"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Congo, Republic of the?",
+      "options": [
+        "Brazzaville",
+        "San Jose",
+        "Yamoussoukro",
+        "Zagreb"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Costa Rica?",
+      "options": [
+        "San Jose",
+        "Yamoussoukro",
+        "Zagreb",
+        "Havana"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Cote d'Ivoire?",
+      "options": [
+        "Yamoussoukro",
+        "Zagreb",
+        "Havana",
+        "Nicosia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Croatia?",
+      "options": [
+        "Zagreb",
+        "Havana",
+        "Nicosia",
+        "Prague"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Cuba?",
+      "options": [
+        "Havana",
+        "Nicosia",
+        "Prague",
+        "Copenhagen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Cyprus?",
+      "options": [
+        "Nicosia",
+        "Prague",
+        "Copenhagen",
+        "Djibouti (city)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Czechia?",
+      "options": [
+        "Prague",
+        "Copenhagen",
+        "Djibouti (city)",
+        "Roseau"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Denmark?",
+      "options": [
+        "Copenhagen",
+        "Djibouti (city)",
+        "Roseau",
+        "Santo Domingo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Djibouti?",
+      "options": [
+        "Djibouti (city)",
+        "Roseau",
+        "Santo Domingo",
+        "Quito"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Dominica?",
+      "options": [
+        "Roseau",
+        "Santo Domingo",
+        "Quito",
+        "Cairo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Dominican Republic?",
+      "options": [
+        "Santo Domingo",
+        "Quito",
+        "Cairo",
+        "San Salvador"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Ecuador?",
+      "options": [
+        "Quito",
+        "Cairo",
+        "San Salvador",
+        "Malabo (de jure)",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Egypt?",
+      "options": [
+        "Cairo",
+        "San Salvador",
+        "Malabo (de jure)",
+        "",
+        "Oyala (seat of government)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of El Salvador?",
+      "options": [
+        "San Salvador",
+        "Malabo (de jure)",
+        "",
+        "Oyala (seat of government)",
+        "Asmara"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Eritrea?",
+      "options": [
+        "Asmara",
+        "Tallinn",
+        "Addis Ababa",
+        "Suva"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Estonia?",
+      "options": [
+        "Tallinn",
+        "Addis Ababa",
+        "Suva",
+        "Helsinki"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Ethiopia?",
+      "options": [
+        "Addis Ababa",
+        "Suva",
+        "Helsinki",
+        "Paris"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Fiji?",
+      "options": [
+        "Suva",
+        "Helsinki",
+        "Paris",
+        "Libreville"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Finland?",
+      "options": [
+        "Helsinki",
+        "Paris",
+        "Libreville",
+        "Banjul"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of France?",
+      "options": [
+        "Paris",
+        "Libreville",
+        "Banjul",
+        "Tbilisi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Gabon?",
+      "options": [
+        "Libreville",
+        "Banjul",
+        "Tbilisi",
+        "Berlin"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Gambia?",
+      "options": [
+        "Banjul",
+        "Tbilisi",
+        "Berlin",
+        "Accra"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Georgia?",
+      "options": [
+        "Tbilisi",
+        "Berlin",
+        "Accra",
+        "Athens"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Germany?",
+      "options": [
+        "Berlin",
+        "Accra",
+        "Athens",
+        "Saint George's"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Ghana?",
+      "options": [
+        "Accra",
+        "Athens",
+        "Saint George's",
+        "Guatemala City"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Greece?",
+      "options": [
+        "Athens",
+        "Saint George's",
+        "Guatemala City",
+        "Conakry"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Grenada?",
+      "options": [
+        "Saint George's",
+        "Guatemala City",
+        "Conakry",
+        "Bissau"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Guatemala?",
+      "options": [
+        "Guatemala City",
+        "Conakry",
+        "Bissau",
+        "Georgetown"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Guinea?",
+      "options": [
+        "Conakry",
+        "Bissau",
+        "Georgetown",
+        "Port-au-Prince"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Guinea-Bissau?",
+      "options": [
+        "Bissau",
+        "Georgetown",
+        "Port-au-Prince",
+        "Tegucigalpa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Guyana?",
+      "options": [
+        "Georgetown",
+        "Port-au-Prince",
+        "Tegucigalpa",
+        "Budapest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Haiti?",
+      "options": [
+        "Port-au-Prince",
+        "Tegucigalpa",
+        "Budapest",
+        "Reykjavik"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Honduras?",
+      "options": [
+        "Tegucigalpa",
+        "Budapest",
+        "Reykjavik",
+        "New Delhi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Hungary?",
+      "options": [
+        "Budapest",
+        "Reykjavik",
+        "New Delhi",
+        "Jakarta"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Iceland?",
+      "options": [
+        "Reykjavik",
+        "New Delhi",
+        "Jakarta",
+        "Tehran"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of India?",
+      "options": [
+        "New Delhi",
+        "Jakarta",
+        "Tehran",
+        "Baghdad"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Indonesia?",
+      "options": [
+        "Jakarta",
+        "Tehran",
+        "Baghdad",
+        "Dublin"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Iran?",
+      "options": [
+        "Tehran",
+        "Baghdad",
+        "Dublin",
+        "Jerusalem"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Iraq?",
+      "options": [
+        "Baghdad",
+        "Dublin",
+        "Jerusalem",
+        "Rome"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Ireland?",
+      "options": [
+        "Dublin",
+        "Jerusalem",
+        "Rome",
+        "Kingston"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Israel?",
+      "options": [
+        "Jerusalem",
+        "Rome",
+        "Kingston",
+        "Tokyo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Italy?",
+      "options": [
+        "Rome",
+        "Kingston",
+        "Tokyo",
+        "Amman"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Jamaica?",
+      "options": [
+        "Kingston",
+        "Tokyo",
+        "Amman",
+        "Astana"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Japan?",
+      "options": [
+        "Tokyo",
+        "Amman",
+        "Astana",
+        "Nairobi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Jordan?",
+      "options": [
+        "Amman",
+        "Astana",
+        "Nairobi",
+        "Tarawa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Kazakhstan?",
+      "options": [
+        "Astana",
+        "Nairobi",
+        "Tarawa",
+        "Pristina"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Kenya?",
+      "options": [
+        "Nairobi",
+        "Tarawa",
+        "Pristina",
+        "Kuwait City"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Kiribati?",
+      "options": [
+        "Tarawa",
+        "Pristina",
+        "Kuwait City",
+        "Bishkek"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Kosovo?",
+      "options": [
+        "Pristina",
+        "Kuwait City",
+        "Bishkek",
+        "Vientiane"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Kuwait?",
+      "options": [
+        "Kuwait City",
+        "Bishkek",
+        "Vientiane",
+        "Riga"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Kyrgyzstan?",
+      "options": [
+        "Bishkek",
+        "Vientiane",
+        "Riga",
+        "Beirut"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Laos?",
+      "options": [
+        "Vientiane",
+        "Riga",
+        "Beirut",
+        "Maseru"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Latvia?",
+      "options": [
+        "Riga",
+        "Beirut",
+        "Maseru",
+        "Monrovia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Lebanon?",
+      "options": [
+        "Beirut",
+        "Maseru",
+        "Monrovia",
+        "Tripoli"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Lesotho?",
+      "options": [
+        "Maseru",
+        "Monrovia",
+        "Tripoli",
+        "Vaduz"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Liberia?",
+      "options": [
+        "Monrovia",
+        "Tripoli",
+        "Vaduz",
+        "Vilnius"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Libya?",
+      "options": [
+        "Tripoli",
+        "Vaduz",
+        "Vilnius",
+        "Luxembourg (city)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Liechtenstein?",
+      "options": [
+        "Vaduz",
+        "Vilnius",
+        "Luxembourg (city)",
+        "Antananarivo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Lithuania?",
+      "options": [
+        "Vilnius",
+        "Luxembourg (city)",
+        "Antananarivo",
+        "Lilongwe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Luxembourg?",
+      "options": [
+        "Luxembourg (city)",
+        "Antananarivo",
+        "Lilongwe",
+        "Kuala Lumpur"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Madagascar?",
+      "options": [
+        "Antananarivo",
+        "Lilongwe",
+        "Kuala Lumpur",
+        "Male"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Malawi?",
+      "options": [
+        "Lilongwe",
+        "Kuala Lumpur",
+        "Male",
+        "Bamako"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Malaysia?",
+      "options": [
+        "Kuala Lumpur",
+        "Male",
+        "Bamako",
+        "Valletta"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Maldives?",
+      "options": [
+        "Male",
+        "Bamako",
+        "Valletta",
+        "Majuro"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Mali?",
+      "options": [
+        "Bamako",
+        "Valletta",
+        "Majuro",
+        "Nouakchott"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Malta?",
+      "options": [
+        "Valletta",
+        "Majuro",
+        "Nouakchott",
+        "Port Louis"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Marshall Islands?",
+      "options": [
+        "Majuro",
+        "Nouakchott",
+        "Port Louis",
+        "Mexico City"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Mauritania?",
+      "options": [
+        "Nouakchott",
+        "Port Louis",
+        "Mexico City",
+        "Palikir"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Mauritius?",
+      "options": [
+        "Port Louis",
+        "Mexico City",
+        "Palikir",
+        "Chisinau"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Mexico?",
+      "options": [
+        "Mexico City",
+        "Palikir",
+        "Chisinau",
+        "Monaco"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Micronesia?",
+      "options": [
+        "Palikir",
+        "Chisinau",
+        "Monaco",
+        "Ulaanbaatar"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Moldova?",
+      "options": [
+        "Chisinau",
+        "Monaco",
+        "Ulaanbaatar",
+        "Podgorica"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Monaco?",
+      "options": [
+        "Monaco",
+        "Ulaanbaatar",
+        "Podgorica",
+        "Rabat"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Mongolia?",
+      "options": [
+        "Ulaanbaatar",
+        "Podgorica",
+        "Rabat",
+        "Maputo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Montenegro?",
+      "options": [
+        "Podgorica",
+        "Rabat",
+        "Maputo",
+        "Naypyidaw"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Morocco?",
+      "options": [
+        "Rabat",
+        "Maputo",
+        "Naypyidaw",
+        "Windhoek"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Mozambique?",
+      "options": [
+        "Maputo",
+        "Naypyidaw",
+        "Windhoek",
+        "Yaren District (de facto)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Myanmar?",
+      "options": [
+        "Naypyidaw",
+        "Windhoek",
+        "Yaren District (de facto)",
+        "Kathmandu"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Namibia?",
+      "options": [
+        "Windhoek",
+        "Yaren District (de facto)",
+        "Kathmandu",
+        "Amsterdam"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Nauru?",
+      "options": [
+        "Yaren District (de facto)",
+        "Kathmandu",
+        "Amsterdam",
+        "Wellington"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Nepal?",
+      "options": [
+        "Kathmandu",
+        "Amsterdam",
+        "Wellington",
+        "Managua"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Netherlands?",
+      "options": [
+        "Amsterdam",
+        "Wellington",
+        "Managua",
+        "Niamey"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of New Zealand?",
+      "options": [
+        "Wellington",
+        "Managua",
+        "Niamey",
+        "Abuja"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Nicaragua?",
+      "options": [
+        "Managua",
+        "Niamey",
+        "Abuja",
+        "Pyongyang"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Niger?",
+      "options": [
+        "Niamey",
+        "Abuja",
+        "Pyongyang",
+        "Skopje"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Nigeria?",
+      "options": [
+        "Abuja",
+        "Pyongyang",
+        "Skopje",
+        "Oslo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of North Korea?",
+      "options": [
+        "Pyongyang",
+        "Skopje",
+        "Oslo",
+        "Muscat"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of North Macedonia?",
+      "options": [
+        "Skopje",
+        "Oslo",
+        "Muscat",
+        "Islamabad"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Norway?",
+      "options": [
+        "Oslo",
+        "Muscat",
+        "Islamabad",
+        "Ngerulmud"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Oman?",
+      "options": [
+        "Muscat",
+        "Islamabad",
+        "Ngerulmud",
+        "Jerusalem (East)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Pakistan?",
+      "options": [
+        "Islamabad",
+        "Ngerulmud",
+        "Jerusalem (East)",
+        "Panama City"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Palau?",
+      "options": [
+        "Ngerulmud",
+        "Jerusalem (East)",
+        "Panama City",
+        "Port Moresby"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Palestine?",
+      "options": [
+        "Jerusalem (East)",
+        "Panama City",
+        "Port Moresby",
+        "Asunción"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Panama?",
+      "options": [
+        "Panama City",
+        "Port Moresby",
+        "Asunción",
+        "Lima"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Papua New Guinea?",
+      "options": [
+        "Port Moresby",
+        "Asunción",
+        "Lima",
+        "Manila"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Paraguay?",
+      "options": [
+        "Asunción",
+        "Lima",
+        "Manila",
+        "Warsaw"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Peru?",
+      "options": [
+        "Lima",
+        "Manila",
+        "Warsaw",
+        "Lisbon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Philippines?",
+      "options": [
+        "Manila",
+        "Warsaw",
+        "Lisbon",
+        "Doha"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Poland?",
+      "options": [
+        "Warsaw",
+        "Lisbon",
+        "Doha",
+        "Bucharest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Portugal?",
+      "options": [
+        "Lisbon",
+        "Doha",
+        "Bucharest",
+        "Moscow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Qatar?",
+      "options": [
+        "Doha",
+        "Bucharest",
+        "Moscow",
+        "Kigali"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Romania?",
+      "options": [
+        "Bucharest",
+        "Moscow",
+        "Kigali",
+        "Basseterre"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Russia?",
+      "options": [
+        "Moscow",
+        "Kigali",
+        "Basseterre",
+        "Castries"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Rwanda?",
+      "options": [
+        "Kigali",
+        "Basseterre",
+        "Castries",
+        "Kingstown"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Saint Kitts and Nevis?",
+      "options": [
+        "Basseterre",
+        "Castries",
+        "Kingstown",
+        "Apia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Saint Lucia?",
+      "options": [
+        "Castries",
+        "Kingstown",
+        "Apia",
+        "San Marino"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Saint Vincent and the Grenadines?",
+      "options": [
+        "Kingstown",
+        "Apia",
+        "San Marino",
+        "São Tomé"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Samoa?",
+      "options": [
+        "Apia",
+        "San Marino",
+        "São Tomé",
+        "Riyadh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of San Marino?",
+      "options": [
+        "San Marino",
+        "São Tomé",
+        "Riyadh",
+        "Dakar"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Sao Tome and Principe?",
+      "options": [
+        "São Tomé",
+        "Riyadh",
+        "Dakar",
+        "Belgrade"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Saudi Arabia?",
+      "options": [
+        "Riyadh",
+        "Dakar",
+        "Belgrade",
+        "Victoria"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Senegal?",
+      "options": [
+        "Dakar",
+        "Belgrade",
+        "Victoria",
+        "Freetown"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Serbia?",
+      "options": [
+        "Belgrade",
+        "Victoria",
+        "Freetown",
+        "Singapore"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Seychelles?",
+      "options": [
+        "Victoria",
+        "Freetown",
+        "Singapore",
+        "Bratislava"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Sierra Leone?",
+      "options": [
+        "Freetown",
+        "Singapore",
+        "Bratislava",
+        "Ljubljana"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Singapore?",
+      "options": [
+        "Singapore",
+        "Bratislava",
+        "Ljubljana",
+        "Honiara"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Slovakia?",
+      "options": [
+        "Bratislava",
+        "Ljubljana",
+        "Honiara",
+        "Mogadishu"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Slovenia?",
+      "options": [
+        "Ljubljana",
+        "Honiara",
+        "Mogadishu",
+        "Seoul"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Solomon Islands?",
+      "options": [
+        "Honiara",
+        "Mogadishu",
+        "Seoul",
+        "Juba"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Somalia?",
+      "options": [
+        "Mogadishu",
+        "Seoul",
+        "Juba",
+        "Madrid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of South Korea?",
+      "options": [
+        "Seoul",
+        "Juba",
+        "Madrid",
+        "Sri Jayawardenepura Kotte"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of South Sudan?",
+      "options": [
+        "Juba",
+        "Madrid",
+        "Sri Jayawardenepura Kotte",
+        "Khartoum"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Spain?",
+      "options": [
+        "Madrid",
+        "Sri Jayawardenepura Kotte",
+        "Khartoum",
+        "Paramaribo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Sri Lanka?",
+      "options": [
+        "Sri Jayawardenepura Kotte",
+        "Khartoum",
+        "Paramaribo",
+        "Stockholm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Sudan?",
+      "options": [
+        "Khartoum",
+        "Paramaribo",
+        "Stockholm",
+        "Bern"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Suriname?",
+      "options": [
+        "Paramaribo",
+        "Stockholm",
+        "Bern",
+        "Damascus"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Sweden?",
+      "options": [
+        "Stockholm",
+        "Bern",
+        "Damascus",
+        "Taipei"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Switzerland?",
+      "options": [
+        "Bern",
+        "Damascus",
+        "Taipei",
+        "Dushanbe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Syria?",
+      "options": [
+        "Damascus",
+        "Taipei",
+        "Dushanbe",
+        "Dodoma"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Taiwan?",
+      "options": [
+        "Taipei",
+        "Dushanbe",
+        "Dodoma",
+        "Bangkok"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Tajikistan?",
+      "options": [
+        "Dushanbe",
+        "Dodoma",
+        "Bangkok",
+        "Dili"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Tanzania?",
+      "options": [
+        "Dodoma",
+        "Bangkok",
+        "Dili",
+        "Lomé"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Thailand?",
+      "options": [
+        "Bangkok",
+        "Dili",
+        "Lomé",
+        "Nukuʻalofa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Timor-Leste?",
+      "options": [
+        "Dili",
+        "Lomé",
+        "Nukuʻalofa",
+        "Port of Spain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Togo?",
+      "options": [
+        "Lomé",
+        "Nukuʻalofa",
+        "Port of Spain",
+        "Tunis"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Tonga?",
+      "options": [
+        "Nukuʻalofa",
+        "Port of Spain",
+        "Tunis",
+        "Ankara"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Trinidad and Tobago?",
+      "options": [
+        "Port of Spain",
+        "Tunis",
+        "Ankara",
+        "Ashgabat"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Tunisia?",
+      "options": [
+        "Tunis",
+        "Ankara",
+        "Ashgabat",
+        "Funafuti"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Turkey?",
+      "options": [
+        "Ankara",
+        "Ashgabat",
+        "Funafuti",
+        "Kampala"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Turkmenistan?",
+      "options": [
+        "Ashgabat",
+        "Funafuti",
+        "Kampala",
+        "Kyiv (also known as Kiev)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Tuvalu?",
+      "options": [
+        "Funafuti",
+        "Kampala",
+        "Kyiv (also known as Kiev)",
+        "Abu Dhabi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Uganda?",
+      "options": [
+        "Kampala",
+        "Kyiv (also known as Kiev)",
+        "Abu Dhabi",
+        "London"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Ukraine?",
+      "options": [
+        "Kyiv (also known as Kiev)",
+        "Abu Dhabi",
+        "London",
+        "Washington",
+        " D.C."
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of United Arab Emirates?",
+      "options": [
+        "Abu Dhabi",
+        "London",
+        "Washington",
+        " D.C.",
+        "Montevideo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of United Kingdom?",
+      "options": [
+        "London",
+        "Washington",
+        " D.C.",
+        "Montevideo",
+        "Tashkent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of United States of America?",
+      "options": [
+        "Washington",
+        " D.C.",
+        "Montevideo",
+        "Tashkent",
+        "Port Vila"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Uruguay?",
+      "options": [
+        "Montevideo",
+        "Tashkent",
+        "Port Vila",
+        "Vatican City"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Uzbekistan?",
+      "options": [
+        "Tashkent",
+        "Port Vila",
+        "Vatican City",
+        "Caracas"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Vanuatu?",
+      "options": [
+        "Port Vila",
+        "Vatican City",
+        "Caracas",
+        "Hanoi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Vatican City (Holy See)?",
+      "options": [
+        "Vatican City",
+        "Caracas",
+        "Hanoi",
+        "Sana'a"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Venezuela?",
+      "options": [
+        "Caracas",
+        "Hanoi",
+        "Sana'a",
+        "Lusaka"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Vietnam?",
+      "options": [
+        "Hanoi",
+        "Sana'a",
+        "Lusaka",
+        "Harare"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Yemen?",
+      "options": [
+        "Sana'a",
+        "Lusaka",
+        "Harare",
+        "Hanoi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Zambia?",
+      "options": [
+        "Lusaka",
+        "Harare",
+        "Sana'a",
+        "Hanoi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the capital of Zimbabwe?",
+      "options": [
+        "Harare",
+        "Lusaka",
+        "Sana'a",
+        "Hanoi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Afghanistan?",
+      "options": [
+        "Pashto",
+        "Albanian",
+        "Tamazight (Latin)",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Albania?",
+      "options": [
+        "Albanian",
+        "Tamazight (Latin)",
+        "Spanish",
+        "Armenian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Algeria?",
+      "options": [
+        "Tamazight (Latin)",
+        "Spanish",
+        "Armenian",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Argentina?",
+      "options": [
+        "Spanish",
+        "Armenian",
+        "English",
+        "German"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Armenia?",
+      "options": [
+        "Armenian",
+        "English",
+        "German",
+        "Azeri (Latin)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Australia?",
+      "options": [
+        "English",
+        "German",
+        "Azeri (Latin)",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Austria?",
+      "options": [
+        "German",
+        "Azeri (Latin)",
+        "Arabic",
+        "Bengali"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Azerbaijan?",
+      "options": [
+        "Azeri (Latin)",
+        "Arabic",
+        "Bengali",
+        "Belarusian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Bahrain?",
+      "options": [
+        "Arabic",
+        "Bengali",
+        "Belarusian",
+        "French"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Bangladesh?",
+      "options": [
+        "Bengali",
+        "Belarusian",
+        "French",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Belarus?",
+      "options": [
+        "Belarusian",
+        "French",
+        "English",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Belgium?",
+      "options": [
+        "French",
+        "English",
+        "Spanish",
+        "Serbian (Latin)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Belize?",
+      "options": [
+        "English",
+        "Spanish",
+        "Serbian (Latin)",
+        "Portuguese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Bolivia?",
+      "options": [
+        "Spanish",
+        "Serbian (Latin)",
+        "Portuguese",
+        "Malay"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Bosnia and Herzegovina?",
+      "options": [
+        "Serbian (Latin)",
+        "Portuguese",
+        "Malay",
+        "Bulgarian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Brazil?",
+      "options": [
+        "Portuguese",
+        "Malay",
+        "Bulgarian",
+        "Khmer"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Brunei?",
+      "options": [
+        "Malay",
+        "Bulgarian",
+        "Khmer",
+        "Mohawk"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Bulgaria?",
+      "options": [
+        "Bulgarian",
+        "Khmer",
+        "Mohawk",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Cambodia?",
+      "options": [
+        "Khmer",
+        "Mohawk",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Canada?",
+      "options": [
+        "Mohawk",
+        "Spanish",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Chile?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Spanish",
+        "Croatian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Colombia?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Croatian",
+        "Czech"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Costa Rica?",
+      "options": [
+        "Spanish",
+        "Croatian",
+        "Czech",
+        "Danish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Croatia?",
+      "options": [
+        "Croatian",
+        "Czech",
+        "Danish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Czech Republic?",
+      "options": [
+        "Czech",
+        "Danish",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Denmark?",
+      "options": [
+        "Danish",
+        "Spanish",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Dominican Republic?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Dominican Republic?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Spanish",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Dominican Republic?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Arabic",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Ecuador?",
+      "options": [
+        "Spanish",
+        "Arabic",
+        "Spanish",
+        "Estonian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Egypt?",
+      "options": [
+        "Arabic",
+        "Spanish",
+        "Estonian",
+        "Amharic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of El Salvador?",
+      "options": [
+        "Spanish",
+        "Estonian",
+        "Amharic",
+        "Faroese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Estonia?",
+      "options": [
+        "Estonian",
+        "Amharic",
+        "Faroese",
+        "Swedish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Ethiopia?",
+      "options": [
+        "Amharic",
+        "Faroese",
+        "Swedish",
+        "Occitan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Faroe Islands?",
+      "options": [
+        "Faroese",
+        "Swedish",
+        "Occitan",
+        "Georgian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Finland?",
+      "options": [
+        "Swedish",
+        "Occitan",
+        "Georgian",
+        "Upper sorbian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of France?",
+      "options": [
+        "Occitan",
+        "Georgian",
+        "Upper sorbian",
+        "Greek"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Georgia?",
+      "options": [
+        "Georgian",
+        "Upper sorbian",
+        "Greek",
+        "Greenlandic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Germany?",
+      "options": [
+        "Upper sorbian",
+        "Greek",
+        "Greenlandic",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Greece?",
+      "options": [
+        "Greek",
+        "Greenlandic",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Greenland?",
+      "options": [
+        "Greenlandic",
+        "Spanish",
+        "Spanish",
+        "Chinese (Traditional) legacy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Guatemala?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Chinese (Traditional) legacy",
+        "Hungarian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Honduras?",
+      "options": [
+        "Spanish",
+        "Chinese (Traditional) legacy",
+        "Hungarian",
+        "Icelandic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Hong Kong?",
+      "options": [
+        "Chinese (Traditional) legacy",
+        "Hungarian",
+        "Icelandic",
+        "Hindi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Hungary?",
+      "options": [
+        "Hungarian",
+        "Icelandic",
+        "Hindi",
+        "Indonesian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Iceland?",
+      "options": [
+        "Icelandic",
+        "Hindi",
+        "Indonesian",
+        "Persian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of India?",
+      "options": [
+        "Hindi",
+        "Indonesian",
+        "Persian",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Indonesia?",
+      "options": [
+        "Indonesian",
+        "Persian",
+        "Arabic",
+        "Irish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Iran?",
+      "options": [
+        "Persian",
+        "Arabic",
+        "Irish",
+        "Hebrew"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Iraq?",
+      "options": [
+        "Arabic",
+        "Irish",
+        "Hebrew",
+        "Italian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Ireland?",
+      "options": [
+        "Irish",
+        "Hebrew",
+        "Italian",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Israel?",
+      "options": [
+        "Hebrew",
+        "Italian",
+        "English",
+        "Japanese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Italy?",
+      "options": [
+        "Italian",
+        "English",
+        "Japanese",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Jamaica?",
+      "options": [
+        "English",
+        "Japanese",
+        "Arabic",
+        "Kazakh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Japan?",
+      "options": [
+        "Japanese",
+        "Arabic",
+        "Kazakh",
+        "Kiswahili"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Jordan?",
+      "options": [
+        "Arabic",
+        "Kazakh",
+        "Kiswahili",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Kazakhstan?",
+      "options": [
+        "Kazakh",
+        "Kiswahili",
+        "Arabic",
+        "Kyrgyz"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Kenya?",
+      "options": [
+        "Kiswahili",
+        "Arabic",
+        "Kyrgyz",
+        "Lao"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Kuwait?",
+      "options": [
+        "Arabic",
+        "Kyrgyz",
+        "Lao",
+        "Latvian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Kyrgyzstan?",
+      "options": [
+        "Kyrgyz",
+        "Lao",
+        "Latvian",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Laos?",
+      "options": [
+        "Lao",
+        "Latvian",
+        "Arabic",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Latvia?",
+      "options": [
+        "Latvian",
+        "Arabic",
+        "Arabic",
+        "German"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Lebanon?",
+      "options": [
+        "Arabic",
+        "Arabic",
+        "German",
+        "Lithuanian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Libya?",
+      "options": [
+        "Arabic",
+        "German",
+        "Lithuanian",
+        "Luxembourgish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Liechtenstein?",
+      "options": [
+        "German",
+        "Lithuanian",
+        "Luxembourgish",
+        "Chinese (Traditional) legacy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Lithuania?",
+      "options": [
+        "Lithuanian",
+        "Luxembourgish",
+        "Chinese (Traditional) legacy",
+        "Macedonian (fyrom)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Luxembourg?",
+      "options": [
+        "Luxembourgish",
+        "Chinese (Traditional) legacy",
+        "Macedonian (fyrom)",
+        "Malay"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Macau?",
+      "options": [
+        "Chinese (Traditional) legacy",
+        "Macedonian (fyrom)",
+        "Malay",
+        "Divehi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Macedonia?",
+      "options": [
+        "Macedonian (fyrom)",
+        "Malay",
+        "Divehi",
+        "Maltese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Malaysia?",
+      "options": [
+        "Malay",
+        "Divehi",
+        "Maltese",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Maldives?",
+      "options": [
+        "Divehi",
+        "Maltese",
+        "Spanish",
+        "French"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Malta?",
+      "options": [
+        "Maltese",
+        "Spanish",
+        "French",
+        "Mongolian (Cyrillic)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Mexico?",
+      "options": [
+        "Spanish",
+        "French",
+        "Mongolian (Cyrillic)",
+        "Serbian (Latin)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Monaco?",
+      "options": [
+        "French",
+        "Mongolian (Cyrillic)",
+        "Serbian (Latin)",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Mongolia?",
+      "options": [
+        "Mongolian (Cyrillic)",
+        "Serbian (Latin)",
+        "Arabic",
+        "Nepali"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Montenegro?",
+      "options": [
+        "Serbian (Latin)",
+        "Arabic",
+        "Nepali",
+        "Frisian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Morocco?",
+      "options": [
+        "Arabic",
+        "Nepali",
+        "Frisian",
+        "Maori"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Nepal?",
+      "options": [
+        "Nepali",
+        "Frisian",
+        "Maori",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Netherlands?",
+      "options": [
+        "Frisian",
+        "Maori",
+        "Spanish",
+        "Yoruba"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of New Zealand?",
+      "options": [
+        "Maori",
+        "Spanish",
+        "Yoruba",
+        "Sami (Southern)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Nicaragua?",
+      "options": [
+        "Spanish",
+        "Yoruba",
+        "Sami (Southern)",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Nigeria?",
+      "options": [
+        "Yoruba",
+        "Sami (Southern)",
+        "Arabic",
+        "Urdu"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Norway?",
+      "options": [
+        "Sami (Southern)",
+        "Arabic",
+        "Urdu",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Oman?",
+      "options": [
+        "Arabic",
+        "Urdu",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Pakistan?",
+      "options": [
+        "Urdu",
+        "Spanish",
+        "Spanish",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Panama?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "Spanish",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Paraguay?",
+      "options": [
+        "Spanish",
+        "Spanish",
+        "English",
+        "Polish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Peru?",
+      "options": [
+        "Spanish",
+        "English",
+        "Polish",
+        "Portuguese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Philippines?",
+      "options": [
+        "English",
+        "Polish",
+        "Portuguese",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Poland?",
+      "options": [
+        "Polish",
+        "Portuguese",
+        "Spanish",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Portugal?",
+      "options": [
+        "Portuguese",
+        "Spanish",
+        "Arabic",
+        "Romanian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Puerto Rico?",
+      "options": [
+        "Spanish",
+        "Arabic",
+        "Romanian",
+        "Yakut"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Qatar?",
+      "options": [
+        "Arabic",
+        "Romanian",
+        "Yakut",
+        "Kinyarwanda"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Romania?",
+      "options": [
+        "Romanian",
+        "Yakut",
+        "Kinyarwanda",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Russia?",
+      "options": [
+        "Yakut",
+        "Kinyarwanda",
+        "Arabic",
+        "Wolof"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Rwanda?",
+      "options": [
+        "Kinyarwanda",
+        "Arabic",
+        "Wolof",
+        "Serbian (Latin)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Saudi Arabia?",
+      "options": [
+        "Arabic",
+        "Wolof",
+        "Serbian (Latin)",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Senegal?",
+      "options": [
+        "Wolof",
+        "Serbian (Latin)",
+        "English",
+        "Slovak"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Serbia?",
+      "options": [
+        "Serbian (Latin)",
+        "English",
+        "Slovak",
+        "Slovenian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Singapore?",
+      "options": [
+        "English",
+        "Slovak",
+        "Slovenian",
+        "Setswana"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Slovakia?",
+      "options": [
+        "Slovak",
+        "Slovenian",
+        "Setswana",
+        "Korean"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Slovenia?",
+      "options": [
+        "Slovenian",
+        "Setswana",
+        "Korean",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of South Africa?",
+      "options": [
+        "Setswana",
+        "Korean",
+        "Spanish",
+        "Sinhala"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of South Korea?",
+      "options": [
+        "Korean",
+        "Spanish",
+        "Sinhala",
+        "Swedish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Spain?",
+      "options": [
+        "Spanish",
+        "Sinhala",
+        "Swedish",
+        "Romansh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Sri Lanka?",
+      "options": [
+        "Sinhala",
+        "Swedish",
+        "Romansh",
+        "Syriac"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Sweden?",
+      "options": [
+        "Swedish",
+        "Romansh",
+        "Syriac",
+        "Chinese (Traditional) legacy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Switzerland?",
+      "options": [
+        "Romansh",
+        "Syriac",
+        "Chinese (Traditional) legacy",
+        "Tajik (Cyrillic)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Syria?",
+      "options": [
+        "Syriac",
+        "Chinese (Traditional) legacy",
+        "Tajik (Cyrillic)",
+        "Thai"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Taiwan?",
+      "options": [
+        "Chinese (Traditional) legacy",
+        "Tajik (Cyrillic)",
+        "Thai",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Tajikistan?",
+      "options": [
+        "Tajik (Cyrillic)",
+        "Thai",
+        "English",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Thailand?",
+      "options": [
+        "Thai",
+        "English",
+        "Arabic",
+        "Turkish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Trinidad and Tobago?",
+      "options": [
+        "English",
+        "Arabic",
+        "Turkish",
+        "Turkmen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Tunisia?",
+      "options": [
+        "Arabic",
+        "Turkish",
+        "Turkmen",
+        "Welsh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Turkey?",
+      "options": [
+        "Turkish",
+        "Turkmen",
+        "Welsh",
+        "Ukrainian"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Turkmenistan?",
+      "options": [
+        "Turkmen",
+        "Welsh",
+        "Ukrainian",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of United Kingdom?",
+      "options": [
+        "Welsh",
+        "Ukrainian",
+        "Arabic",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Ukraine?",
+      "options": [
+        "Ukrainian",
+        "Arabic",
+        "Spanish",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of United Arab Emirates?",
+      "options": [
+        "Arabic",
+        "Spanish",
+        "English",
+        "Uzbek (Latin)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Uruguay?",
+      "options": [
+        "Spanish",
+        "English",
+        "Uzbek (Latin)",
+        "Spanish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of United States?",
+      "options": [
+        "English",
+        "Uzbek (Latin)",
+        "Spanish",
+        "Vietnamese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Uzbekistan?",
+      "options": [
+        "Uzbek (Latin)",
+        "Spanish",
+        "Vietnamese",
+        "Arabic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Venezuela?",
+      "options": [
+        "Spanish",
+        "Vietnamese",
+        "Arabic",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Vietnam?",
+      "options": [
+        "Vietnamese",
+        "Arabic",
+        "English",
+        "Vietnamese"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Yemen?",
+      "options": [
+        "Arabic",
+        "English",
+        "Uzbek (Latin)",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the National Language of Zimbabwe?",
+      "options": [
+        "English",
+        "Ukrainian",
+        "Spanish",
+        "English"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Angola?",
+      "options": [
+        "Luanda",
+        "Buenos Aires",
+        "Dhaka",
+        "São Paulo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Argentina?",
+      "options": [
+        "Buenos Aires",
+        "Dhaka",
+        "São Paulo",
+        "Toronto"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Bangladesh?",
+      "options": [
+        "Dhaka",
+        "São Paulo",
+        "Toronto",
+        "Santiago"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Brazil?",
+      "options": [
+        "São Paulo",
+        "Toronto",
+        "Santiago",
+        "Shanghai"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Canada?",
+      "options": [
+        "Toronto",
+        "Santiago",
+        "Shanghai",
+        "Bogotá"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Chile?",
+      "options": [
+        "Santiago",
+        "Shanghai",
+        "Bogotá",
+        "Kinshasa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in China?",
+      "options": [
+        "Shanghai",
+        "Bogotá",
+        "Kinshasa",
+        "Cairo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Colombia?",
+      "options": [
+        "Bogotá",
+        "Kinshasa",
+        "Cairo",
+        "Paris"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in DR Congo?",
+      "options": [
+        "Kinshasa",
+        "Cairo",
+        "Paris",
+        "Delhi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Egypt?",
+      "options": [
+        "Cairo",
+        "Paris",
+        "Delhi",
+        "Jakarta"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in France?",
+      "options": [
+        "Paris",
+        "Delhi",
+        "Jakarta",
+        "Tehran"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in India?",
+      "options": [
+        "Delhi",
+        "Jakarta",
+        "Tehran",
+        "Tokyo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Indonesia?",
+      "options": [
+        "Jakarta",
+        "Tehran",
+        "Tokyo",
+        "Kuala Lumpur"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Iran?",
+      "options": [
+        "Tehran",
+        "Tokyo",
+        "Kuala Lumpur",
+        "Mexico City"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Japan?",
+      "options": [
+        "Tokyo",
+        "Kuala Lumpur",
+        "Mexico City",
+        "Yangon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Malaysia?",
+      "options": [
+        "Kuala Lumpur",
+        "Mexico City",
+        "Yangon",
+        "Lagos"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Mexico?",
+      "options": [
+        "Mexico City",
+        "Yangon",
+        "Lagos",
+        "Karachi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Myanmar?",
+      "options": [
+        "Yangon",
+        "Lagos",
+        "Karachi",
+        "Lima"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Nigeria?",
+      "options": [
+        "Lagos",
+        "Karachi",
+        "Lima",
+        "Manila"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Pakistan?",
+      "options": [
+        "Karachi",
+        "Lima",
+        "Manila",
+        "Moscow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Peru?",
+      "options": [
+        "Lima",
+        "Manila",
+        "Moscow",
+        "Riyadh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Philippines?",
+      "options": [
+        "Manila",
+        "Moscow",
+        "Riyadh",
+        "Seoul"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Russia?",
+      "options": [
+        "Moscow",
+        "Riyadh",
+        "Seoul",
+        "Madrid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Saudi Arabia?",
+      "options": [
+        "Riyadh",
+        "Seoul",
+        "Madrid",
+        "Khartoum"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in South Korea?",
+      "options": [
+        "Seoul",
+        "Madrid",
+        "Khartoum",
+        "Dar es Salaam"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Spain?",
+      "options": [
+        "Madrid",
+        "Khartoum",
+        "Dar es Salaam",
+        "Bangkok"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Sudan?",
+      "options": [
+        "Khartoum",
+        "Dar es Salaam",
+        "Bangkok",
+        "Istanbul"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Tanzania?",
+      "options": [
+        "Dar es Salaam",
+        "Bangkok",
+        "Istanbul",
+        "London"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Thailand?",
+      "options": [
+        "Bangkok",
+        "Istanbul",
+        "London",
+        "New York"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Turkey?",
+      "options": [
+        "Istanbul",
+        "London",
+        "New York",
+        "Istanbul"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in United Kingdom?",
+      "options": [
+        "London",
+        "New York",
+        "Istanbul",
+        "New York"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in United States?",
+      "options": [
+        "New York",
+        "Istanbul",
+        "New York",
+        "London"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the most famous city in Vietnam?",
+      "options": [
+        "Ho Chi Minh City",
+        "New York",
+        "London",
+        "Istanbul"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Australia?",
+      "options": [
+        "Sydney Opera House",
+        "Ho Chi Minh City",
+        "Christ the Redeemer of Rio"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Brazil?",
+      "options": [
+        "Christ the Redeemer of Rio",
+        "Sydney Opera House"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Chile?",
+      "options": [
+        "Statues of Easter Island",
+        "Christ the Redeemer of Rio",
+        "Great Wall"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in China?",
+      "options": [
+        "Great Wall",
+        "Statues of Easter Island",
+        "Basilica of Our Lady of Peace Yamoussoukro"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Ivory Coast?",
+      "options": [
+        "Basilica of Our Lady of Peace Yamoussoukro",
+        "Great Wall",
+        "Pyramid of Cheops"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Egypt?",
+      "options": [
+        "Pyramid of Cheops",
+        "Basilica of Our Lady of Peace Yamoussoukro",
+        "Statue of Liberty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in United States?",
+      "options": [
+        "Statue of Liberty",
+        "Pyramid of Cheops",
+        "Taj Mahal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in India?",
+      "options": [
+        "Taj Mahal",
+        "Statue of Liberty",
+        "Brandenburg Gate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Germany?",
+      "options": [
+        "Brandenburg Gate",
+        "Taj Mahal",
+        "Belem Tower"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Portugal?",
+      "options": [
+        "Belem Tower",
+        "Brandenburg Gate",
+        "Taj Mahal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the Famous landmark in Thailand?",
+      "options": [
+        "Reclining Buddha Temple",
+        "Belem Tower",
+        "Brandenburg Gate",
+        "Belem Tower"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Sydney Opera House?",
+      "options": [
+        "Australia",
+        "London",
+        "Istanbul",
+        "Brazil"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Christ the Redeemer of Rio?",
+      "options": [
+        "Brazil",
+        "Australia",
+        "Chile"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Statues of Easter Island?",
+      "options": [
+        "Chile",
+        "Brazil",
+        "China"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Great Wall?",
+      "options": [
+        "China",
+        "Chile",
+        "Ivory Coast"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Basilica of Our Lady of Peace Yamoussoukro?",
+      "options": [
+        "Ivory Coast",
+        "China",
+        "Egypt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Pyramid of Cheops?",
+      "options": [
+        "Egypt",
+        "Ivory Coast",
+        "United States"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Statue of Liberty?",
+      "options": [
+        "United States",
+        "Egypt",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Taj Mahal?",
+      "options": [
+        "India",
+        "United States",
+        "Germany"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Brandenburg Gate?",
+      "options": [
+        "Germany",
+        "India",
+        "Egypt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is Belem Tower?",
+      "options": [
+        "Portugal",
+        "Germany",
+        "India",
+        "Egypt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "where is  Reclining Buddha Temple?",
+      "options": [
+        "Thailand",
+        "Portugal",
+        "United States",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its cultural diversity and vibrant cities like Mumbai and Delhi?",
+      "options": [
+        "China",
+        "India",
+        "Thailand",
+        "Brazil"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its iconic landmark, the Great Wall?",
+      "options": [
+        "India",
+        "China",
+        "France",
+        "Australia"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is home to the famous carnival festival held in Rio de Janeiro?",
+      "options": [
+        "Brazil",
+        "Canada",
+        "Egypt",
+        "Germany"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its tulip fields and windmills?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its delicious sushi and cherry blossoms?",
+      "options": [
+        "Japan",
+        "Mexico",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its historical sites such as the Pyramids of Giza?",
+      "options": [
+        "Brazil",
+        "Greece",
+        "Egypt",
+        "Argentina"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is the birthplace of democracy and the Olympic Games?",
+      "options": [
+        "Greece",
+        "India",
+        "United States",
+        "China"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its breathtaking fjords and the Aurora Borealis?",
+      "options": [
+        "Australia",
+        "Norway",
+        "India",
+        "Canada"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its iconic pyramids and Sphinx?",
+      "options": [
+        "Egypt",
+        "France",
+        "Japan",
+        "Mexico"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous Oktoberfest beer festival?",
+      "options": [
+        "Spain",
+        "Germany",
+        "Italy",
+        "Sweden"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its beautiful beaches and tango dance?",
+      "options": [
+        "Argentina",
+        "China",
+        "Canada",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its ancient ruins of Machu Picchu?",
+      "options": [
+        "Italy",
+        "Peru",
+        "Australia",
+        "Greece"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Alps?",
+      "options": [
+        "Switzerland",
+        "India",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its delicious cuisine, including pizza and pasta?",
+      "options": [
+        "Mexico",
+        "Italy",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is home to the famous Angkor Wat temple complex?",
+      "options": [
+        "Cambodia",
+        "Canada",
+        "Egypt",
+        "Germany"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its stunning beaches, including Copacabana and Ipanema?",
+      "options": [
+        "Brazil",
+        "China",
+        "India",
+        "Thailand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its historical landmarks such as the Colosseum?",
+      "options": [
+        "Greece",
+        "Egypt",
+        "Italy",
+        "Argentina"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its vibrant festivals, such as Diwali and Holi?",
+      "options": [
+        "India",
+        "Japan",
+        "Mexico",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its beautiful islands, such as Bali and Komodo?",
+      "options": [
+        "Australia",
+        "Japan",
+        "Indonesia",
+        "Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its famous Neuschwanstein Castle?",
+      "options": [
+        "Australia",
+        "Germany",
+        "India",
+        "Canada"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its historical sites such as the Acropolis?",
+      "options": [
+        "Brazil",
+        "Greece",
+        "China",
+        "France"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its stunning fjords and Viking history?",
+      "options": [
+        "Australia",
+        "Norway",
+        "India",
+        "Spain"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its delicious cuisine, including sushi and ramen?",
+      "options": [
+        "Japan",
+        "Mexico",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous ruins of Petra?",
+      "options": [
+        "Egypt",
+        "Italy",
+        "Peru",
+        "Jordan"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Serengeti?",
+      "options": [
+        "Australia",
+        "India",
+        "Tanzania",
+        "Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its iconic Eiffel Tower and Louvre Museum?",
+      "options": [
+        "Egypt",
+        "France",
+        "Japan",
+        "Mexico"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its delicious sausages and beer?",
+      "options": [
+        "Germany",
+        "Spain",
+        "Italy",
+        "Sweden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its beautiful landscapes, including Patagonia?",
+      "options": [
+        "Argentina",
+        "China",
+        "Canada",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous Taj Mahal?",
+      "options": [
+        "India",
+        "China",
+        "Thailand",
+        "Brazil"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its stunning beaches, including Bondi Beach?",
+      "options": [
+        "Australia",
+        "Greece",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its mouthwatering kebabs and baklava?",
+      "options": [
+        "Greece",
+        "India",
+        "Turkey",
+        "China"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its cultural diversity and vibrant cities like Mumbai and Delhi?",
+      "options": [
+        "China",
+        "India",
+        "Thailand",
+        "Brazil"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its iconic landmark, the Great Wall?",
+      "options": [
+        "India",
+        "China",
+        "France",
+        "Australia"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is home to the famous carnival festival held in Rio de Janeiro?",
+      "options": [
+        "Brazil",
+        "Canada",
+        "Egypt",
+        "Germany"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its tulip fields and windmills?",
+      "options": [
+        "Italy",
+        "Germany",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its delicious sushi and cherry blossoms?",
+      "options": [
+        "Japan",
+        "Mexico",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its historical sites such as the Pyramids of Giza?",
+      "options": [
+        "Brazil",
+        "Greece",
+        "Egypt",
+        "Argentina"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is the birthplace of democracy and the Olympic Games?",
+      "options": [
+        "Greece",
+        "India",
+        "United States",
+        "China"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its breathtaking fjords and the Aurora Borealis?",
+      "options": [
+        "Australia",
+        "Norway",
+        "India",
+        "Canada"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its iconic pyramids and Sphinx?",
+      "options": [
+        "Egypt",
+        "France",
+        "Japan",
+        "Mexico"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous Oktoberfest beer festival?",
+      "options": [
+        "Spain",
+        "Germany",
+        "Italy",
+        "Sweden"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its beautiful beaches and tango dance?",
+      "options": [
+        "Argentina",
+        "China",
+        "Canada",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its ancient ruins of Machu Picchu?",
+      "options": [
+        "Italy",
+        "Peru",
+        "Australia",
+        "Greece"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Alps?",
+      "options": [
+        "Switzerland",
+        "India",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its delicious cuisine, including pizza and pasta?",
+      "options": [
+        "Mexico",
+        "Italy",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is home to the famous Angkor Wat temple complex?",
+      "options": [
+        "Cambodia",
+        "Canada",
+        "Egypt",
+        "Germany"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its stunning beaches, including Copacabana and Ipanema?",
+      "options": [
+        "Brazil",
+        "China",
+        "India",
+        "Thailand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its historical landmarks such as the Colosseum?",
+      "options": [
+        "Greece",
+        "Egypt",
+        "Italy",
+        "Argentina"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its vibrant festivals, such as Diwali and Holi?",
+      "options": [
+        "India",
+        "Japan",
+        "Mexico",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its beautiful islands, such as Bali and Komodo?",
+      "options": [
+        "Australia",
+        "Japan",
+        "Indonesia",
+        "Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its famous Neuschwanstein Castle?",
+      "options": [
+        "Australia",
+        "Germany",
+        "India",
+        "Canada"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its historical sites such as the Acropolis?",
+      "options": [
+        "Brazil",
+        "Greece",
+        "China",
+        "France"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its stunning fjords and Viking history?",
+      "options": [
+        "Australia",
+        "Norway",
+        "India",
+        "Spain"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its delicious cuisine, including sushi and ramen?",
+      "options": [
+        "Japan",
+        "Mexico",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous ruins of Petra?",
+      "options": [
+        "Egypt",
+        "Italy",
+        "Peru",
+        "Jordan"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Serengeti?",
+      "options": [
+        "Australia",
+        "India",
+        "Tanzania",
+        "Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its iconic Eiffel Tower and Louvre Museum?",
+      "options": [
+        "Egypt",
+        "France",
+        "Japan",
+        "Mexico"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its delicious sausages and beer?",
+      "options": [
+        "Germany",
+        "Spain",
+        "Italy",
+        "Sweden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its beautiful landscapes, including Patagonia?",
+      "options": [
+        "Argentina",
+        "China",
+        "Canada",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous Taj Mahal?",
+      "options": [
+        "India",
+        "China",
+        "Thailand",
+        "Brazil"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its stunning beaches, including Bondi Beach?",
+      "options": [
+        "Australia",
+        "Greece",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its mouthwatering kebabs and baklava?",
+      "options": [
+        "Greece",
+        "India",
+        "Turkey",
+        "China"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its vibrant nightlife and coffee shops?",
+      "options": [
+        "Brazil",
+        "France",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its stunning landscapes, including the Grand Canyon?",
+      "options": [
+        "Canada",
+        "United States",
+        "Australia",
+        "Mexico"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its rich historical heritage, including the ruins of Pompeii?",
+      "options": [
+        "Greece",
+        "Italy",
+        "China",
+        "Egypt"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its breathtaking landscapes, including the Matterhorn?",
+      "options": [
+        "Italy",
+        "Switzerland",
+        "Spain",
+        "India"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is home to the famous Galapagos Islands?",
+      "options": [
+        "Ecuador",
+        "Peru",
+        "Chile",
+        "Colombia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its vibrant music and dance styles, such as salsa and rumba?",
+      "options": [
+        "Brazil",
+        "Spain",
+        "Argentina",
+        "Cuba"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which country is famous for its stunning landscapes, including the Scottish Highlands?",
+      "options": [
+        "Australia",
+        "United Kingdom",
+        "Canada",
+        "New Zealand"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its beautiful fjords and Viking history?",
+      "options": [
+        "Iceland",
+        "Norway",
+        "Sweden",
+        "Denmark"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its ancient ruins of Chichen Itza?",
+      "options": [
+        "Mexico",
+        "Peru",
+        "Egypt",
+        "Greece"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Amazon rainforest?",
+      "options": [
+        "Brazil",
+        "Australia",
+        "India",
+        "Canada"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its historical sites such as the Alhambra?",
+      "options": [
+        "Italy",
+        "Spain",
+        "France",
+        "Egypt"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its vibrant cultural festivals, such as Songkran?",
+      "options": [
+        "Japan",
+        "China",
+        "Thailand",
+        "South Korea"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its stunning landscapes, including the Great Barrier Reef?",
+      "options": [
+        "Australia",
+        "Greece",
+        "Canada",
+        "Mexico"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its historical sites such as the Red Square and the Kremlin?",
+      "options": [
+        "Russia",
+        "Germany",
+        "Italy",
+        "France"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its delicious cuisine, including pho and banh mi?",
+      "options": [
+        "Vietnam",
+        "Mexico",
+        "India",
+        "Japan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous Inca citadel of Machu Picchu?",
+      "options": [
+        "Brazil",
+        "Peru",
+        "Argentina",
+        "Chile"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Sahara Desert?",
+      "options": [
+        "Australia",
+        "China",
+        "Egypt",
+        "Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its iconic landmarks such as the Statue of Liberty and the Grand Central Terminal?",
+      "options": [
+        "United States",
+        "France",
+        "England",
+        "Italy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its vibrant cultural heritage, including the tango dance?",
+      "options": [
+        "Spain",
+        "Greece",
+        "Argentina",
+        "Mexico"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its beautiful landscapes, including the Lake District?",
+      "options": [
+        "Australia",
+        "Italy",
+        "Canada",
+        "United Kingdom"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which country is known for its stunning fjords and Viking history?",
+      "options": [
+        "Australia",
+        "Norway",
+        "India",
+        "Spain"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is famous for its delicious cuisine, including sushi and ramen?",
+      "options": [
+        "Japan",
+        "Mexico",
+        "Russia",
+        "South Korea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous ruins of Petra?",
+      "options": [
+        "Egypt",
+        "Italy",
+        "Peru",
+        "Jordan"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which country is known for its stunning landscapes, including the Serengeti?",
+      "options": [
+        "Australia",
+        "India",
+        "Tanzania",
+        "Canada"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is famous for its iconic Eiffel Tower and Louvre Museum?",
+      "options": [
+        "Egypt",
+        "France",
+        "Japan",
+        "Mexico"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which country is known for its delicious sausages and beer?",
+      "options": [
+        "Germany",
+        "Spain",
+        "Italy",
+        "Sweden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its beautiful landscapes, including Patagonia?",
+      "options": [
+        "Argentina",
+        "China",
+        "Canada",
+        "Russia"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is home to the famous Taj Mahal?",
+      "options": [
+        "India",
+        "China",
+        "Thailand",
+        "Brazil"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is known for its stunning beaches, including Bondi Beach?",
+      "options": [
+        "Australia",
+        "Greece",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which country is famous for its mouthwatering kebabs and baklava?",
+      "options": [
+        "Greece",
+        "India",
+        "Turkey",
+        "China"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which country is known for its vibrant nightlife and coffee shops?",
+      "options": [
+        "Brazil",
+        "France",
+        "Netherlands",
+        "Spain"
+      ],
+      "answer": 2
+    }
+  ]
 }
