@@ -3499,8 +3499,7 @@
       "options": [
         "Istanbul",
         "London",
-        "New York",
-        "Istanbul"
+        "New York"
       ],
       "answer": 0
     },
@@ -3509,8 +3508,7 @@
       "options": [
         "London",
         "New York",
-        "Istanbul",
-        "New York"
+        "Istanbul"
       ],
       "answer": 0
     },
@@ -3519,7 +3517,6 @@
       "options": [
         "New York",
         "Istanbul",
-        "New York",
         "London"
       ],
       "answer": 0
