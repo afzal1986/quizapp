@@ -186,8 +186,7 @@
         "Belmopan",
         "Porto-Novo",
         "Thimphu",
-        "Sucre (de jure)",
-        ""
+        "Sucre (de jure)"
       ],
       "answer": 0
     },
@@ -197,7 +196,6 @@
         "Porto-Novo",
         "Thimphu",
         "Sucre (de jure)",
-        "",
         "La Paz (seat of government)"
       ],
       "answer": 0
@@ -207,7 +205,6 @@
       "options": [
         "Thimphu",
         "Sucre (de jure)",
-        "",
         "La Paz (seat of government)",
         "Sarajevo"
       ],
@@ -509,8 +506,7 @@
         "Quito",
         "Cairo",
         "San Salvador",
-        "Malabo (de jure)",
-        ""
+        "Malabo (de jure)"
       ],
       "answer": 0
     },
@@ -520,7 +516,6 @@
         "Cairo",
         "San Salvador",
         "Malabo (de jure)",
-        "",
         "Oyala (seat of government)"
       ],
       "answer": 0
@@ -530,7 +525,6 @@
       "options": [
         "San Salvador",
         "Malabo (de jure)",
-        "",
         "Oyala (seat of government)",
         "Asmara"
       ],
