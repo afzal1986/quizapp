@@ -1,14 +1,624 @@
 {
-   "testQuestions":15,
-   "testFailQuestions":0,
-   "practiceQuestions":40,
-   "passPercent":75,
-   "passQuestions":-1,
-   "timeInMins":10,
-   "credits":3,
-   "practiceMsg":"Answer 40 practice questions.\n\nNo time limit.",
-   "testMsg":"Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
-   "earnMsg":"Watch sponsored content to earn +3 credits?",
-   "questions":[
-   ]
+  "testQuestions": 15,
+  "testFailQuestions": 0,
+  "practiceQuestions": 40,
+  "passPercent": 75,
+  "passQuestions": -1,
+  "timeInMins": 10,
+  "credits": 3,
+  "practiceMsg": "Answer 40 practice questions.\n\nNo time limit.",
+  "testMsg": "Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
+  "earnMsg": "Watch sponsored content to earn +3 credits?",
+  "questions": [
+    {
+      "questionText": "We live in a galaxy which has a diameter over?",
+      "options": [
+        "1000 light years",
+        "10000 light years",
+        "100000 light years",
+        "1000000 light years"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "What is the number of planets in the universe?",
+      "options": [
+        "10,000,000,000,000,000,000,000",
+        "20,000,000,000,000,000,000,000",
+        "30,000,000,000,000,000,000,000",
+        "40,000,000,000,000,000,000,000"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "The day is longer than a year on?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "How many galaxies the universe contains?",
+      "options": [
+        "over 50 billion",
+        "over 100 billion",
+        "over 200 billion",
+        "over 500 billion"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "In space, our skin cells molt and and what pulls them away from our bodies?",
+      "options": [
+        "wind",
+        "pressure",
+        "gravity",
+        "cold"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "How many stars are here in the Space?",
+      "options": [
+        "300 sextillion",
+        "400 sextillion",
+        "500 sextillion",
+        "600 sextillion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What makes the space completely silent?",
+      "options": [
+        "There is no light in space",
+        "There is no gravity in space",
+        "There is no atmosphere in space",
+        "There is no ice in space"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "You become taller in Space because of?",
+      "options": [
+        "minigravity",
+        "megagravity",
+        "miligravity",
+        "microgravity"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "What is the largest asteroid in Space?",
+      "options": [
+        "Pallas",
+        "Ceres",
+        "Vesta",
+        "Hygiea"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "What is refereed to as the 'lava world'?",
+      "options": [
+        "Kepler-78b",
+        "Kooler-78b",
+        "Selver-78b",
+        "Hopler-78b"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "How many years the Sun takes to travel around the galaxy once – a journey of 100,000 light years?",
+      "options": [
+        "100 million years",
+        "200 million years",
+        "300 million years",
+        "400 million years"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Because lower gravity, a person with 100kg weigh on Earth would only weigh 38kg on?",
+      "options": [
+        "Neptune",
+        "Venus",
+        "Mars",
+        "Uranus"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which is the only planet that spins backward?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the green color planet?",
+      "options": [
+        "Uranus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which planet has the largest dust storms, it lasts for months and covers up the whole planet?",
+      "options": [
+        "Mercury",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "What is the most massive and hottest star?",
+      "options": [
+        "R136a1",
+        "R163a1",
+        "R1361a",
+        "R316a1"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the biggest star in the universe?",
+      "options": [
+        "VY MajorisCanis",
+        "VY CanisMajoris",
+        "CanisMajoris VY",
+        "YV CanisMajoris"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "How much bigger is Canis Majoris than the sun?",
+      "options": [
+        "1,000 times wider",
+        "2,000 times wider",
+        "3,000 times wider",
+        "4,000 times wider"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "How far is the Canis Majoris, the largest star from Earth?",
+      "options": [
+        "1,900 light years",
+        "2,900 light years",
+        "3,900 light years",
+        "4,900 light years"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "A day in Mercury lasts approximately as long as how many days on Earth?",
+      "options": [
+        "49",
+        "59",
+        "69",
+        "79"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "What is the closest galaxy to us?",
+      "options": [
+        "Messier 82",
+        "Black Eye",
+        "Sombrero",
+        "Andromeda"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "What is the single largest galaxy that has ever been found in the observable universe?",
+      "options": [
+        "VenIC 1101",
+        "Messier 81",
+        "Large Magellanic Cloud",
+        "Triangulum"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Pinwheel is the name of a?",
+      "options": [
+        "Star",
+        "Galaxy",
+        "Orbit",
+        "Meteor"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "There are as many as ten million to a billion such black holes in the _____ alone?",
+      "options": [
+        "Milky Way",
+        "Canis Major Overdensity",
+        "Cosmos Redshift 7",
+        "Andromeda"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What was the first artificial satellite in space?",
+      "options": [
+        "Explorer 1",
+        "Astrosat",
+        "Sputnik",
+        "Ohsumi"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which women was the second woman who travels to space?",
+      "options": [
+        "Svetlana Savitskaya",
+        "Savitskaya",
+        "Yelena V. Kondakova",
+        "Valentina Tereshkova"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Normal pens won’t work in Space?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The ring of Saturn planet is not in the solid state?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The Sun is white, not yellow?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Name of the biggest black hole is?",
+      "options": [
+        "ngc 1277 black hole",
+        "ton 618 black hole",
+        "supermassive black hole",
+        "ultramassive black hole"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "In Space, if two pieces of metal touch?",
+      "options": [
+        "they wont bond together",
+        "they bond together temporarily",
+        "they will have no reaction to each other",
+        "they bond together permanently"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which option is not applicable for the planet 55 Cancrie?",
+      "options": [
+        "It has a radius twice Earth’s",
+        "It has a mass eight times greater",
+        "It may have a surface made up of graphite and diamond.",
+        "It’s 400 light years away from us"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "One day on _____ is longer than one year?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "In 3.75 billion years the Milky Way galaxy will collide with?",
+      "options": [
+        "NGC 5195",
+        "Abell 2667",
+        "Andromeda",
+        "Arp 220"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Width of the largest known asteroid is?",
+      "options": [
+        "645 km (600 mi)",
+        "765 km (600 mi)",
+        "865 km (600 mi)",
+        "965 km (600 mi)"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "The Moon was once a piece of the Earth?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is not feasible in case of Solar Eclipses?",
+      "options": [
+        "occur at daytime",
+        "Maximum time duration: 7 minutes and 40 seconds",
+        "moon comes in between the sun and the earth",
+        "occur only during a full moon"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "What is not true in case of a lunar eclipse?",
+      "options": [
+        "can occur only during a full moon",
+        "Maximum time duration: 3 hours and 40 minutes",
+        "is safe to observe with naked eyes",
+        "occurs at day"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Lunar eclipses occur?",
+      "options": [
+        "in the day",
+        "at night",
+        "in the day or at night",
+        "in the day and at night"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "There are less trees on Earth than stars in the Milky Way?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Total Solar Eclipse is said to occur when he moon?",
+      "options": [
+        "completely covers the sun with a faint white corona",
+        "covers the sun, only partially",
+        "seems to be smaller than the sun and a bright ring of sunlight remains visible.",
+        "has a combination of total and annular solar eclipses"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "It takes Venus 243 Earth years to do a full rotation on its axis, but 225 Earth days to do an orbit of the sun. Therefore,",
+      "options": [
+        "A night on Venus is longer than a year on Venus.",
+        "A day on Venus is shorter than a year on Venus.",
+        "A night on Venus is shorter than a year on Venus.",
+        "A day on Venus is longer than a year on Venus."
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "When it is possible to observe the sun and the eclipsed moon together at the juncture of sunrise and sunset, the phenomenon is known as a?",
+      "options": [
+        "Penumbral Lunar Eclipse",
+        "Partial Lunar Eclipse",
+        "horizontal lunar eclipse",
+        "Total Lunar Eclipse"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which of the Saturn's moons is walnut-shaped because it's absorbed some of Saturn's rings?",
+      "options": [
+        "Mimas",
+        "Hyperion",
+        "Rhea",
+        "Pan"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "It rains _____ on Jupiter and Saturn?",
+      "options": [
+        "diamonds",
+        "acid",
+        "water",
+        "snow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Like Saturn, there's an asteroid with rings?",
+      "options": [
+        "Orbitiko",
+        "Sisilo",
+        "Chariklo",
+        "Xario"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Due to the moon's changing orbit, total eclipse will not be visible after?",
+      "options": [
+        "about 30 million years",
+        "about 40 million years",
+        "about 50 million years",
+        "about 60 million years"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which planet is known as the Morning Star?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the third brightest celestial object in our sky?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which is the smallest planet within our solar system?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 3
+    },
+    {
+      "questionText": "Which is the oldest planet in our solar system?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which is the densest planet in our solar system?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Earth",
+        "Mercury"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which planet rotates on its side?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 2
+    },
+    {
+      "questionText": "Which is the second smallest planet within our solar system?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "questionText": "Which planet spins backward relative to the others?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which planet has the most volcanoes?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The moon called Titan orbits which planet?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "From 1978 to 1999, which planet was farthest from the Sun?",
+      "options": [
+        "Neptune",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which planet has a two-tone moon?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which planet is closest in size to Earth?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which planet has the most moons?",
+      "options": [
+        "Saturn",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Which planet has supersonic winds?",
+      "options": [
+        "Neptune",
+        "Mars",
+        "Uranus",
+        "Mercury"
+      ],
+      "answer": 0
+    }
+  ]
 }
