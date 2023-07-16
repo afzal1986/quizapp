@@ -69,7 +69,7 @@
          "questionText":"Evaluate: 3² - 4 × 2 + 5",
          "options":[
             "5",
-            "9",
+            "6",
             "11",
             "17"
          ],
@@ -91,7 +91,7 @@
          "questionText":"Solve the equation: 2(x - 3) = 10",
          "options":[
             "x = 4",
-            "x = 5",
+            "x = 8",
             "x = 6",
             "x = 7"
          ],
@@ -117,7 +117,7 @@
             "x = 7",
             "x = 9"
          ],
-         "answer":3,
+         "answer":1,
          "explanation":"Adding 7 to both sides and then dividing by 3, we find that x = 9."
       },
       {
@@ -136,7 +136,7 @@
          "options":[
             "10",
             "11",
-            "13",
+            "17",
             "16"
          ],
          "answer":2,
@@ -161,7 +161,7 @@
             "x = 8",
             "x = 10"
          ],
-         "answer":1,
+         "answer":0,
          "explanation":"Subtracting 2 from both sides and then dividing by 3, we find that x = 4."
       },
       {
@@ -183,7 +183,7 @@
             "13",
             "17"
          ],
-         "answer":2,
+         "answer":3,
          "explanation":"Using the order of operations, the expression simplifies to 13."
       },
       {
@@ -205,7 +205,7 @@
             "x = 9",
             "x = 11"
          ],
-         "answer":2,
+         "answer":3,
          "explanation":"Dividing both sides by 3 and then adding 4, we find that x = 9."
       },
       {
@@ -227,7 +227,7 @@
             "x = 6",
             "x = 7"
          ],
-         "answer":1,
+         "answer":0,
          "explanation":"Subtracting 3 from both sides and then dividing by 2, we find that x = 4."
       },
       {
@@ -245,7 +245,7 @@
          "questionText":"Simplify the expression: 5² + 4 × 3 - 2",
          "options":[
             "21",
-            "27",
+            "35",
             "31",
             "37"
          ],
@@ -271,7 +271,7 @@
             "x = 10",
             "x = 12"
          ],
-         "answer":1,
+         "answer":0,
          "explanation":"Adding 6 to both sides and then dividing by 4, we find that x = 8."
       },
       {
@@ -293,7 +293,7 @@
             "x = 7",
             "x = 8"
          ],
-         "answer":2,
+         "answer":0,
          "explanation":"Adding 2 to both sides and then dividing by 5, we find that x = 7."
       },
       {
@@ -310,7 +310,7 @@
       {
          "questionText":"Evaluate: 2² - 4 × 3 + 5",
          "options":[
-            "-1",
+            "-3",
             "1",
             "3",
             "7"
@@ -355,11 +355,11 @@
          "questionText":"Find the value of x in the equation: 3x + 7 = 25",
          "options":[
             "x = 6",
-            "x =8",
+            "x = 8",
             "x = 9",
             "x = 10"
          ],
-         "answer":1,
+         "answer":0,
          "explanation":"Subtracting 7 from both sides and then dividing by 3, we find that x = 6."
       },
       {
@@ -381,7 +381,7 @@
             "47",
             "54"
          ],
-         "answer":1,
+         "answer":2,
          "explanation":"Using the order of operations, the expression simplifies to 41."
       },
       {
@@ -403,7 +403,7 @@
             "x = 7",
             "x = 8"
          ],
-         "answer":2,
+         "answer":0,
          "explanation":"Adding 3 to both sides and then dividing by 5, we find that x = 7."
       },
       {
@@ -447,7 +447,7 @@
             "9",
             "11"
          ],
-         "answer":2,
+         "answer":1,
          "explanation":"Using the order of operations, the expression simplifies to 9."
       },
       {
@@ -465,7 +465,7 @@
          "questionText":"Solve the equation: 2(x - 2) = 14",
          "options":[
             "x = 5",
-            "x = 6",
+            "x = 9",
             "x = 7",
             "x = 8"
          ],
@@ -510,7 +510,7 @@
          "options":[
             "38",
             "47",
-            "55",
+            "58",
             "64"
          ],
          "answer":2,
@@ -535,7 +535,7 @@
             "x = 10",
             "x = 11"
          ],
-         "answer":1,
+         "answer":0,
          "explanation":"Adding 5 to both sides and then dividing by 4, we find that x = 9."
       },
       {
