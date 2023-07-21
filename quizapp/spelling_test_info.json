@@ -1,0 +1,2622 @@
+{
+  "testQuestions": 15,
+  "testFailQuestions": 0,
+  "practiceQuestions": 40,
+  "passPercent": 75,
+  "passQuestions": -1,
+  "timeInMins": 10,
+  "credits": 3,
+  "practiceMsg": "Answer 40 practice questions.\n\nNo time limit.",
+  "testMsg": "Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
+  "earnMsg": "Watch sponsored content to earn +3 credits?",
+  "questions": [
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abandon",
+        "Abbandon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abase",
+        "Abbase"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abbess",
+        "Abbbess"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abbey",
+        "Abbbey"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abbot",
+        "Abbbot"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abdicate",
+        "Abbdicate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abdomen",
+        "Abbdomen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abdominal",
+        "Abbdominal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abduction",
+        "Abbduction"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abed",
+        "Abbed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aberration",
+        "Abberration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abet",
+        "Abbet"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abeyance",
+        "Abbeyance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abhorrence",
+        "Abbhorrence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abhorrent",
+        "Abbhorrent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abidance",
+        "Abbidance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abject",
+        "Abbject"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abjure",
+        "Abbjure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Able-Bodied",
+        "Abble-Bodied"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ablution",
+        "Abblution"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abnegate",
+        "Abbnegate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abnormal",
+        "Abbnormal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abominable",
+        "Abbominabble"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abominate",
+        "Abbominate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abomination",
+        "Abbomination"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aboriginal",
+        "Abboriginal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aborigine",
+        "Abborigine"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aboveboard",
+        "Abboveboard"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abrade",
+        "Abbrade"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abrasion",
+        "Abbrasion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abrasive",
+        "Abbrasive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abridge",
+        "Abbridge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abridgment",
+        "Abbridgment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abrogate",
+        "Abbrogate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abrupt",
+        "Abbrupt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abscess",
+        "Abbscess"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abscission",
+        "Abbscission"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abscond",
+        "Abbscond"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absence",
+        "Abbsence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absentminded",
+        "Abbsentminded"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absolute",
+        "Abbsolute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absolution",
+        "Abbsolution"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absolve",
+        "Abbsolve"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absorb",
+        "Abbsorb"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absorption",
+        "Abbsorption"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abstain",
+        "Abbstain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abstemious",
+        "Abbstemious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abstinence",
+        "Abbstinence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abstract",
+        "Abbstract"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abstruse",
+        "Abbstruse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Absurd",
+        "Abbsurd"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abundant",
+        "Abbundant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abusive",
+        "Abbusive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abut",
+        "Abbut"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Abyss",
+        "Abbyss"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Academic",
+        "Akademic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Academician",
+        "Akademician"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Academy",
+        "Akademy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accede",
+        "Akcede"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accelerate",
+        "Akcelerate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accept",
+        "Akcept"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Access",
+        "Akcess"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accessible",
+        "Akcessible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accession",
+        "Akcession"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accessory",
+        "Akcessory"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acclaim",
+        "Akclaim"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accommodate",
+        "Akcommodate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accompaniment",
+        "Akcompaniment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accompanist",
+        "Akcompanist"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accompany",
+        "Akcompany"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accomplice",
+        "Akcomplice"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accomplish",
+        "Akcomplish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accord",
+        "Akcord"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accordion",
+        "Akcordion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accost",
+        "Akcost"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Account",
+        "Akcount"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accouter",
+        "Akcouter"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accredit",
+        "Akcredit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accumulate",
+        "Akcumulate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accuracy",
+        "Akcuraky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accurate",
+        "Akcurate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accursed",
+        "Akcursed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accusation",
+        "Akcusation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accusatory",
+        "Akcusatory"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accuse",
+        "Akcuse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Accustom",
+        "Akcustom"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acerbity",
+        "Akerbity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acetate",
+        "Aketate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acetic",
+        "Aketic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ache",
+        "Akhe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Achilles",
+        "Akhilles"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Achromatic",
+        "Akhromatic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acid",
+        "Akid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acidify",
+        "Akidify"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acknowledge",
+        "Akknowledge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acknowledgment",
+        "Akknowledgment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acme",
+        "Akme"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acoustic",
+        "Akoustic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquaint",
+        "Akquaint"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquiesce",
+        "Akquiesce"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquiescence",
+        "Akquiescence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquire",
+        "Akquire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquisition",
+        "Akquisition"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquit",
+        "Akquit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquittal",
+        "Akquittal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acquittance",
+        "Akquittance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acreage",
+        "Akreage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acrid",
+        "Akrid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acrimonious",
+        "Akrimonious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acrimony",
+        "Akrimony"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Actionable",
+        "Aktionable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Actuality",
+        "Aktuality"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Actuary",
+        "Aktuary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Actuate",
+        "Aktuate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acumen",
+        "Akumen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Acute",
+        "Akute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adage",
+        "Addage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adamant",
+        "Addamant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adapt",
+        "Addapt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Addendum",
+        "Adddendum"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Addiction",
+        "Adddiction"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Addle",
+        "Adddle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Address",
+        "Adddress"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adduce",
+        "Addduce"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adept",
+        "Addept"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adhere",
+        "Addhere"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adherence",
+        "Addherence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adherent",
+        "Addherent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adhesion",
+        "Addhesion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adieu",
+        "Addieu"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adjacency",
+        "Addjacency"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adjacent",
+        "Addjacent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adjudge",
+        "Addjudge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adjunct",
+        "Addjunct"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adjuration",
+        "Addjuration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adjutant",
+        "Addjutant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Administration",
+        "Addministration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Administrator",
+        "Addministrator"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Admissible",
+        "Addmissible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Admittance",
+        "Addmittance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Admonish",
+        "Addmonish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Admonition",
+        "Addmonition"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ado",
+        "Addo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adolescence",
+        "Addolescence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adoration",
+        "Addoration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adroit",
+        "Addroit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adulterant",
+        "Addulterant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adulterate",
+        "Addulterate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adumbrate",
+        "Addumbrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Advent",
+        "Addvent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adversary",
+        "Addversary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adverse",
+        "Addverse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Adversity",
+        "Addversity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Advert",
+        "Addvert"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Advertiser",
+        "Addvertiser"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Advisory",
+        "Addvisory"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Advocacy",
+        "Addvocacy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Advocate",
+        "Addvocate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aerial",
+        "Aeerial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aeronaut",
+        "Aeeronaut"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aeronautics",
+        "Aeeronautics"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aesthetic",
+        "Aeesthetic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affable",
+        "Afable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affect",
+        "Afect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affectation",
+        "Afectation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affected",
+        "Afected"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affidavit",
+        "Afidavit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affiliate",
+        "Afiliate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affiliation",
+        "Afiliation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affirmative",
+        "Afirmative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affix",
+        "Afix"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affliction",
+        "Afliction"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affluence",
+        "Afluence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Affront",
+        "Afront"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Afire",
+        "Affire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Afoot",
+        "Affoot"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aforesaid",
+        "Afforesaid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Afresh",
+        "Affresh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aftermath",
+        "Afftermath"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Afterthought",
+        "Affterthought"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Agenda",
+        "Aagendaa"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Agent",
+        "Aagent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Agglomerate",
+        "Aagglomeraate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggrandize",
+        "Agrandize"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggravate",
+        "Agravate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggravation",
+        "Agravation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggregate",
+        "Agregate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggress",
+        "Agress"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggression",
+        "Agression"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggressor",
+        "Agressor"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aggrieve",
+        "Agrieve"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aghast",
+        "Aghastt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Agile",
+        "Agiile"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Agitate",
+        "Agetate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Agrarian",
+        "Agrarean"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ailment",
+        "Aelment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Airy",
+        "Aery"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Akin",
+        "Acan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alabaster",
+        "Alabbaster"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alacrity",
+        "Alacrety"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Albino",
+        "Albeno"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Album",
+        "Albumm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alchemy",
+        "Alchemyy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alcohol",
+        "Alcoholl"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alcoholism",
+        "Alcoholesm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alcove",
+        "Alcovee"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alder",
+        "Aldir"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alderman",
+        "Aldermann"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alias",
+        "Aleas"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alien",
+        "Aleen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alienable",
+        "Aleenable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alienate",
+        "Aleenate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alienation",
+        "Aleenateon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aliment",
+        "Alement"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alimony",
+        "Alemony"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alkali",
+        "Alkalii"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allay",
+        "Alay"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allege",
+        "Alege"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allegiance",
+        "Alegiance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allegory",
+        "Alegory"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alleviate",
+        "Aleviate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alley",
+        "Aley"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alliance",
+        "Aliance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allot",
+        "Alot"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allotment",
+        "Alotment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alloy",
+        "Aloy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allude",
+        "Alude"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allure",
+        "Alure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Allusion",
+        "Alusion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alluvion",
+        "Aluvion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ally",
+        "Aly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Almanac",
+        "Almanaac"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Aloof",
+        "Alof"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Altar",
+        "altaae"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alter",
+        "alteer"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alteration",
+        "Alteraation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Altercate",
+        "Altercaate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Altercation",
+        "Alteercation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alternate",
+        "Alternnate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alternative",
+        "Alternnative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Altitude",
+        "Alltitude"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Alto",
+        "Altoo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Altruism",
+        "Altruissm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Altruist",
+        "Altruiist"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amalgam",
+        "Ammalgam"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amalgamate",
+        "Amaalgamate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amateur",
+        "Ammateur"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amatory",
+        "Ammatory"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambidextrous",
+        "Ambiddextrous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambiguous",
+        "Ambigguous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambitious",
+        "Ambbitious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambrosial",
+        "Ambbrosial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambulance",
+        "Ambuulance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambulate",
+        "Ambulatee"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ambush",
+        "Ambushh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ameliorate",
+        "Amelioraate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amenable",
+        "Amenaable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amend",
+        "Ammend"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Americanism",
+        "Ameericanism"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amicable",
+        "Amecable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amiss",
+        "Amess"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amity",
+        "Amety"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ammunition",
+        "Ammuneteon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amnesia",
+        "Amnesea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amnesty",
+        "Amnestiy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ampere",
+        "Ampire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ampersand",
+        "Ampirsand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amphibious",
+        "Amphebeous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amphitheater",
+        "Amphetheater"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amplitude",
+        "Ampletude"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amply",
+        "Ampliy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Amulet",
+        "Amullet"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anachronism",
+        "Anachronesm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Analogy",
+        "Analogiy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Analyst",
+        "Analiyst"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Analyze",
+        "Analiyze"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anarchy",
+        "Anarchiy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anathematize",
+        "Anathemateze"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anatomy",
+        "Anatomiy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Ancestry",
+        "Ancestriy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anchor",
+        "Anckor"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anemia",
+        "Anemea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anemic",
+        "Anemec"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anesthetic",
+        "Anesthetec"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Angelic",
+        "Angelec"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anglophobia",
+        "Anglophobea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anguish",
+        "Anguesh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Angular",
+        "Angullar"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anhydrous",
+        "Anhiydrous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Animadversion",
+        "Anemadverseon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Animadvert",
+        "Anemadvert"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Animalcule",
+        "Anemalcule"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Animate",
+        "Anemate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Animated",
+        "Anemated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Animosity",
+        "Anemosety"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annalist",
+        "Annalest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annals",
+        "Anals"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annex",
+        "Anex"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annihilate",
+        "Annehelate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annotate",
+        "Anotate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annual",
+        "Anual"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annuity",
+        "Annuety"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Annunciation",
+        "Annunceateon"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anomaly",
+        "Anomaliy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anomic",
+        "Anomec"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anonymity",
+        "Anonymety"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anonymous",
+        "Anoniymous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antagonism",
+        "Antagonesm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antarctic",
+        "Antarctec"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antecede",
+        "Antecide"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antecedent",
+        "Antecident"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antechamber",
+        "Anteckamber"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antediluvian",
+        "Antedeluvean"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antemeridian",
+        "Antemeredean"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anterior",
+        "Antereor"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anthology",
+        "Anthologiy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anthracite",
+        "Anthracete"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anthropologist",
+        "Anthropologest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anthropology",
+        "Anthropologiy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antic",
+        "Antec"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antichrist",
+        "Antechrest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anticlimax",
+        "Anteclemax"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Anticyclone",
+        "Antecyclone"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antidote",
+        "Antedote"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antilog",
+        "Antelog"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Select the correct spelling: ",
+      "options": [
+        "Antiphon",
+        "Antephon"
+      ],
+      "answer": 0
+    }
+  ]
+}
