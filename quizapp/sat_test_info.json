@@ -1,0 +1,7810 @@
+{
+  "testQuestions": 15,
+  "testFailQuestions": 0,
+  "practiceQuestions": 40,
+  "passPercent": 75,
+  "passQuestions": -1,
+  "timeInMins": 10,
+  "credits": 3,
+  "practiceMsg": "Answer 40 practice questions.\n\nNo time limit.",
+  "testMsg": "Answer 15 questions.\n\nScore 75% or above in 10 mins to pass the test",
+  "earnMsg": "Watch sponsored content to earn +3 credits?",
+  "questions": [
+    {
+      "questionText": "The word Abhor is most like?",
+      "options": [
+        "Hate",
+        "Narrow-Minded",
+        "Fake"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bigot is most like?",
+      "options": [
+        "Narrow-Minded",
+        "Fake",
+        "Give Voting Rights"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Counterfeit is most like?",
+      "options": [
+        "Fake",
+        "Give Voting Rights",
+        "Hinder"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enfranchise is most like?",
+      "options": [
+        "Give Voting Rights",
+        "Hinder",
+        "To Start A Fire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hamper is most like?",
+      "options": [
+        "Hinder",
+        "To Start A Fire",
+        "Harmful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Kindle is most like?",
+      "options": [
+        "To Start A Fire",
+        "Harmful",
+        "Calm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Noxious is most like?",
+      "options": [
+        "Harmful",
+        "Calm",
+        "Payment For Work Done"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Placid is most like?",
+      "options": [
+        "Calm",
+        "Payment For Work Done",
+        "Lucky Charm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Remuneration is most like?",
+      "options": [
+        "Payment For Work Done",
+        "Lucky Charm",
+        "Rough"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Talisman is most like?",
+      "options": [
+        "Lucky Charm",
+        "Rough",
+        "Cheat"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abrasive is most like?",
+      "options": [
+        "Rough",
+        "Cheat",
+        "Hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bilk is most like?",
+      "options": [
+        "Cheat",
+        "Hidden",
+        "Cause"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Covert is most like?",
+      "options": [
+        "Hidden",
+        "Cause",
+        "Storage Area (Like Garage) For A Plane"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Engender is most like?",
+      "options": [
+        "Cause",
+        "Storage Area (Like Garage) For A Plane",
+        "Complex"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hangar is most like?",
+      "options": [
+        "Storage Area (Like Garage) For A Plane",
+        "Complex",
+        "Something Subtle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Knotty is most like?",
+      "options": [
+        "Complex",
+        "Something Subtle",
+        "Taking Credit For Someone Else'S Writing Or Ideas"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nuance is most like?",
+      "options": [
+        "Something Subtle",
+        "Taking Credit For Someone Else'S Writing Or Ideas",
+        "Fame"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plagiarism is most like?",
+      "options": [
+        "Taking Credit For Someone Else'S Writing Or Ideas",
+        "Fame",
+        "Going Off The Main Subject"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Renown is most like?",
+      "options": [
+        "Fame",
+        "Going Off The Main Subject",
+        "Humiliation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tangent is most like?",
+      "options": [
+        "Going Off The Main Subject",
+        "Humiliation",
+        "Swelling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abasement is most like?",
+      "options": [
+        "Humiliation",
+        "Swelling",
+        "Recoil In Fear Or Servility"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Billowing is most like?",
+      "options": [
+        "Swelling",
+        "Recoil In Fear Or Servility",
+        "Improve"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cower is most like?",
+      "options": [
+        "Recoil In Fear Or Servility",
+        "Improve",
+        "Noisy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enhance is most like?",
+      "options": [
+        "Improve",
+        "Noisy",
+        "A Maze"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Harangue is most like?",
+      "options": [
+        "Noisy",
+        "A Maze",
+        "To Counter"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Labyrinth is most like?",
+      "options": [
+        "A Maze",
+        "To Counter",
+        "Petitioner (In Court Of Law)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nullify is most like?",
+      "options": [
+        "To Counter",
+        "Petitioner (In Court Of Law)",
+        "Full"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plaintiff is most like?",
+      "options": [
+        "Petitioner (In Court Of Law)",
+        "Full",
+        "Can Be Touched"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Replete is most like?",
+      "options": [
+        "Full",
+        "Can Be Touched",
+        "Cancel"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tangible is most like?",
+      "options": [
+        "Can Be Touched",
+        "Cancel",
+        "Speech Which Offends Religious Sentiments"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abrogate is most like?",
+      "options": [
+        "Cancel",
+        "Speech Which Offends Religious Sentiments",
+        "Believable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blasphemy is most like?",
+      "options": [
+        "Speech Which Offends Religious Sentiments",
+        "Believable",
+        "Puzzle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Credible is most like?",
+      "options": [
+        "Believable",
+        "Puzzle",
+        "Indicators"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enigma is most like?",
+      "options": [
+        "Puzzle",
+        "Indicators",
+        "Complicated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Harbingers is most like?",
+      "options": [
+        "Indicators",
+        "Complicated",
+        "Cuddle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Labyrinthine is most like?",
+      "options": [
+        "Complicated",
+        "Cuddle",
+        "Statement Giving Strong Praise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nuzzle is most like?",
+      "options": [
+        "Cuddle",
+        "Statement Giving Strong Praise",
+        "Shameful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plaudit is most like?",
+      "options": [
+        "Statement Giving Strong Praise",
+        "Shameful",
+        "Slow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reprehensible is most like?",
+      "options": [
+        "Shameful",
+        "Slow",
+        "Forgiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tardy is most like?",
+      "options": [
+        "Slow",
+        "Forgiveness",
+        "Obvious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Absolution is most like?",
+      "options": [
+        "Forgiveness",
+        "Obvious",
+        "Praiseworthy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blatant is most like?",
+      "options": [
+        "Obvious",
+        "Praiseworthy",
+        "Establish Firmly In A Position"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Creditable is most like?",
+      "options": [
+        "Praiseworthy",
+        "Establish Firmly In A Position",
+        "Hurry"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ensconce is most like?",
+      "options": [
+        "Establish Firmly In A Position",
+        "Hurry",
+        "A Cut"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hasten is most like?",
+      "options": [
+        "Hurry",
+        "A Cut",
+        "Stubborn"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Laceration is most like?",
+      "options": [
+        "A Cut",
+        "Stubborn",
+        "Can Be Believed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obdurate is most like?",
+      "options": [
+        "Stubborn",
+        "Can Be Believed",
+        "A Respite"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plausible is most like?",
+      "options": [
+        "Can Be Believed",
+        "A Respite",
+        "Of Little Value"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reprieve is most like?",
+      "options": [
+        "A Respite",
+        "Of Little Value",
+        "Desist"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tawdry is most like?",
+      "options": [
+        "Of Little Value",
+        "Desist",
+        "Damaged"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abstain is most like?",
+      "options": [
+        "Desist",
+        "Damaged",
+        "Gullible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blighted is most like?",
+      "options": [
+        "Damaged",
+        "Gullible",
+        "Cover"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Credulous is most like?",
+      "options": [
+        "Gullible",
+        "Cover",
+        "Arrogance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enshroud is most like?",
+      "options": [
+        "Cover",
+        "Arrogance",
+        "Tearful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Haughtiness is most like?",
+      "options": [
+        "Arrogance",
+        "Tearful",
+        "Deliberately Make Something Difficult To Understand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lachrymose is most like?",
+      "options": [
+        "Tearful",
+        "Deliberately Make Something Difficult To Understand",
+        "An Excess"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obfuscate is most like?",
+      "options": [
+        "Deliberately Make Something Difficult To Understand",
+        "An Excess",
+        "Shun"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plethora is most like?",
+      "options": [
+        "An Excess",
+        "Shun",
+        "Boredom"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Repudiate is most like?",
+      "options": [
+        "Shun",
+        "Boredom",
+        "Self Denying"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tedium is most like?",
+      "options": [
+        "Boredom",
+        "Self Denying",
+        "Free-Spirited"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abstemious is most like?",
+      "options": [
+        "Self Denying",
+        "Free-Spirited",
+        "Active At Dawn And Dusk"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blithe is most like?",
+      "options": [
+        "Free-Spirited",
+        "Active At Dawn And Dusk",
+        "Clear Pronunciation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Crepuscular is most like?",
+      "options": [
+        "Active At Dawn And Dusk",
+        "Clear Pronunciation",
+        "Stubborn"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enunciation is most like?",
+      "options": [
+        "Clear Pronunciation",
+        "Stubborn",
+        "Dull"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Headstrong is most like?",
+      "options": [
+        "Stubborn",
+        "Dull",
+        "Unbiased"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lackluster is most like?",
+      "options": [
+        "Dull",
+        "Unbiased",
+        "Flexible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Objective is most like?",
+      "options": [
+        "Unbiased",
+        "Flexible",
+        "Retract"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pliable is most like?",
+      "options": [
+        "Flexible",
+        "Retract",
+        "To Moderate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rescind is most like?",
+      "options": [
+        "Retract",
+        "To Moderate",
+        "Difficult To Understand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Temper is most like?",
+      "options": [
+        "To Moderate",
+        "Difficult To Understand",
+        "Ancient Weapon (Type Of Gun)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abstruse is most like?",
+      "options": [
+        "Difficult To Understand",
+        "Ancient Weapon (Type Of Gun)",
+        "Recoil"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blunderbuss is most like?",
+      "options": [
+        "Ancient Weapon (Type Of Gun)",
+        "Recoil",
+        "To Cause Bitterness And Bad Feeling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cringe is most like?",
+      "options": [
+        "Recoil",
+        "To Cause Bitterness And Bad Feeling",
+        "Self Indulgence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Envenom is most like?",
+      "options": [
+        "To Cause Bitterness And Bad Feeling",
+        "Self Indulgence",
+        "Using Few Words"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hedonism is most like?",
+      "options": [
+        "Self Indulgence",
+        "Using Few Words",
+        "Indirect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Laconic is most like?",
+      "options": [
+        "Using Few Words",
+        "Indirect",
+        "Feathers Of A Bird"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Oblique is most like?",
+      "options": [
+        "Indirect",
+        "Feathers Of A Bird",
+        "Acceptance Of Fate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plumage is most like?",
+      "options": [
+        "Feathers Of A Bird",
+        "Acceptance Of Fate",
+        "Stubborn"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resignation is most like?",
+      "options": [
+        "Acceptance Of Fate",
+        "Stubborn",
+        "Tribute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenacious is most like?",
+      "options": [
+        "Stubborn",
+        "Tribute",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Accolade is most like?",
+      "options": [
+        "Tribute",
+        "Support",
+        "Puzzling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bolster is most like?",
+      "options": [
+        "Support",
+        "Puzzling",
+        "Short-Lived"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cryptic is most like?",
+      "options": [
+        "Puzzling",
+        "Short-Lived",
+        "A Pleasure Seeker"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ephemeral is most like?",
+      "options": [
+        "Short-Lived",
+        "A Pleasure Seeker",
+        "Expression Of Regret Or Sorrow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hedonist is most like?",
+      "options": [
+        "A Pleasure Seeker",
+        "Expression Of Regret Or Sorrow",
+        "Destroy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lamentation is most like?",
+      "options": [
+        "Expression Of Regret Or Sorrow",
+        "Destroy",
+        "Fall Suddenly And Steeply"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obliterate is most like?",
+      "options": [
+        "Destroy",
+        "Fall Suddenly And Steeply",
+        "Determination"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plummet is most like?",
+      "options": [
+        "Fall Suddenly And Steeply",
+        "Determination",
+        "Not Certain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resolution is most like?",
+      "options": [
+        "Determination",
+        "Not Certain",
+        "To Agree To"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tentative is most like?",
+      "options": [
+        "Not Certain",
+        "To Agree To",
+        "Arrogant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Acquiesce is most like?",
+      "options": [
+        "To Agree To",
+        "Arrogant",
+        "Cut Short"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bombast is most like?",
+      "options": [
+        "Arrogant",
+        "Cut Short",
+        "Someone Who Appreciates Good Food And Drink"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Curtail is most like?",
+      "options": [
+        "Cut Short",
+        "Someone Who Appreciates Good Food And Drink",
+        "Listen To"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Epicure is most like?",
+      "options": [
+        "Someone Who Appreciates Good Food And Drink",
+        "Listen To",
+        "Ridicule"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Heed is most like?",
+      "options": [
+        "Listen To",
+        "Ridicule",
+        "Totally Unaware"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lampoon is most like?",
+      "options": [
+        "Ridicule",
+        "Totally Unaware",
+        "Raised Platform"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Oblivious is most like?",
+      "options": [
+        "Totally Unaware",
+        "Raised Platform",
+        "Echoing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Podium is most like?",
+      "options": [
+        "Raised Platform",
+        "Echoing",
+        "Flimsy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resonant is most like?",
+      "options": [
+        "Echoing",
+        "Flimsy",
+        "Sharp"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenuous is most like?",
+      "options": [
+        "Flimsy",
+        "Sharp",
+        "Ill-Mannered"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word crid is most like?",
+      "options": [
+        "Sharp",
+        "Ill-Mannered",
+        "Believing That People Act Only Out Of Selfish Motives"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Boorish is most like?",
+      "options": [
+        "Ill-Mannered",
+        "Believing That People Act Only Out Of Selfish Motives",
+        "A Letter (Form Of Communication)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cynical is most like?",
+      "options": [
+        "Believing That People Act Only Out Of Selfish Motives",
+        "A Letter (Form Of Communication)",
+        "Against Orthodox Opinion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Epistle is most like?",
+      "options": [
+        "A Letter (Form Of Communication)",
+        "Against Orthodox Opinion",
+        "Spear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Heresy is most like?",
+      "options": [
+        "Against Orthodox Opinion",
+        "Spear",
+        "Difficult To Understand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lance is most like?",
+      "options": [
+        "Spear",
+        "Difficult To Understand",
+        "Deeply Moving"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obscure is most like?",
+      "options": [
+        "Difficult To Understand",
+        "Deeply Moving",
+        "A Break"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Poignant is most like?",
+      "options": [
+        "Deeply Moving",
+        "A Break",
+        "Concise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Respite is most like?",
+      "options": [
+        "A Break",
+        "Concise",
+        "Fear Of Heights"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Terse is most like?",
+      "options": [
+        "Concise",
+        "Fear Of Heights",
+        "Middle Class"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Acrophobia is most like?",
+      "options": [
+        "Fear Of Heights",
+        "Middle Class",
+        "Weakness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bourgeois is most like?",
+      "options": [
+        "Middle Class",
+        "Weakness",
+        "Concerned With Letters"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Debility is most like?",
+      "options": [
+        "Weakness",
+        "Concerned With Letters",
+        "Interruption"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Epistolary is most like?",
+      "options": [
+        "Concerned With Letters",
+        "Interruption",
+        "Tired"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hiatus is most like?",
+      "options": [
+        "Interruption",
+        "Tired",
+        "Hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Languid is most like?",
+      "options": [
+        "Tired",
+        "Hidden",
+        "Calm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obscured is most like?",
+      "options": [
+        "Hidden",
+        "Calm",
+        "Shining"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Poised is most like?",
+      "options": [
+        "Calm",
+        "Shining",
+        "Medicinal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resplendent is most like?",
+      "options": [
+        "Shining",
+        "Medicinal",
+        "Sharpness (Mental Or Visual)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Therapeutic is most like?",
+      "options": [
+        "Medicinal",
+        "Sharpness (Mental Or Visual)",
+        "Someone Who Boasts"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Acuity is most like?",
+      "options": [
+        "Sharpness (Mental Or Visual)",
+        "Someone Who Boasts",
+        "Exposing False Claims Or Myths"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Braggart is most like?",
+      "options": [
+        "Someone Who Boasts",
+        "Exposing False Claims Or Myths",
+        "Typified"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Debunking is most like?",
+      "options": [
+        "Exposing False Claims Or Myths",
+        "Typified",
+        "Rigid In Opinions"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Epitomized is most like?",
+      "options": [
+        "Typified",
+        "Rigid In Opinions",
+        "Decay"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hidebound is most like?",
+      "options": [
+        "Rigid In Opinions",
+        "Decay",
+        "Servile"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Languish is most like?",
+      "options": [
+        "Decay",
+        "Servile",
+        "Causing Debate Or Argument"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obsequious is most like?",
+      "options": [
+        "Servile",
+        "Causing Debate Or Argument",
+        "A Tonic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Polemical is most like?",
+      "options": [
+        "Causing Debate Or Argument",
+        "A Tonic",
+        "Prevent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Restorative is most like?",
+      "options": [
+        "A Tonic",
+        "Prevent",
+        "Forceful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Thwart is most like?",
+      "options": [
+        "Prevent",
+        "Forceful",
+        "Muscular"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adamant is most like?",
+      "options": [
+        "Forceful",
+        "Muscular",
+        "An Athletic Competition With Ten Events"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Brawny is most like?",
+      "options": [
+        "Muscular",
+        "An Athletic Competition With Ten Events",
+        "Speak Ambiguously"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Decathlon is most like?",
+      "options": [
+        "An Athletic Competition With Ten Events",
+        "Speak Ambiguously",
+        "Picture Writing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Equivocate is most like?",
+      "options": [
+        "Speak Ambiguously",
+        "Picture Writing",
+        "Theft"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hieroglyphics is most like?",
+      "options": [
+        "Picture Writing",
+        "Theft",
+        "A Dominating Concern"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Larceny is most like?",
+      "options": [
+        "Theft",
+        "A Dominating Concern",
+        "Weighty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obsession is most like?",
+      "options": [
+        "A Dominating Concern",
+        "Weighty",
+        "Preservation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ponderous is most like?",
+      "options": [
+        "Weighty",
+        "Preservation",
+        "Cowardly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Retention is most like?",
+      "options": [
+        "Preservation",
+        "Cowardly",
+        "Skilful / Skillful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Timorous is most like?",
+      "options": [
+        "Cowardly",
+        "Skilful / Skillful",
+        "Being Brief"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adroit is most like?",
+      "options": [
+        "Skilful ",
+        "Being Brief",
+        "Dignified"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Brevity is most like?",
+      "options": [
+        "Being Brief",
+        "Dignified",
+        "Make A Mistake"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Decorum is most like?",
+      "options": [
+        "Dignified",
+        "Make A Mistake",
+        "Obstruct"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Err is most like?",
+      "options": [
+        "Make A Mistake",
+        "Obstruct",
+        "Generosity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hinder is most like?",
+      "options": [
+        "Obstruct",
+        "Generosity",
+        "No Longer Valid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Largess is most like?",
+      "options": [
+        "Generosity",
+        "No Longer Valid",
+        "Speak Pompously Or Dogmatically"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obsolete is most like?",
+      "options": [
+        "No Longer Valid",
+        "Speak Pompously Or Dogmatically",
+        "Restrained"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pontificate is most like?",
+      "options": [
+        "Speak Pompously Or Dogmatically",
+        "Restrained",
+        "Stream Of Verbal Abuse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reticent is most like?",
+      "options": [
+        "Restrained",
+        "Stream Of Verbal Abuse",
+        "Strong Admiration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tirade is most like?",
+      "options": [
+        "Stream Of Verbal Abuse",
+        "Strong Admiration",
+        "To Show Irritation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adulation is most like?",
+      "options": [
+        "Strong Admiration",
+        "To Show Irritation",
+        "Lure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bristle is most like?",
+      "options": [
+        "To Show Irritation",
+        "Lure",
+        "Wandering"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Decoy is most like?",
+      "options": [
+        "Lure",
+        "Wandering",
+        "Theatrical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Erratic is most like?",
+      "options": [
+        "Wandering",
+        "Theatrical",
+        "Praise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Histrionic is most like?",
+      "options": [
+        "Theatrical",
+        "Praise",
+        "Noisy And Boisterous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Laud is most like?",
+      "options": [
+        "Praise",
+        "Noisy And Boisterous",
+        "Foretell"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obstreperous is most like?",
+      "options": [
+        "Noisy And Boisterous",
+        "Foretell",
+        "Withdrawal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Portend is most like?",
+      "options": [
+        "Foretell",
+        "Withdrawal",
+        "Giggle Quietly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Retraction is most like?",
+      "options": [
+        "Withdrawal",
+        "Giggle Quietly",
+        "Hardship"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Titter is most like?",
+      "options": [
+        "Giggle Quietly",
+        "Hardship",
+        "Start To Discuss"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adversity is most like?",
+      "options": [
+        "Hardship",
+        "Start To Discuss",
+        "Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Broach is most like?",
+      "options": [
+        "Start To Discuss",
+        "Respect",
+        "Obscure And Difficult To Understand"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deference is most like?",
+      "options": [
+        "Respect",
+        "Obscure And Difficult To Understand",
+        "Old"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Esoteric is most like?",
+      "options": [
+        "Obscure And Difficult To Understand",
+        "Old",
+        "On A Grand Scale"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hoary is most like?",
+      "options": [
+        "Old",
+        "On A Grand Scale",
+        "Mentally Dull"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lavish is most like?",
+      "options": [
+        "On A Grand Scale",
+        "Mentally Dull",
+        "A Warning Sign"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obtuse is most like?",
+      "options": [
+        "Mentally Dull",
+        "A Warning Sign",
+        "Worship"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Portent is most like?",
+      "options": [
+        "A Warning Sign",
+        "Worship",
+        "Large Book"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Revere is most like?",
+      "options": [
+        "Worship",
+        "Large Book",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tome is most like?",
+      "options": [
+        "Large Book",
+        "Support",
+        "Blunt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Advocate is most like?",
+      "options": [
+        "Support",
+        "Blunt",
+        "Cause Leaves To Fall Off"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Brusque is most like?",
+      "options": [
+        "Blunt",
+        "Cause Leaves To Fall Off",
+        "Promote"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Defoliate is most like?",
+      "options": [
+        "Cause Leaves To Fall Off",
+        "Promote",
+        "Sharpen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Espouse is most like?",
+      "options": [
+        "Promote",
+        "Sharpen",
+        "Careless"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hone is most like?",
+      "options": [
+        "Sharpen",
+        "Careless",
+        "Avoid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lax is most like?",
+      "options": [
+        "Careless",
+        "Avoid",
+        "Someone Who Puts On An Act"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obviate is most like?",
+      "options": [
+        "Avoid",
+        "Someone Who Puts On An Act",
+        "Full Of (Usually Full Of Holes)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Poseur is most like?",
+      "options": [
+        "Someone Who Puts On An Act",
+        "Full Of (Usually Full Of Holes)",
+        "Inactive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Riddled is most like?",
+      "options": [
+        "Full Of (Usually Full Of Holes)",
+        "Inactive",
+        "Concerning Art Or Beauty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Torpid is most like?",
+      "options": [
+        "Inactive",
+        "Concerning Art Or Beauty",
+        "Fortification"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Aesthetic is most like?",
+      "options": [
+        "Concerning Art Or Beauty",
+        "Fortification",
+        "No Longer In Existence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bulwark is most like?",
+      "options": [
+        "Fortification",
+        "No Longer In Existence",
+        "The Study Of Word Origins"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Defunct is most like?",
+      "options": [
+        "No Longer In Existence",
+        "The Study Of Word Origins",
+        "Grossly Exaggerated Speech"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Etymology is most like?",
+      "options": [
+        "The Study Of Word Origins",
+        "Grossly Exaggerated Speech",
+        " Key To Map"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hyperbole is most like?",
+      "options": [
+        "Grossly Exaggerated Speech",
+        "Key To Map",
+        "Hateful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Legend is most like?",
+      "options": [
+        " Key To Map",
+        "Hateful",
+        "Future Generations"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Odious is most like?",
+      "options": [
+        "Hateful",
+        "Future Generations",
+        "Common"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Posterity is most like?",
+      "options": [
+        "Future Generations",
+        "Common",
+        "Dormancy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rife is most like?",
+      "options": [
+        "Common",
+        "Dormancy",
+        "Friendly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Torpor is most like?",
+      "options": [
+        "Dormancy",
+        "Friendly",
+        "Officialdom"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Affable is most like?",
+      "options": [
+        "Friendly",
+        "Officialdom",
+        "Deprivation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bureaucracy is most like?",
+      "options": [
+        "Officialdom",
+        "Deprivation",
+        "Praise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Degradation is most like?",
+      "options": [
+        "Deprivation",
+        "Praise",
+        "A Person Obsessed With Health"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Eulogy is most like?",
+      "options": [
+        "Praise",
+        "A Person Obsessed With Health",
+        "In Large Numbers"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hypochondriac is most like?",
+      "options": [
+        "A Person Obsessed With Health",
+        "In Large Numbers",
+        "Domineering"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Legion is most like?",
+      "options": [
+        "In Large Numbers",
+        "Domineering",
+        "After Death"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Officious is most like?",
+      "options": [
+        "Domineering",
+        "After Death",
+        "Thoroughness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Posthumous is most like?",
+      "options": [
+        "After Death",
+        "Thoroughness",
+        "Walk Unsteadily"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rigor is most like?",
+      "options": [
+        "Thoroughness",
+        "Walk Unsteadily",
+        "Praise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Totter is most like?",
+      "options": [
+        "Walk Unsteadily",
+        "Praise",
+        "Indirect Reference"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Accolade is most like?",
+      "options": [
+        "Praise",
+        "Indirect Reference",
+        "Uncertainty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Allusion is most like?",
+      "options": [
+        "Indirect Reference",
+        "Uncertainty",
+        "Unable To Decide"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ambivalence is most like?",
+      "options": [
+        "Uncertainty",
+        "Unable To Decide",
+        "Comparison"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ambivalent is most like?",
+      "options": [
+        "Unable To Decide",
+        "Comparison",
+        "Short Account Of Something Interesting"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Analogy is most like?",
+      "options": [
+        "Comparison",
+        "Short Account Of Something Interesting",
+        "Odd"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Anecdote is most like?",
+      "options": [
+        "Short Account Of Something Interesting",
+        "Odd",
+        "Ghost"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Anomalous is most like?",
+      "options": [
+        "Odd",
+        "Ghost",
+        "Negative Feeling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Apparition is most like?",
+      "options": [
+        "Ghost",
+        "Negative Feeling",
+        "Aggression"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Aspersion is most like?",
+      "options": [
+        "Negative Feeling",
+        "Aggression",
+        "Too Elaborate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Belligerence is most like?",
+      "options": [
+        "Aggression",
+        "Too Elaborate",
+        "Truthful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bombastic is most like?",
+      "options": [
+        "Too Elaborate",
+        "Truthful",
+        "Changeable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Candid is most like?",
+      "options": [
+        "Truthful",
+        "Changeable",
+        "Cared For"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Capricious is most like?",
+      "options": [
+        "Changeable",
+        "Cared For",
+        "Over-Used Expression"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cherished is most like?",
+      "options": [
+        "Cared For",
+        "Over-Used Expression",
+        " Idea"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cliche is most like?",
+      "options": [
+        "Over-Used Expression",
+        " Idea",
+        "Complicated Or Long-Winded"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Conception is most like?",
+      "options": [
+        "Idea",
+        "Complicated Or Long-Winded",
+        "Belief"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Convoluted is most like?",
+      "options": [
+        "Complicated Or Long-Winded",
+        "Belief",
+        "Hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Credence is most like?",
+      "options": [
+        "Belief",
+        "Hidden",
+        "Widespread Acceptance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cryptic is most like?",
+      "options": [
+        "Hidden",
+        "Widespread Acceptance",
+        "Good And Correct (Used Of Behavior)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Currency is most like?",
+      "options": [
+        "Widespread Acceptance",
+        "Good And Correct (Used Of Behavior)",
+        "Act Of Speaking Out Against"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Decorous is most like?",
+      "options": [
+        "Good And Correct (Used Of Behavior)",
+        "Act Of Speaking Out Against",
+        "Thrown Off Course"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Denunciation is most like?",
+      "options": [
+        "Act Of Speaking Out Against",
+        "Thrown Off Course",
+        "Unoriginal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Derailed is most like?",
+      "options": [
+        "Thrown Off Course",
+        "Unoriginal",
+        "Acting Like A Tyrant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Derivative is most like?",
+      "options": [
+        "Unoriginal",
+        "Acting Like A Tyrant",
+        "Rubbish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Despotic is most like?",
+      "options": [
+        "Acting Like A Tyrant",
+        "Rubbish",
+        "Very Thin And Transparent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Detritus is most like?",
+      "options": [
+        "Rubbish",
+        "Very Thin And Transparent",
+        "Often-Used Saying"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Diaphanous is most like?",
+      "options": [
+        "Very Thin And Transparent",
+        "Often-Used Saying",
+        "Person Who Dabbles In The Arts"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dictum is most like?",
+      "options": [
+        "Often-Used Saying",
+        "Person Who Dabbles In The Arts",
+        "Showed Contempt For"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dilettante is most like?",
+      "options": [
+        "Person Who Dabbles In The Arts",
+        "Showed Contempt For",
+        "Unbiased"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disdained is most like?",
+      "options": [
+        "Showed Contempt For",
+        "Unbiased",
+        "An Elderly Woman Of Elevate Social Status"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dispassionate is most like?",
+      "options": [
+        "Unbiased",
+        "An Elderly Woman Of Elevate Social Status",
+        "Doubtful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dowager is most like?",
+      "options": [
+        "An Elderly Woman Of Elevate Social Status",
+        "Doubtful",
+        "Equal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dubious is most like?",
+      "options": [
+        "Doubtful",
+        "Equal",
+        "Draw Out (Used Mainly For Information Or Feelings)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Egalitarian is most like?",
+      "options": [
+        "Equal",
+        "Draw Out (Used Mainly For Information Or Feelings)",
+        "Shaped Like An Ellipse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Elicit is most like?",
+      "options": [
+        "Draw Out (Used Mainly For Information Or Feelings)",
+        " Shaped Like An Ellipse",
+        "Acts As A Typical Example Of"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Elliptical is most like?",
+      "options": [
+        "Shaped Like An Ellipse",
+        "Acts As A Typical Example Of",
+        "Speak Ambiguously/Vaguely"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Epitomizes is most like?",
+      "options": [
+        "Acts As A Typical Example Of",
+        "Speak Ambiguously/Vaguely",
+        "Trying To Avoid Something"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Equivocate is most like?",
+      "options": [
+        "Speak Ambiguously/Vaguely",
+        "Trying To Avoid Something",
+        "Very Clear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Evasiveness is most like?",
+      "options": [
+        "Trying To Avoid Something",
+        "Very Clear",
+        "Searching For Food"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Explicitly is most like?",
+      "options": [
+        "Very Clear",
+        "Searching For Food",
+        "Based On Guesswork"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Foraging is most like?",
+      "options": [
+        "Searching For Food",
+        "Based On Guesswork",
+        "Person Who Goes Against Accepted Authority"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hypothetical is most like?",
+      "options": [
+        "Based On Guesswork",
+        "Person Who Goes Against Accepted Authority",
+        "Quirky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Iconoclast is most like?",
+      "options": [
+        "Person Who Goes Against Accepted Authority",
+        "Quirky",
+        "Cannot Be Understood"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Idiosyncratic is most like?",
+      "options": [
+        "Quirky",
+        "Cannot Be Understood",
+        "Not Well-Behaved"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Imponderable is most like?",
+      "options": [
+        "Cannot Be Understood",
+        "Not Well-Behaved",
+        "Extreme Poverty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indecorous is most like?",
+      "options": [
+        "Not Well-Behaved",
+        "Extreme Poverty",
+        "Clumsy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indigence is most like?",
+      "options": [
+        "Extreme Poverty",
+        "Clumsy",
+        "Inbuilt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Inept is most like?",
+      "options": [
+        "Clumsy",
+        "Inbuilt",
+        "Complicated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Inherent is most like?",
+      "options": [
+        "Inbuilt",
+        "Complicated",
+        "Cannot Be Proved Wrong"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Intricate is most like?",
+      "options": [
+        "Complicated",
+        "Cannot Be Proved Wrong",
+        "Using Words To Stir Up Exaggerated Patriotism"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irrefutable is most like?",
+      "options": [
+        "Cannot Be Proved Wrong",
+        "Using Words To Stir Up Exaggerated Patriotism",
+        "Joyful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Jingoism is most like?",
+      "options": [
+        "Using Words To Stir Up Exaggerated Patriotism",
+        "Joyful",
+        "Fair And Equal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Jubilant is most like?",
+      "options": [
+        "Joyful",
+        "Fair And Equal",
+        "Express Regret Over Something"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Judicious is most like?",
+      "options": [
+        "Fair And Equal",
+        "Express Regret Over Something",
+        "Talkative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lament is most like?",
+      "options": [
+        "Express Regret Over Something",
+        "Talkative",
+        "Begging"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Loquacious is most like?",
+      "options": [
+        "Talkative",
+        "Begging",
+        "Not Literal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mendicancy is most like?",
+      "options": [
+        "Begging",
+        "Not Literal",
+        "Environment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Metaphorical is most like?",
+      "options": [
+        "Not Literal",
+        "Environment",
+        "Made Less Severe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Milieu is most like?",
+      "options": [
+        "Environment",
+        "Made Less Severe",
+        "Just Begun"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mitigated is most like?",
+      "options": [
+        "Made Less Severe",
+        "Just Begun",
+        "Longing For The Past"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nascent is most like?",
+      "options": [
+        "Just Begun",
+        "Longing For The Past",
+        "Easily Seen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nostalgia is most like?",
+      "options": [
+        "Longing For The Past",
+        "Easily Seen",
+        "Concerned With Writing And Spelling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obtrusive is most like?",
+      "options": [
+        "Easily Seen",
+        "Concerned With Writing And Spelling",
+        "Become Fixed And Rigid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Orthographical is most like?",
+      "options": [
+        "Concerned With Writing And Spelling",
+        "Become Fixed And Rigid",
+        "Showy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ossified is most like?",
+      "options": [
+        "Become Fixed And Rigid",
+        "Showy",
+        "Can Be Felt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ostentatious is most like?",
+      "options": [
+        "Showy",
+        "Can Be Felt",
+        "Concerned With The Countryside"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Palpable is most like?",
+      "options": [
+        "Can Be Felt",
+        "Concerned With The Countryside",
+        "Boring (Adj)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pastoral is most like?",
+      "options": [
+        "Concerned With The Countryside",
+        "Boring (Adj)",
+        "Treachery"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pedestrian is most like?",
+      "options": [
+        "Boring (Adj)",
+        "Treachery",
+        "Wasteful And Immoral Behavior"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Perfidy is most like?",
+      "options": [
+        "Treachery",
+        "Wasteful And Immoral Behavior",
+        "Very Expensive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Profligacy is most like?",
+      "options": [
+        "Wasteful And Immoral Behavior",
+        "Very Expensive",
+        "Wisdom"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prohibitive is most like?",
+      "options": [
+        "Very Expensive",
+        "Wisdom",
+        "Aggressive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prudence is most like?",
+      "options": [
+        "Wisdom",
+        "Aggressive",
+        "One Who Sells Something Or Causes Something To Spread"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pugnacious is most like?",
+      "options": [
+        "Aggressive",
+        "One Who Sells Something Or Causes Something To Spread",
+        "Echo"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Purveyor is most like?",
+      "options": [
+        "One Who Sells Something Or Causes Something To Spread",
+        "Echo",
+        "Break (From Work Etc.)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resonance is most like?",
+      "options": [
+        "Echo",
+        "Break (From Work Etc.)",
+        "Revival"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Respite is most like?",
+      "options": [
+        "Break (From Work Etc.)",
+        "Revival",
+        "Thin"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resurgence is most like?",
+      "options": [
+        "Revival",
+        "Thin",
+        "Strict"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sparse is most like?",
+      "options": [
+        "Thin",
+        "Strict",
+        "Giving In To"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Stringent is most like?",
+      "options": [
+        "Strict",
+        "Giving In To",
+        "Arrogant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Succumbing is most like?",
+      "options": [
+        "Giving In To",
+        "Arrogant",
+        "Firmness Of Purpose"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Supercilious is most like?",
+      "options": [
+        "Arrogant",
+        "Firmness Of Purpose",
+        "Go Beyond A Limit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenacity is most like?",
+      "options": [
+        "Firmness Of Purpose",
+        "Go Beyond A Limit",
+        "Multicolored"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Transcend is most like?",
+      "options": [
+        "Go Beyond A Limit",
+        "Multicolored",
+        "Worthy Of Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Variegated is most like?",
+      "options": [
+        "Multicolored",
+        "Worthy Of Respect",
+        "Workable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Venerable is most like?",
+      "options": [
+        "Worthy Of Respect",
+        "Workable",
+        "Concerned With The 'Guts'"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Viable is most like?",
+      "options": [
+        "Workable",
+        "Concerned With The 'Guts'",
+        "Undecided"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Visceral is most like?",
+      "options": [
+        "Concerned With The 'Guts'",
+        "Undecided",
+        "Lack Of Energy Or Interest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ambivalent is most like?",
+      "options": [
+        "Undecided",
+        "Lack Of Energy Or Interest",
+        "Self-Government"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Apathy is most like?",
+      "options": [
+        "Lack Of Energy Or Interest",
+        "Self-Government",
+        "Kindly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Autonomy is most like?",
+      "options": [
+        "Self-Government",
+        "Kindly",
+        "Turned Pale"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Benevolent is most like?",
+      "options": [
+        "Kindly",
+        "Turned Pale",
+        "Give Support To"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blanched is most like?",
+      "options": [
+        "Turned Pale",
+        "Give Support To",
+        "Concerned With The Countryside And Farming"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bolster is most like?",
+      "options": [
+        "Give Support To",
+        "Concerned With The Countryside And Farming",
+        "Cruel And Unfeeling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bucolic is most like?",
+      "options": [
+        "Concerned With The Countryside And Farming",
+        "Cruel And Unfeeling",
+        "Bad Tempered"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Callous is most like?",
+      "options": [
+        "Cruel And Unfeeling",
+        "Bad Tempered",
+        "Changeable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cantankerous is most like?",
+      "options": [
+        "Bad Tempered",
+        "Changeable",
+        "Trickery"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Capricious is most like?",
+      "options": [
+        "Changeable",
+        "Trickery",
+        "Ill-Mannered"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Chicanery is most like?",
+      "options": [
+        "Trickery",
+        "Ill-Mannered",
+        "Forming A Whole"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Churlish is most like?",
+      "options": [
+        "Ill-Mannered",
+        "Forming A Whole",
+        "Agree"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cohesive is most like?",
+      "options": [
+        "Forming A Whole",
+        "Agree",
+        "Hidden"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Concur is most like?",
+      "options": [
+        "Agree",
+        "Hidden",
+        "Extensive Destruction"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cryptic is most like?",
+      "options": [
+        "Hidden",
+        "Extensive Destruction",
+        "Skilful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Decimation is most like?",
+      "options": [
+        "Extensive Destruction",
+        "Skilful",
+        "Wrong-Doing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deft is most like?",
+      "options": [
+        "Skilful",
+        "Wrong-Doing",
+        "Moral Corruption"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Delinquency is most like?",
+      "options": [
+        "Wrong-Doing",
+        "Moral Corruption",
+        "Lonely"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Depravity is most like?",
+      "options": [
+        "Moral Corruption",
+        "Lonely",
+        "Empty Of"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Desolate is most like?",
+      "options": [
+        "Lonely",
+        "Empty Of",
+        "Intending To Teach Or Give Instructions"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Devoid of is most like?",
+      "options": [
+        "Empty Of",
+        "Intending To Teach Or Give Instructions",
+        "Crafty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Didactic is most like?",
+      "options": [
+        "Intending To Teach Or Give Instructions",
+        "Crafty",
+        "Unbiased"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disingenuous is most like?",
+      "options": [
+        "Crafty",
+        "Unbiased",
+        "Tendency"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dispassionate is most like?",
+      "options": [
+        "Unbiased",
+        "Tendency",
+        "Disagreement"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disposition is most like?",
+      "options": [
+        "Tendency",
+        "Disagreement",
+        "Overly Expressive Of Emotions"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dissent is most like?",
+      "options": [
+        "Disagreement",
+        "Overly Expressive Of Emotions",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Effusive is most like?",
+      "options": [
+        "Overly Expressive Of Emotions",
+        "Support",
+        "Puzzle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Endorse is most like?",
+      "options": [
+        "Support",
+        "Puzzle",
+        "Count Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enigma is most like?",
+      "options": [
+        "Puzzle",
+        "Count Out",
+        "Short-Lived"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enumerate is most like?",
+      "options": [
+        "Count Out",
+        "Short-Lived",
+        "Wrong"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ephemeral is most like?",
+      "options": [
+        "Short-Lived",
+        "Wrong",
+        "Great Knowledge Or Learning"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Erroneous is most like?",
+      "options": [
+        "Wrong",
+        "Great Knowledge Or Learning",
+        "Obscure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Erudition is most like?",
+      "options": [
+        "Great Knowledge Or Learning",
+        "Obscure",
+        "Something Made Up"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Esoteric is most like?",
+      "options": [
+        "Obscure",
+        "Something Made Up",
+        "Cheeky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fabrication is most like?",
+      "options": [
+        "Something Made Up",
+        "Cheeky",
+        "Sides In A Dispute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Facetious is most like?",
+      "options": [
+        "Cheeky",
+        "Sides In A Dispute",
+        "Floating Rubbish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Factions is most like?",
+      "options": [
+        "Sides In A Dispute",
+        "Floating Rubbish",
+        "Encouraged"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Flotsam is most like?",
+      "options": [
+        "Floating Rubbish",
+        "Encouraged",
+        "Stale And Over-Used"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fostered is most like?",
+      "options": [
+        "Encouraged",
+        "Stale And Over-Used",
+        "Held [As In 'Harbored And Idea']"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hackneyed is most like?",
+      "options": [
+        "Stale And Over-Used",
+        "Held [As In 'Harbored And Idea']",
+        "Strange Mixture"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Harbored is most like?",
+      "options": [
+        "Held [As In 'Harbored And Idea']",
+        "Strange Mixture",
+        "Not Proven"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hodgepodge is most like?",
+      "options": [
+        "Strange Mixture",
+        "Not Proven",
+        "Impulsive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hypothetical is most like?",
+      "options": [
+        "Not Proven",
+        "Impulsive",
+        "Cannot Be Appeased"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Impetuous is most like?",
+      "options": [
+        "Impulsive",
+        "Cannot Be Appeased",
+        "Challenged"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Implacable is most like?",
+      "options": [
+        "Cannot Be Appeased",
+        "Challenged",
+        "Cannot Be Corrected (Of Behavior)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Impugned is most like?",
+      "options": [
+        "Challenged",
+        "Cannot Be Corrected (Of Behavior)",
+        "Native To A Particular Place"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Incorrigible is most like?",
+      "options": [
+        "Cannot Be Corrected (Of Behavior)",
+        "Native To A Particular Place",
+        "Cannot Be Expressed In Words"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indigenous is most like?",
+      "options": [
+        "Native To A Particular Place",
+        "Cannot Be Expressed In Words",
+        "Easily Angered"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ineffable is most like?",
+      "options": [
+        "Cannot Be Expressed In Words",
+        "Easily Angered",
+        "Unexpected"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irascible is most like?",
+      "options": [
+        "Easily Angered",
+        "Unexpected",
+        "Express Regret"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ironic is most like?",
+      "options": [
+        "Unexpected",
+        "Express Regret",
+        "Having No Energy Or Interest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lament is most like?",
+      "options": [
+        "Express Regret",
+        "Having No Energy Or Interest",
+        "Lack Of Energy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Languid is most like?",
+      "options": [
+        "Having No Energy Or Interest",
+        "Lack Of Energy",
+        "Mournful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lassitude is most like?",
+      "options": [
+        "Lack Of Energy",
+        "Mournful",
+        "Rapidly Changing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lugubrious is most like?",
+      "options": [
+        "Mournful",
+        "Rapidly Changing",
+        "Wrong Name For Something"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mercurial is most like?",
+      "options": [
+        "Rapidly Changing",
+        "Wrong Name For Something",
+        "Calmed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Misnomer is most like?",
+      "options": [
+        "Wrong Name For Something",
+        "Calmed",
+        "Having Many Aspects"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mollified is most like?",
+      "options": [
+        "Calmed",
+        "Having Many Aspects",
+        "Dull"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Multifaceted is most like?",
+      "options": [
+        "Having Many Aspects",
+        "Dull",
+        "Longing For The Past"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mundane is most like?",
+      "options": [
+        "Dull",
+        "Longing For The Past",
+        "Easily Seen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nostalgic is most like?",
+      "options": [
+        "Longing For The Past",
+        "Easily Seen",
+        "All Powerful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obtrusive is most like?",
+      "options": [
+        "Easily Seen",
+        "All Powerful",
+        "Science Of Teaching"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Omnipotent is most like?",
+      "options": [
+        "All Powerful",
+        "Science Of Teaching",
+        "Calm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pedagogy is most like?",
+      "options": [
+        "Science Of Teaching",
+        "Calm",
+        "Believable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Phlegmatic is most like?",
+      "options": [
+        "Calm",
+        "Believable",
+        "Fore-Runner"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plausible is most like?",
+      "options": [
+        "Believable",
+        "Fore-Runner",
+        "Fame"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Precursor is most like?",
+      "options": [
+        "Fore-Runner",
+        "Fame",
+        "Putting On An Act"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Preeminence is most like?",
+      "options": [
+        "Fame",
+        "Putting On An Act",
+        "Outlook"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pretentious is most like?",
+      "options": [
+        "Putting On An Act",
+        "Outlook",
+        "Producing A Lot"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prognosis is most like?",
+      "options": [
+        "Outlook",
+        "Producing A Lot",
+        "Provoking"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prolific is most like?",
+      "options": [
+        "Producing A Lot",
+        "Provoking",
+        "Clothes"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Provocative is most like?",
+      "options": [
+        "Provoking",
+        "Clothes",
+        "Pay Back"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Raiment is most like?",
+      "options": [
+        "Clothes",
+        "Pay Back",
+        "Bring Disputing Side Together Again"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reciprocate is most like?",
+      "options": [
+        "Pay Back",
+        "Bring Disputing Side Together Again",
+        "Wrong"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reconcile is most like?",
+      "options": [
+        "Bring Disputing Side Together Again",
+        "Wrong",
+        "Criticism"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Remiss is most like?",
+      "options": [
+        "Wrong",
+        "Criticism",
+        "Able To Spring Back"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Remonstrance is most like?",
+      "options": [
+        "Criticism",
+        "Able To Spring Back",
+        "Reducing Staff Or Forces"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resilient is most like?",
+      "options": [
+        "Able To Spring Back",
+        "Reducing Staff Or Forces",
+        "Firm And Strong"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Retrenchment is most like?",
+      "options": [
+        "Reducing Staff Or Forces",
+        "Firm And Strong",
+        "Doubtful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Robust is most like?",
+      "options": [
+        "Firm And Strong",
+        "Doubtful",
+        "Distorted"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Skeptical is most like?",
+      "options": [
+        "Doubtful",
+        "Distorted",
+        "Strict"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Skewed is most like?",
+      "options": [
+        "Distorted",
+        "Strict",
+        "Not Obvious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Stringent is most like?",
+      "options": [
+        "Strict",
+        "Not Obvious",
+        "Clear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Subtle is most like?",
+      "options": [
+        "Not Obvious",
+        "Clear",
+        "Miscellaneous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Succinct is most like?",
+      "options": [
+        "Clear",
+        "Miscellaneous",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sundry is most like?",
+      "options": [
+        "Miscellaneous",
+        "Support",
+        "Can Be Held (Of An Opinion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sustenance is most like?",
+      "options": [
+        "Support",
+        "Can Be Held (Of An Opinion",
+        "Shaky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenable is most like?",
+      "options": [
+        "can be held (of an opinion",
+        " for example)",
+        "Shaky",
+        "Hot And Steamy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenuous is most like?",
+      "options": [
+        "Shaky",
+        "Hot And Steamy",
+        "Attempt To Overthrow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Torrid is most like?",
+      "options": [
+        "Hot And Steamy",
+        "Attempt To Overthrow",
+        "Emphasize"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Undermine is most like?",
+      "options": [
+        "Attempt To Overthrow",
+        "Emphasize",
+        "Clear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Underscore is most like?",
+      "options": [
+        "Emphasize",
+        "Clear",
+        "Carrier (Of Disease"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unequivocal is most like?",
+      "options": [
+        "Clear",
+        "Carrier (Of Disease",
+        "Wordy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vector is most like?",
+      "options": [
+        "carrier (of disease",
+        " for example)",
+        "Wordy",
+        "Fickle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Verbose is most like?",
+      "options": [
+        "Wordy",
+        "Fickle",
+        "Full Of Sadness And Longing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Whimsical is most like?",
+      "options": [
+        "Fickle",
+        "Full Of Sadness And Longing",
+        "Ashamed Or Sorry"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Wistful is most like?",
+      "options": [
+        "Full Of Sadness And Longing",
+        "Ashamed Or Sorry",
+        "Indirect Reference"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abashed is most like?",
+      "options": [
+        "Ashamed Or Sorry",
+        "Indirect Reference",
+        "Undecided"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Allusion is most like?",
+      "options": [
+        "Indirect Reference",
+        "Undecided",
+        "Comparison"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ambivalent is most like?",
+      "options": [
+        "Undecided",
+        "Comparison",
+        "Short Account/Story"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Analogy is most like?",
+      "options": [
+        "Comparison",
+        "Short Account/Story",
+        "Wiped Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Anecdote is most like?",
+      "options": [
+        "Short Account/Story",
+        "Wiped Out",
+        "Oddities"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Annihilated is most like?",
+      "options": [
+        "Wiped Out",
+        "Oddities",
+        "Places On Opposite Sides Of The Globe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Anomalies is most like?",
+      "options": [
+        "Oddities",
+        "Places On Opposite Sides Of The Globe",
+        "Worry"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Antipodes is most like?",
+      "options": [
+        "Places On Opposite Sides Of The Globe",
+        "Worry",
+        "Hard And Difficult"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Apprehension is most like?",
+      "options": [
+        "Worry",
+        "Hard And Difficult",
+        "(Adj.) Able To Express Something Well In Words"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Arduous is most like?",
+      "options": [
+        "Hard And Difficult",
+        "(Adj.) Able To Express Something Well In Words",
+        "To Make Less"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Articulate is most like?",
+      "options": [
+        "(Adj.) Able To Express Something Well In Words",
+        "To Make Less",
+        "Fortunate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Assuage is most like?",
+      "options": [
+        "To Make Less",
+        "Fortunate",
+        "Acting Like An Uncle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Auspicious is most like?",
+      "options": [
+        "Fortunate",
+        "Acting Like An Uncle",
+        "Something That Is Taken To Be True"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Avuncular is most like?",
+      "options": [
+        "Acting Like An Uncle",
+        "Something That Is Taken To Be True",
+        "Dull"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Axiom is most like?",
+      "options": [
+        "Something That Is Taken To Be True",
+        "Dull",
+        "Aggressive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Banal is most like?",
+      "options": [
+        "Dull",
+        "Aggressive",
+        "Kindly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bellicose is most like?",
+      "options": [
+        "Aggressive",
+        "Kindly",
+        "Without"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Benign is most like?",
+      "options": [
+        "Kindly",
+        "Without",
+        "Division Into Two"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bereft of is most like?",
+      "options": [
+        "Without",
+        "Division Into Two",
+        "Obviously"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bifurcation is most like?",
+      "options": [
+        "Division Into Two",
+        "Obviously",
+        "Very Noisy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Blatantly is most like?",
+      "options": [
+        "Obviously",
+        "Very Noisy",
+        "Irritable And Difficult To Please"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cacophonous is most like?",
+      "options": [
+        "Very Noisy",
+        "Irritable And Difficult To Please",
+        "Fascinating"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cantankerous is most like?",
+      "options": [
+        "Irritable And Difficult To Please",
+        "Fascinating",
+        "Scolded"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Captivating is most like?",
+      "options": [
+        "Fascinating",
+        "Scolded",
+        "Able To See Into The Future/Another Dimension"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Chided is most like?",
+      "options": [
+        "Scolded",
+        "Able To See Into The Future/Another Dimension",
+        "Over-Protected"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Clairvoyant is most like?",
+      "options": [
+        "Able To See Into The Future/Another Dimension",
+        "Over-Protected",
+        "Attractive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Coddled is most like?",
+      "options": [
+        "Over-Protected",
+        "Attractive",
+        "Smug"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Comely is most like?",
+      "options": [
+        "Attractive",
+        "Smug",
+        "Suitable For"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Complacent is most like?",
+      "options": [
+        "Smug",
+        "Suitable For",
+        "Sociable And Friendly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Conducive to is most like?",
+      "options": [
+        "Suitable For",
+        "Sociable And Friendly",
+        "Literally A Horn Filled With Fruits Etc"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Convivial is most like?",
+      "options": [
+        "Sociable And Friendly",
+        "Literally A Horn Filled With Fruits Etc",
+        "Composed Of Varied Nationalities"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cornucopia is most like?",
+      "options": [
+        "Literally A Horn Filled With Fruits Etc",
+        "Composed Of Varied Nationalities",
+        "Faker"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cosmopolitan is most like?",
+      "options": [
+        "Composed Of Varied Nationalities",
+        "Faker",
+        "Decode"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Counterfeiter is most like?",
+      "options": [
+        "Faker",
+        "Decode",
+        "Showing Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Decipher is most like?",
+      "options": [
+        "Decode",
+        "Showing Respect",
+        "Something That Puts One Off"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deferential is most like?",
+      "options": [
+        "Showing Respect",
+        "Something That Puts One Off",
+        "Divisions Into Two Parts"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deterrent is most like?",
+      "options": [
+        "Something That Puts One Off",
+        "Divisions Into Two Parts",
+        "Shy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dichotomies is most like?",
+      "options": [
+        "Divisions Into Two Parts",
+        "Shy",
+        "Going Off The Point"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Diffident is most like?",
+      "options": [
+        "Shy",
+        "Going Off The Point",
+        "Able To Make Fine Distinctions Between"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Digression is most like?",
+      "options": [
+        "Going Off The Point",
+        "Able To Make Fine Distinctions Between",
+        "Placid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Discriminating is most like?",
+      "options": [
+        "Able To Make Fine Distinctions Between",
+        "Placid",
+        "The Upper Levels In A Society"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Docile is most like?",
+      "options": [
+        "Placid",
+        "The Upper Levels In A Society",
+        "Fair And Equal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Elite is most like?",
+      "options": [
+        "The Upper Levels In A Society",
+        "Fair And Equal",
+        "Ambiguous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Equitable is most like?",
+      "options": [
+        "Fair And Equal",
+        "Ambiguous",
+        "Exciting"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Equivocal is most like?",
+      "options": [
+        "Ambiguous",
+        "Exciting",
+        " (V) Work Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exhilarating is most like?",
+      "options": [
+        "Exciting",
+        " (V) Work Out",
+        "Passionate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fathom is most like?",
+      "options": [
+        " (V) Work Out",
+        "Passionate",
+        "Concerned With The Relationship Between Child And Parent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fervent is most like?",
+      "options": [
+        "Passionate",
+        "Concerned With The Relationship Between Child And Parent",
+        "Sense Of Doom"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Filial is most like?",
+      "options": [
+        "Concerned With The Relationship Between Child And Parent",
+        "Sense Of Doom",
+        "Concerned With Funerals"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Foreboding is most like?",
+      "options": [
+        "Sense Of Doom",
+        "Concerned With Funerals",
+        "Stirred Into Action"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Funerary is most like?",
+      "options": [
+        "Concerned With Funerals",
+        "Stirred Into Action",
+        "Exaggerated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Galvanized is most like?",
+      "options": [
+        "Stirred Into Action",
+        "Exaggerated",
+        "Arrogant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Grandiose is most like?",
+      "options": [
+        "Exaggerated",
+        "Arrogant",
+        "Very Funny"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Haughty is most like?",
+      "options": [
+        "Arrogant",
+        "Very Funny",
+        "Over-Exaggeration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hilarious is most like?",
+      "options": [
+        "Very Funny",
+        "Over-Exaggeration",
+        "Impulsive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hyperbole is most like?",
+      "options": [
+        "Over-Exaggeration",
+        "Impulsive",
+        "Cannot Be Decoded"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Impetuous is most like?",
+      "options": [
+        "Impulsive",
+        "Cannot Be Decoded",
+        "Lacking Firmness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indecipherable is most like?",
+      "options": [
+        "Cannot Be Decoded",
+        "Lacking Firmness",
+        "Lack Of Seriousness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irresolute is most like?",
+      "options": [
+        "Lacking Firmness",
+        "Lack Of Seriousness",
+        "Talkative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Levity is most like?",
+      "options": [
+        "Lack Of Seriousness",
+        "Talkative",
+        "Average"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Loquacious is most like?",
+      "options": [
+        "Talkative",
+        "Average",
+        "Pleasant-Sounding"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mediocre is most like?",
+      "options": [
+        "Average",
+        "Pleasant-Sounding",
+        "Figurative Speech"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mellifluous is most like?",
+      "options": [
+        "Pleasant-Sounding",
+        "Figurative Speech",
+        "Wrong-Doers"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Metaphor is most like?",
+      "options": [
+        "Figurative Speech",
+        "Wrong-Doers",
+        "Made Less Severe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Miscreants is most like?",
+      "options": [
+        "Wrong-Doers",
+        "Made Less Severe",
+        "Unsophisticated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mitigated is most like?",
+      "options": [
+        "Made Less Severe",
+        "Unsophisticated",
+        "Assuming An Appearance Of Not Caring"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Naive is most like?",
+      "options": [
+        "Unsophisticated",
+        "Assuming An Appearance Of Not Caring",
+        "Wiped Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nonchalant is most like?",
+      "options": [
+        "Assuming An Appearance Of Not Caring",
+        "Wiped Out",
+        "Pushed Out Of A Position"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obliterated is most like?",
+      "options": [
+        "Wiped Out",
+        "Pushed Out Of A Position",
+        "People Who Oppose War"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ousted is most like?",
+      "options": [
+        "Pushed Out Of A Position",
+        "People Who Oppose War",
+        "Remedy For All Ills"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pacifists is most like?",
+      "options": [
+        "People Who Oppose War",
+        "Remedy For All Ills",
+        "Counter To What One Would Think"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Panacea is most like?",
+      "options": [
+        "Remedy For All Ills",
+        "Counter To What One Would Think",
+        " Attributing Human Qualities To Something Non-Human"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Paradoxically is most like?",
+      "options": [
+        "Counter To What One Would Think",
+        " Attributing Human Qualities To Something Non-Human",
+        "Careful Reading"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Personification is most like?",
+      "options": [
+        " Attributing Human Qualities To Something Non-Human",
+        "Careful Reading",
+        "Calm And Peaceful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Perusal is most like?",
+      "options": [
+        "Careful Reading",
+        "Calm And Peaceful",
+        "Assuming Too Much"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Placid is most like?",
+      "options": [
+        "Calm And Peaceful",
+        "Assuming Too Much",
+        "Someone Who Seeks To Make Unjustified Profits"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Presumptuous is most like?",
+      "options": [
+        "Assuming Too Much",
+        "Someone Who Seeks To Make Unjustified Profits",
+        "Someone Who Spreads Ideas"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Profiteer is most like?",
+      "options": [
+        "Someone Who Seeks To Make Unjustified Profits",
+        "Someone Who Spreads Ideas",
+        "Closeness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Propagandist is most like?",
+      "options": [
+        "Someone Who Spreads Ideas",
+        "Closeness",
+        "Something Added To Modify An Opinion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Proximity is most like?",
+      "options": [
+        "Closeness",
+        "Something Added To Modify An Opinion",
+        "Bring Disputing Sides Together"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Qualification is most like?",
+      "options": [
+        "Something Added To Modify An Opinion",
+        "Bring Disputing Sides Together",
+        "Break From Work Etc."
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reconcile is most like?",
+      "options": [
+        "Bring Disputing Sides Together",
+        "Break From Work Etc.",
+        "Shy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Respite is most like?",
+      "options": [
+        "Break From Work Etc.",
+        "Shy",
+        "Showing Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reticent is most like?",
+      "options": [
+        "Shy",
+        "Showing Respect",
+        "People Who Revise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reverential is most like?",
+      "options": [
+        "Showing Respect",
+        "People Who Revise",
+        "Hypocritically Holy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Revisionists is most like?",
+      "options": [
+        "People Who Revise",
+        "Hypocritically Holy",
+        "Brave"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sanctimonious is most like?",
+      "options": [
+        "Hypocritically Holy",
+        "Brave",
+        "Mutually Advantageous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Stoic is most like?",
+      "options": [
+        "Brave",
+        "Mutually Advantageous",
+        "With Strongly Accented Rhythm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Symbiotic is most like?",
+      "options": [
+        "Mutually Advantageous",
+        "With Strongly Accented Rhythm",
+        "Unspoken"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Syncopated is most like?",
+      "options": [
+        "With Strongly Accented Rhythm",
+        "Unspoken",
+        "Teased"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tacit is most like?",
+      "options": [
+        "Unspoken",
+        "Teased",
+        "Mild"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Taunted is most like?",
+      "options": [
+        "Teased",
+        "Mild",
+        "Making Something Seem Less Important Than It Is"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Temperate is most like?",
+      "options": [
+        "Mild",
+        "Making Something Seem Less Important Than It Is",
+        "Without Hesitation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Understatement is most like?",
+      "options": [
+        "Making Something Seem Less Important Than It Is",
+        "Without Hesitation",
+        "Never Giving Up"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unqualified is most like?",
+      "options": [
+        "Without Hesitation",
+        "Never Giving Up",
+        "Unjustified"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unrelenting is most like?",
+      "options": [
+        "Never Giving Up",
+        "Unjustified",
+        "Area Between Two River Basins"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unwarranted is most like?",
+      "options": [
+        "Unjustified",
+        "Area Between Two River Basins",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Watershed is most like?",
+      "options": [
+        "Area Between Two River Basins",
+        "Support",
+        "Vague"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Advocate is most like?",
+      "options": [
+        "Support",
+        "Vague",
+        "Hostility"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ambiguous is most like?",
+      "options": [
+        "Vague",
+        "Hostility",
+        "Rudeness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Animosity is most like?",
+      "options": [
+        "Hostility",
+        "Rudeness",
+        "Blame"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Boorishness is most like?",
+      "options": [
+        "Rudeness",
+        "Blame",
+        "Agreement"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Censure is most like?",
+      "options": [
+        "Blame",
+        "Agreement",
+        "Big Fire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Concord is most like?",
+      "options": [
+        "Agreement",
+        "Big Fire",
+        "Dedicated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Conflagration is most like?",
+      "options": [
+        "Big Fire",
+        "Dedicated",
+        "Supremely Good"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Consecrated is most like?",
+      "options": [
+        "Dedicated",
+        "Supremely Good",
+        "Passed On Through Touch"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Consummate is most like?",
+      "options": [
+        "Supremely Good",
+        "Passed On Through Touch",
+        "Superficial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Contagious is most like?",
+      "options": [
+        "Passed On Through Touch",
+        "Superficial",
+        "Non-Serious Involvement"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cursory is most like?",
+      "options": [
+        "Superficial",
+        "Non-Serious Involvement",
+        "Harmful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dalliance is most like?",
+      "options": [
+        "Non-Serious Involvement",
+        "Harmful",
+        "Critical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deleterious is most like?",
+      "options": [
+        "Harmful",
+        "Critical",
+        "Doubtful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disparaging is most like?",
+      "options": [
+        "Critical",
+        "Doubtful",
+        "Fair And Equal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dubious is most like?",
+      "options": [
+        "Doubtful",
+        "Fair And Equal",
+        "Praise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Equitable is most like?",
+      "options": [
+        "Fair And Equal",
+        "Praise",
+        "Very Fussy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Eulogy is most like?",
+      "options": [
+        "Praise",
+        "Very Fussy",
+        "Faithfulness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fastidious is most like?",
+      "options": [
+        "Very Fussy",
+        "Faithfulness",
+        "Inspiring Awe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fidelity is most like?",
+      "options": [
+        "Faithfulness",
+        "Inspiring Awe",
+        "Useless"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Formidable is most like?",
+      "options": [
+        "Inspiring Awe",
+        "Useless",
+        "Uselessness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Futile is most like?",
+      "options": [
+        "Useless",
+        "Uselessness",
+        "Whole"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Futility is most like?",
+      "options": [
+        "Uselessness",
+        "Whole",
+        "Quirky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Holistic is most like?",
+      "options": [
+        "Whole",
+        "Quirky",
+        "Can'T Be Expressed In Words"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Idiosyncratic is most like?",
+      "options": [
+        "Quirky",
+        "Can'T Be Expressed In Words",
+        "Unsuitability"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ineffable is most like?",
+      "options": [
+        "Can'T Be Expressed In Words",
+        "Unsuitability",
+        "Honor"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Infelicity is most like?",
+      "options": [
+        "Unsuitability",
+        "Honor",
+        "On And Off"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Integrity is most like?",
+      "options": [
+        "Honor",
+        "On And Off",
+        "Fair"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Intermittent is most like?",
+      "options": [
+        "On And Off",
+        "Fair",
+        "To Make Legal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Judicious is most like?",
+      "options": [
+        "Fair",
+        "To Make Legal",
+        "Seeking Money Above All Else"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Legitimate is most like?",
+      "options": [
+        "To Make Legal",
+        "Seeking Money Above All Else",
+        "Thorough"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mercenary is most like?",
+      "options": [
+        "Seeking Money Above All Else",
+        "Thorough",
+        "Sulky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Meticulous is most like?",
+      "options": [
+        "Thorough",
+        "Sulky",
+        "Divided Into Two Extremes"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Petulant is most like?",
+      "options": [
+        "Sulky",
+        "Divided Into Two Extremes",
+        "Practicality"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Polarized is most like?",
+      "options": [
+        "Divided Into Two Extremes",
+        "Practicality",
+        "Presumed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pragmatism is most like?",
+      "options": [
+        "Practicality",
+        "Presumed",
+        "Tendency"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Presumptive is most like?",
+      "options": [
+        "Presumed",
+        "Tendency",
+        "Ordinary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Propensity is most like?",
+      "options": [
+        "Tendency",
+        "Ordinary",
+        "Suppressed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prosaic is most like?",
+      "options": [
+        "Ordinary",
+        "Suppressed",
+        "Moving Backwards (Literal Or Metaphoric)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Quelled is most like?",
+      "options": [
+        "Suppressed",
+        "Moving Backwards (Literal Or Metaphoric)",
+        "Neglectful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Regressive is most like?",
+      "options": [
+        "Moving Backwards (Literal Or Metaphoric)",
+        "Neglectful",
+        "Persuasive Language"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Remiss is most like?",
+      "options": [
+        "Neglectful",
+        "Persuasive Language",
+        "Thorough"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rhetoric is most like?",
+      "options": [
+        "Persuasive Language",
+        "Thorough",
+        "Gave Moral Lecture"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sedulous is most like?",
+      "options": [
+        "Thorough",
+        "Gave Moral Lecture",
+        "A Cover For Dead Body"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sermonized is most like?",
+      "options": [
+        "Gave Moral Lecture",
+        "A Cover For Dead Body",
+        "Loyalty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Shroud is most like?",
+      "options": [
+        "A Cover For Dead Body",
+        "Loyalty",
+        "Put Off"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Steadfastness is most like?",
+      "options": [
+        "Loyalty",
+        "Put Off",
+        "Too Sweet"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Temporize is most like?",
+      "options": [
+        "Put Off",
+        "Too Sweet",
+        "Wavered"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Treacly is most like?",
+      "options": [
+        "Too Sweet",
+        "Wavered",
+        "Proving Right"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vacillated is most like?",
+      "options": [
+        "Wavered",
+        "Proving Right",
+        "Seeking Revenge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vindication is most like?",
+      "options": [
+        "Proving Right",
+        "Seeking Revenge",
+        "Difficult To Comprehend"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vindictive is most like?",
+      "options": [
+        "Seeking Revenge",
+        "Difficult To Comprehend",
+        "Sharpness Of Mind"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abstruse is most like?",
+      "options": [
+        "Difficult To Comprehend",
+        "Sharpness Of Mind",
+        "Skilful / Skillful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Acumen is most like?",
+      "options": [
+        "Sharpness Of Mind",
+        "Skilful / Skillful",
+        "Out Of Normal Time Range"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adroit is most like?",
+      "options": [
+        "Skilful ",
+        "Out Of Normal Time Range",
+        "Obscure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Anachronistic is most like?",
+      "options": [
+        "Out Of Normal Time Range",
+        "Obscure",
+        "Self-Government"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Arcane is most like?",
+      "options": [
+        "Obscure",
+        "Self-Government",
+        "People Who Criticize/Disparage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Autonomy is most like?",
+      "options": [
+        "Self-Government",
+        "People Who Criticize/Disparage",
+        "Excessive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Belittlers is most like?",
+      "options": [
+        "People Who Criticize/Disparage",
+        "Excessive",
+        "Dedication"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Byzantine is most like?",
+      "options": [
+        "Excessive",
+        "Dedication",
+        "Consequence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Consecration is most like?",
+      "options": [
+        "Dedication",
+        "Consequence",
+        "Cut Short"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Corollary is most like?",
+      "options": [
+        "Consequence",
+        "Cut Short",
+        "People Who Expose/Throw Out Old Ideas"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Curtail is most like?",
+      "options": [
+        "Cut Short",
+        "People Who Expose/Throw Out Old Ideas",
+        "Cunning"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Debunkers is most like?",
+      "options": [
+        "People Who Expose/Throw Out Old Ideas",
+        "Cunning",
+        "Intending To Preach Or Teach"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Devious is most like?",
+      "options": [
+        "Cunning",
+        "Intending To Preach Or Teach",
+        "Wiping Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Didactic is most like?",
+      "options": [
+        "Intending To Preach Or Teach",
+        "Wiping Out",
+        "Selfish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Effacement is most like?",
+      "options": [
+        "Wiping Out",
+        "Selfish",
+        "Living Example Of"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Egotistical is most like?",
+      "options": [
+        "Selfish",
+        "Living Example Of",
+        "Essence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Embodiment is most like?",
+      "options": [
+        "Living Example Of",
+        "Essence",
+        "Obscure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Epitome is most like?",
+      "options": [
+        "Essence",
+        "Obscure",
+        "Predicted On The Basis Of Existing Data"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Esoteric is most like?",
+      "options": [
+        "Obscure",
+        "Predicted On The Basis Of Existing Data",
+        "Encourage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Extrapolated is most like?",
+      "options": [
+        "Predicted On The Basis Of Existing Data",
+        "Encourage",
+        "Silly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Foster is most like?",
+      "options": [
+        "Encourage",
+        "Silly",
+        "Lack Of Clarity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Inane is most like?",
+      "options": [
+        "Silly",
+        "Lack Of Clarity",
+        "Not Easily Seen"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Incoherence is most like?",
+      "options": [
+        "Lack Of Clarity",
+        "Not Easily Seen",
+        "Without Thought"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Inconspicuous is most like?",
+      "options": [
+        "Not Easily Seen",
+        "Without Thought",
+        "InnocentÂ "
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indiscriminate is most like?",
+      "options": [
+        "Without Thought",
+        "InnocentÂ ",
+        "Lack Of Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ingenuous is most like?",
+      "options": [
+        "InnocentÂ ",
+        "Lack Of Respect",
+        "Rebels"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Insolence is most like?",
+      "options": [
+        "Lack Of Respect",
+        "Rebels",
+        "Lack Of Moderation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Insurrectionists is most like?",
+      "options": [
+        "Rebels",
+        "Lack Of Moderation",
+        "Lack Of Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Intemperance is most like?",
+      "options": [
+        "Lack Of Moderation",
+        "Lack Of Respect",
+        "Put At Risk"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irreverence is most like?",
+      "options": [
+        "Lack Of Respect",
+        "Put At Risk",
+        "Lazy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Jeopardize is most like?",
+      "options": [
+        "Put At Risk",
+        "Lazy",
+        "Clear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lackadaisical is most like?",
+      "options": [
+        "Lazy",
+        "Clear",
+        "Generosity (Of Spirit)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lucid is most like?",
+      "options": [
+        "Clear",
+        "Generosity (Of Spirit)",
+        "Having Many Aspects"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Magnanimity is most like?",
+      "options": [
+        "Generosity (Of Spirit)",
+        "Having Many Aspects",
+        "Infamous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Multifarious is most like?",
+      "options": [
+        "Having Many Aspects",
+        "Infamous",
+        "Burdensome"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nefarious is most like?",
+      "options": [
+        "Infamous",
+        "Burdensome",
+        "Grabbing Opportunities"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Onerous is most like?",
+      "options": [
+        "Burdensome",
+        "Grabbing Opportunities",
+        "Highly Decorated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Opportunism is most like?",
+      "options": [
+        "Grabbing Opportunities",
+        "Highly Decorated",
+        "Forerunner"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ornate is most like?",
+      "options": [
+        "Highly Decorated",
+        "Forerunner",
+        "Supporters"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Precursor is most like?",
+      "options": [
+        "Forerunner",
+        "Supporters",
+        "Firm Of Purpose"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Proponents is most like?",
+      "options": [
+        "Supporters",
+        "Firm Of Purpose",
+        "Holiness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resolute is most like?",
+      "options": [
+        "Firm Of Purpose",
+        "Holiness",
+        "Causing Division Or Rebellion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sanctity is most like?",
+      "options": [
+        "Holiness",
+        "Causing Division Or Rebellion",
+        "Careless"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Seditious is most like?",
+      "options": [
+        "Causing Division Or Rebellion",
+        "Careless",
+        "Expressing Care/Concern"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Slipshod is most like?",
+      "options": [
+        "Careless",
+        "Expressing Care/Concern",
+        "Devious Logic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Solicitousness is most like?",
+      "options": [
+        "Expressing Care/Concern",
+        "Devious Logic",
+        "Give Supporting Evidence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sophistry is most like?",
+      "options": [
+        "Devious Logic",
+        "Give Supporting Evidence",
+        "Intending To Overthrow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Substantiate is most like?",
+      "options": [
+        "Give Supporting Evidence",
+        "Intending To Overthrow",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Subversive is most like?",
+      "options": [
+        "Intending To Overthrow",
+        "Support",
+        "Holding Firmly To Idea Or Purpose"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sustain is most like?",
+      "options": [
+        "Support",
+        "Holding Firmly To Idea Or Purpose",
+        "Evaporates Easily"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenacious is most like?",
+      "options": [
+        "Holding Firmly To Idea Or Purpose",
+        "Evaporates Easily",
+        "Skilful / Skillful (Maladroit = Clumsy)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Volatile is most like?",
+      "options": [
+        "Evaporates Easily",
+        "Skilful / Skillful (Maladroit = Clumsy)",
+        "Unsure Of The Existence Of God"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adroit is most like?",
+      "options": [
+        "Skilful ",
+        "Unsure Of The Existence Of God",
+        "Making Better"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Agnostic is most like?",
+      "options": [
+        "Unsure Of The Existence Of God",
+        "Making Better",
+        "Living In Trees"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ameliorating is most like?",
+      "options": [
+        "Making Better",
+        "Living In Trees",
+        "Find Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Arboreal is most like?",
+      "options": [
+        "Living In Trees",
+        "Find Out",
+        "Bombardment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ascertain is most like?",
+      "options": [
+        "Find Out",
+        "Bombardment",
+        "Over-Emphasizing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Barrage is most like?",
+      "options": [
+        "Bombardment",
+        "Over-Emphasizing",
+        "Briefness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Belabor is most like?",
+      "options": [
+        "Over-Emphasizing",
+        "Briefness",
+        "Noise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Brevity is most like?",
+      "options": [
+        "Briefness",
+        "Noise",
+        "Blamed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cacophony is most like?",
+      "options": [
+        "Noise",
+        "Blamed",
+        "Avoid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Censured is most like?",
+      "options": [
+        "Blamed",
+        "Avoid",
+        "Forced"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Circumvent is most like?",
+      "options": [
+        "Avoid",
+        "Forced",
+        "Tolerating"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Coerced is most like?",
+      "options": [
+        "Forced",
+        "Tolerating",
+        "Friendly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Condoning is most like?",
+      "options": [
+        "Tolerating",
+        "Friendly",
+        "Mob Leaders"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Congenial is most like?",
+      "options": [
+        "Friendly",
+        "Mob Leaders",
+        "Criticized"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Demagogues is most like?",
+      "options": [
+        "Mob Leaders",
+        "Criticized",
+        "Tame"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disparaged is most like?",
+      "options": [
+        "Criticized",
+        "Tame",
+        "Taking Things From Different Sources"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Docile is most like?",
+      "options": [
+        "Tame",
+        "Taking Things From Different Sources",
+        "Favoring Top Group"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Eclectic is most like?",
+      "options": [
+        "Taking Things From Different Sources",
+        "Favoring Top Group",
+        "Difficult To Pin Down"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Elitist is most like?",
+      "options": [
+        "Favoring Top Group",
+        "Difficult To Pin Down",
+        "Found By Experiment/Practice"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Elusive is most like?",
+      "options": [
+        "Difficult To Pin Down",
+        "Found By Experiment/Practice",
+        "Supported"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Empiric is most like?",
+      "options": [
+        "Found By Experiment/Practice",
+        "Supported",
+        "Imagining"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Endorsed is most like?",
+      "options": [
+        "Supported",
+        "Imagining",
+        "Praised"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Envisioning is most like?",
+      "options": [
+        "Imagining",
+        "Praised",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Extolled is most like?",
+      "options": [
+        "Praised",
+        "Support",
+        "Secretiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Foster is most like?",
+      "options": [
+        "Support",
+        "Secretiveness",
+        "Greedy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Furtiveness is most like?",
+      "options": [
+        "Secretiveness",
+        "Greedy",
+        "Charge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Gluttonous is most like?",
+      "options": [
+        "Greedy",
+        "Charge",
+        "Native To A Locality"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indictment is most like?",
+      "options": [
+        "Charge",
+        "Native To A Locality",
+        "Cannot Be Criticized. (Reproach = Criticize)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indigenous is most like?",
+      "options": [
+        "Native To A Locality",
+        "Cannot Be Criticized. (Reproach = Criticize)",
+        "Trick"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irreproachable is most like?",
+      "options": [
+        "Cannot Be Criticized. (Reproach = Criticize)",
+        "Trick",
+        "Open To Prosecution For Libel (Libel = Written Slander)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Knack is most like?",
+      "options": [
+        "Trick",
+        "Open To Prosecution For Libel (Libel = Written Slander)",
+        "Belief In Nothing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Libelous is most like?",
+      "options": [
+        "Open To Prosecution For Libel (Libel = Written Slander)",
+        "Belief In Nothing",
+        "Shortage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nihilism is most like?",
+      "options": [
+        "Belief In Nothing",
+        "Shortage",
+        "Tendency"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Paucity is most like?",
+      "options": [
+        "Shortage",
+        "Tendency",
+        "Fearful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Penchant is most like?",
+      "options": [
+        "Tendency",
+        "Fearful",
+        "Steal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Phobic is most like?",
+      "options": [
+        "Fearful",
+        "Steal",
+        "Flexible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pilfer is most like?",
+      "options": [
+        "Steal",
+        "Flexible",
+        "Liking For"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pliant is most like?",
+      "options": [
+        "Flexible",
+        "Liking For",
+        "Assuming Too Much"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Predilection is most like?",
+      "options": [
+        "Liking For",
+        "Assuming Too Much",
+        "Depth (Of Ideas)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Presumption is most like?",
+      "options": [
+        "Assuming Too Much",
+        "Depth (Of Ideas)",
+        "Idealistic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Profundity is most like?",
+      "options": [
+        "Depth (Of Ideas)",
+        "Idealistic",
+        "Avoiding Other People"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Quixotic is most like?",
+      "options": [
+        "Idealistic",
+        "Avoiding Other People",
+        "Revamp Hurriedly/Carelessly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reclusive is most like?",
+      "options": [
+        "Avoiding Other People",
+        "Revamp Hurriedly/Carelessly",
+        "Range"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rehash is most like?",
+      "options": [
+        "Revamp Hurriedly/Carelessly",
+        "Range",
+        "Story"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Repertoire is most like?",
+      "options": [
+        "Range",
+        "Story",
+        "Very Bad"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Repertory is most like?",
+      "options": [
+        "Story",
+        "Very Bad",
+        "Sneering"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reprehensible is most like?",
+      "options": [
+        "Very Bad",
+        "Sneering",
+        "Flexible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sarcasm is most like?",
+      "options": [
+        "Sneering",
+        "Flexible",
+        "Volatile"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Supple is most like?",
+      "options": [
+        "Flexible",
+        "Volatile",
+        "Shot-Lived"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Temperamental is most like?",
+      "options": [
+        "Volatile",
+        "Shot-Lived",
+        "Troubles"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Transitory is most like?",
+      "options": [
+        "Shot-Lived",
+        "Troubles",
+        "Not Deliberate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tribulations is most like?",
+      "options": [
+        "Troubles",
+        "Not Deliberate",
+        "Corruption"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unwitting is most like?",
+      "options": [
+        "Not Deliberate",
+        "Corruption",
+        "Open To Attack"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Venality is most like?",
+      "options": [
+        "Corruption",
+        "Open To Attack",
+        "Deviation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vulnerable is most like?",
+      "options": [
+        "Open To Attack",
+        "Deviation",
+        "Difficult To Comprehend"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Aberration is most like?",
+      "options": [
+        "Deviation",
+        "Difficult To Comprehend",
+        "Friendliness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Abstruse is most like?",
+      "options": [
+        "Difficult To Comprehend",
+        "Friendliness",
+        "Wealth And Status"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Affability is most like?",
+      "options": [
+        "Friendliness",
+        "Wealth And Status",
+        "Making Less Severe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Affluence is most like?",
+      "options": [
+        "Wealth And Status",
+        "Making Less Severe",
+        "Mixture Or Joining Of Different Components"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Alleviation is most like?",
+      "options": [
+        "Making Less Severe",
+        "Mixture Or Joining Of Different Components",
+        "Accumulated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Amalgamation is most like?",
+      "options": [
+        "Mixture Or Joining Of Different Components",
+        "Accumulated",
+        "Esoteric"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Amassed is most like?",
+      "options": [
+        "Accumulated",
+        "Esoteric",
+        "Increasing In Size Or Number"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Arcane is most like?",
+      "options": [
+        "Esoteric",
+        "Increasing In Size Or Number",
+        "Contradicted"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Augmenting is most like?",
+      "options": [
+        "Increasing In Size Or Number",
+        "Contradicted",
+        "Kindly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Belied is most like?",
+      "options": [
+        "Contradicted",
+        "Kindly",
+        "Cruel And Unfeeling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Benevolent is most like?",
+      "options": [
+        "Kindly",
+        "Cruel And Unfeeling",
+        "Truthful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Callous is most like?",
+      "options": [
+        "Cruel And Unfeeling",
+        "Truthful",
+        "A Union Of Two Parts"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Candid is most like?",
+      "options": [
+        "Truthful",
+        "A Union Of Two Parts",
+        "Agreement"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Coalition is most like?",
+      "options": [
+        "A Union Of Two Parts",
+        "Agreement",
+        "Big Fire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Concordance is most like?",
+      "options": [
+        "Agreement",
+        "Big Fire",
+        "In Large Amounts"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Conflagration is most like?",
+      "options": [
+        "Big Fire",
+        "In Large Amounts",
+        "Shortage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Copious is most like?",
+      "options": [
+        "In Large Amounts",
+        "Shortage",
+        "Disaster"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dearth is most like?",
+      "options": [
+        "Shortage",
+        "Disaster",
+        "Charming"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Debacle is most like?",
+      "options": [
+        "Disaster",
+        "Charming",
+        "Freed From Wrong Ideas"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disarming is most like?",
+      "options": [
+        "Charming",
+        "Freed From Wrong Ideas",
+        "Criticizing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disillusioned is most like?",
+      "options": [
+        "Freed From Wrong Ideas",
+        "Criticizing",
+        "Decorated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disparaging is most like?",
+      "options": [
+        "Criticizing",
+        "Decorated",
+        "Understanding In An Insightful Way"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Embellished is most like?",
+      "options": [
+        "Decorated",
+        "Understanding In An Insightful Way",
+        "Included"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Empathetic is most like?",
+      "options": [
+        "Understanding In An Insightful Way",
+        "Included",
+        "Support"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Encompassed is most like?",
+      "options": [
+        "Included",
+        "Support",
+        "Group Of Followers"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Endorsement is most like?",
+      "options": [
+        "Support",
+        "Group Of Followers",
+        "Peace Of Mind"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Entourage is most like?",
+      "options": [
+        "Group Of Followers",
+        "Peace Of Mind",
+        "Wiping Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Equanimity is most like?",
+      "options": [
+        "Peace Of Mind",
+        "Wiping Out",
+        "Obscure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Eradicating is most like?",
+      "options": [
+        "Wiping Out",
+        "Obscure",
+        "Made Worse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Esoteric is most like?",
+      "options": [
+        "Obscure",
+        "Made Worse",
+        "Cut Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exacerbated is most like?",
+      "options": [
+        "Made Worse",
+        "Cut Out",
+        "Strange"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Excised is most like?",
+      "options": [
+        "Cut Out",
+        "Strange",
+        "Section"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exotic is most like?",
+      "options": [
+        "Strange",
+        "Section",
+        "Wheedle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Faction is most like?",
+      "options": [
+        "Section",
+        "Wheedle",
+        "Harsh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Finagle is most like?",
+      "options": [
+        "Wheedle",
+        "Harsh",
+        "Free"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Grating is most like?",
+      "options": [
+        "Harsh",
+        "Free",
+        "Commonplace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Gratuitous is most like?",
+      "options": [
+        "Free",
+        "Commonplace",
+        "Perceptive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hackneyed is most like?",
+      "options": [
+        "Commonplace",
+        "Perceptive",
+        "Rudeness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Insightful is most like?",
+      "options": [
+        "Perceptive",
+        "Rudeness",
+        "Interested And Curious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Insolence is most like?",
+      "options": [
+        "Rudeness",
+        "Interested And Curious",
+        "Sixth Sense"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Intrigued is most like?",
+      "options": [
+        "Interested And Curious",
+        "Sixth Sense",
+        "Lacking Energy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Intuition is most like?",
+      "options": [
+        "Sixth Sense",
+        "Lacking Energy",
+        " To Try To Persuade"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Languid is most like?",
+      "options": [
+        "Lacking Energy",
+        " To Try To Persuade",
+        "Clear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lobby is most like?",
+      "options": [
+        " To Try To Persuade",
+        "Clear",
+        "Spoiled"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lucid is most like?",
+      "options": [
+        "Clear",
+        "Spoiled",
+        "Small"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Marred is most like?",
+      "options": [
+        "Spoiled",
+        "Small",
+        "Dull"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Meager is most like?",
+      "options": [
+        "Small",
+        "Dull",
+        "Varied"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Monotonous is most like?",
+      "options": [
+        "Dull",
+        "Varied",
+        "Choosing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Motley is most like?",
+      "options": [
+        "Varied",
+        "Choosing",
+        "Renovate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Opting is most like?",
+      "options": [
+        "Choosing",
+        "Renovate",
+        "Prevent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Overhaul is most like?",
+      "options": [
+        "Renovate",
+        "Prevent",
+        "Forerunners"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Preclude is most like?",
+      "options": [
+        "Prevent",
+        "Forerunners",
+        "Apparently Claiming"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Precursors is most like?",
+      "options": [
+        "Forerunners",
+        "Apparently Claiming",
+        "Give Official Approval To"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Purportedly is most like?",
+      "options": [
+        "Apparently Claiming",
+        "Give Official Approval To",
+        "Strength"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ratify is most like?",
+      "options": [
+        "Give Official Approval To",
+        "Strength",
+        "Removal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Resilience is most like?",
+      "options": [
+        "Strength",
+        "Removal",
+        "Intermittent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Retraction is most like?",
+      "options": [
+        "Removal",
+        "Intermittent",
+        "Shunned"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sporadic is most like?",
+      "options": [
+        "Intermittent",
+        "Shunned",
+        "Backed Up"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Spurned is most like?",
+      "options": [
+        "Shunned",
+        "Backed Up",
+        "Replace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Substantiated is most like?",
+      "options": [
+        "Backed Up",
+        "Replace",
+        "Stubbornness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Supplant is most like?",
+      "options": [
+        "Replace",
+        "Stubbornness",
+        "Certain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Truculence is most like?",
+      "options": [
+        "Stubbornness",
+        "Certain",
+        "Large"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unequivocal is most like?",
+      "options": [
+        "Certain",
+        "Large",
+        "Sift"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Voluminous is most like?",
+      "options": [
+        "Large",
+        "Sift",
+        "Speed And Eagerness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Winnow is most like?",
+      "options": [
+        "Sift",
+        "Speed And Eagerness",
+        "Friendly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Alacrity is most like?",
+      "options": [
+        "Speed And Eagerness",
+        "Friendly",
+        "Lacking Energy Or Interest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Amiable is most like?",
+      "options": [
+        "Friendly",
+        "Lacking Energy Or Interest",
+        "Avoids"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Apathetic is most like?",
+      "options": [
+        "Lacking Energy Or Interest",
+        "Avoids",
+        "Whimsical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Bypasses is most like?",
+      "options": [
+        "Avoids",
+        "Whimsical",
+        "Blames"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Capricious is most like?",
+      "options": [
+        "Whimsical",
+        "Blames",
+        "Seeking Compromise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Censures is most like?",
+      "options": [
+        "Blames",
+        "Seeking Compromise",
+        "Coming Together"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Conciliatory is most like?",
+      "options": [
+        "Seeking Compromise",
+        "Coming Together",
+        "Building Up"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Convergence is most like?",
+      "options": [
+        "Coming Together",
+        "Building Up",
+        "Putting Off"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cumulative is most like?",
+      "options": [
+        "Building Up",
+        "Putting Off",
+        "Careful Thought"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deferment is most like?",
+      "options": [
+        "Putting Off",
+        "Careful Thought",
+        "Outlines"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deliberation is most like?",
+      "options": [
+        "Careful Thought",
+        "Outlines",
+        "Rundown"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Delineates is most like?",
+      "options": [
+        "Outlines",
+        "Rundown",
+        "Inconsistency"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Derelict is most like?",
+      "options": [
+        "Rundown",
+        "Inconsistency",
+        "Full Of Bitter Feelings"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Discrepancy is most like?",
+      "options": [
+        "Inconsistency",
+        "Full Of Bitter Feelings",
+        "Trespassing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Embittered is most like?",
+      "options": [
+        "Full Of Bitter Feelings",
+        "Trespassing",
+        "Wipe Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Encroaching is most like?",
+      "options": [
+        "Trespassing",
+        "Wipe Out",
+        "Makes Worse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Eradicate is most like?",
+      "options": [
+        "Wipe Out",
+        "Makes Worse",
+        "Frustration And Annoyance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exacerbates is most like?",
+      "options": [
+        "Makes Worse",
+        "Frustration And Annoyance",
+        "Excessive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exasperation is most like?",
+      "options": [
+        "Frustration And Annoyance",
+        "Excessive",
+        "Shocked"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exorbitant is most like?",
+      "options": [
+        "Excessive",
+        "Shocked",
+        "Person That Shows Another To Advantage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Flabbergasted is most like?",
+      "options": [
+        "Shocked",
+        "Person That Shows Another To Advantage",
+        "Economical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Foil for is most like?",
+      "options": [
+        "Person That Shows Another To Advantage",
+        "Economical",
+        "Icy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Frugal is most like?",
+      "options": [
+        "Economical",
+        "Icy",
+        "Dirty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Glacial is most like?",
+      "options": [
+        "Icy",
+        "Dirty",
+        "Unimportant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Grimy is most like?",
+      "options": [
+        "Dirty",
+        "Unimportant",
+        "Not Easy To See"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Inconsequential is most like?",
+      "options": [
+        "Unimportant",
+        "Not Easy To See",
+        "Influx"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indiscernible is most like?",
+      "options": [
+        "Not Easy To See",
+        "Influx",
+        "Honesty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Infusion is most like?",
+      "options": [
+        "Influx",
+        "Honesty",
+        "Tired"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Integrity is most like?",
+      "options": [
+        "Honesty",
+        "Tired",
+        "Placing Two Thing Nest To Each Other"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Jaded is most like?",
+      "options": [
+        "Tired",
+        "Placing Two Thing Nest To Each Other",
+        "Flexible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Juxtaposition is most like?",
+      "options": [
+        "Placing Two Thing Nest To Each Other",
+        "Flexible",
+        "Annoyed"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lithe is most like?",
+      "options": [
+        "Flexible",
+        "Annoyed",
+        "Moderator"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Miffed is most like?",
+      "options": [
+        "Annoyed",
+        "Moderator",
+        "Tiny Amount"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mitigator is most like?",
+      "options": [
+        "Moderator",
+        "Tiny Amount",
+        "Wipe Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Modicum is most like?",
+      "options": [
+        "Tiny Amount",
+        "Wipe Out",
+        "Having No Special Qualities"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Negate is most like?",
+      "options": [
+        "Wipe Out",
+        "Having No Special Qualities",
+        "Miserly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Nondescript is most like?",
+      "options": [
+        "Having No Special Qualities",
+        "Miserly",
+        "Calm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Penurious is most like?",
+      "options": [
+        "Miserly",
+        "Calm",
+        "Cutting Down"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Phlegmatic is most like?",
+      "options": [
+        "Calm",
+        "Cutting Down",
+        "Blame"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Razing is most like?",
+      "options": [
+        "Cutting Down",
+        "Blame",
+        "Let Off (At Least Temporarily)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Recrimination is most like?",
+      "options": [
+        "Blame",
+        "Let Off (At Least Temporarily)",
+        "Stirring"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reprieve is most like?",
+      "options": [
+        "Let Off (At Least Temporarily)",
+        "Stirring",
+        "Can Be Saved"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rousing is most like?",
+      "options": [
+        "Stirring",
+        "Can Be Saved",
+        "Cleaning Thoroughly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Salvageable is most like?",
+      "options": [
+        "Can Be Saved",
+        "Cleaning Thoroughly",
+        "Lonely"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Scouring is most like?",
+      "options": [
+        "Cleaning Thoroughly",
+        "Lonely",
+        "Comfort"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Secluded is most like?",
+      "options": [
+        "Lonely",
+        "Comfort",
+        "Suppress"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Solace is most like?",
+      "options": [
+        "Comfort",
+        "Suppress",
+        "Suppressing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Squelch is most like?",
+      "options": [
+        "Suppress",
+        "Suppressing",
+        "Excess"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Stifling is most like?",
+      "options": [
+        "Suppressing",
+        "Excess",
+        "Off The Point"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Surfeit is most like?",
+      "options": [
+        "Excess",
+        "Off The Point",
+        "Moderate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tangential is most like?",
+      "options": [
+        "Off The Point",
+        "Moderate",
+        "Hesitant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Temper is most like?",
+      "options": [
+        "Moderate",
+        "Hesitant",
+        "Not Giving Up"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tremulous is most like?",
+      "options": [
+        "Hesitant",
+        "Not Giving Up",
+        "Wary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Unyielding is most like?",
+      "options": [
+        "Not Giving Up",
+        "Wary",
+        "Declining"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vigilant is most like?",
+      "options": [
+        "Wary",
+        "Declining",
+        "Twisted"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Waning is most like?",
+      "options": [
+        "Declining",
+        "Twisted",
+        "Cautious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Warped is most like?",
+      "options": [
+        "Twisted",
+        "Cautious",
+        "Anger"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Wary is most like?",
+      "options": [
+        "Cautious",
+        "Anger",
+        "Make Less Severe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Wrath is most like?",
+      "options": [
+        "Anger",
+        "Make Less Severe",
+        "Mixture"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Alleviate is most like?",
+      "options": [
+        "Make Less Severe",
+        "Mixture",
+        "Wise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Amalgam is most like?",
+      "options": [
+        "Mixture",
+        "Wise",
+        "Self-Governing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Astute is most like?",
+      "options": [
+        "Wise",
+        "Self-Governing",
+        "Contradicted"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Autonomous is most like?",
+      "options": [
+        "Self-Governing",
+        "Contradicted",
+        "Cruelty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Belied is most like?",
+      "options": [
+        "Contradicted",
+        "Cruelty",
+        "Accidental"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Callousness is most like?",
+      "options": [
+        "Cruelty",
+        "Accidental",
+        "Supported"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Circumstantial is most like?",
+      "options": [
+        "Accidental",
+        "Supported",
+        "Belief"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Corroborated is most like?",
+      "options": [
+        "Supported",
+        "Belief",
+        "Weakened"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Credulity is most like?",
+      "options": [
+        "Belief",
+        "Weakened",
+        "Careful Thought"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Debilitated is most like?",
+      "options": [
+        "Weakened",
+        "Careful Thought",
+        "Stripped"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Deliberation is most like?",
+      "options": [
+        "Careful Thought",
+        "Stripped",
+        "Mocked"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Denuded is most like?",
+      "options": [
+        "Stripped",
+        "Mocked",
+        "Spoiled"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Derided is most like?",
+      "options": [
+        "Mocked",
+        "Spoiled",
+        "Slow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Despoiled is most like?",
+      "options": [
+        "Spoiled",
+        "Slow",
+        "Speed And Eagerness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dilatory is most like?",
+      "options": [
+        "Slow",
+        "Speed And Eagerness",
+        "Exhibiting Deep Emotional Understanding"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Dispatch is most like?",
+      "options": [
+        "Speed And Eagerness",
+        "Exhibiting Deep Emotional Understanding",
+        "Wipe Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Empathetic is most like?",
+      "options": [
+        "Exhibiting Deep Emotional Understanding",
+        "Wipe Out",
+        "Separation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Eradicate is most like?",
+      "options": [
+        "Wipe Out",
+        "Separation",
+        "Speedy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Estrangement is most like?",
+      "options": [
+        "Separation",
+        "Speedy",
+        "Still In Existence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Expeditious is most like?",
+      "options": [
+        "Speedy",
+        "Still In Existence",
+        "To Lose Energy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Extant is most like?",
+      "options": [
+        "Still In Existence",
+        "To Lose Energy",
+        "Sank"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Flag is most like?",
+      "options": [
+        "To Lose Energy",
+        "Sank",
+        "Crooked"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Foundered is most like?",
+      "options": [
+        "Sank",
+        "Crooked",
+        "Excessive Pride"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fraudulent is most like?",
+      "options": [
+        "Crooked",
+        "Excessive Pride",
+        "Eccentric"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hubris is most like?",
+      "options": [
+        "Excessive Pride",
+        "Eccentric",
+        "Impulsiveness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Idiosyncratic is most like?",
+      "options": [
+        "Eccentric",
+        "Impulsiveness",
+        "Cheeky"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Impetuosity is most like?",
+      "options": [
+        "Impulsiveness",
+        "Cheeky",
+        " Fearless"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Impudent is most like?",
+      "options": [
+        "Cheeky",
+        " Fearless",
+        "Harmless"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Indomitable is most like?",
+      "options": [
+        " Fearless",
+        "Harmless",
+        "Bankrupt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Innocuous is most like?",
+      "options": [
+        "Harmless",
+        "Bankrupt",
+        "Lacking Firmness Of Purpose"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Insolvent is most like?",
+      "options": [
+        "Bankrupt",
+        "Lacking Firmness Of Purpose",
+        "Lacking Respect"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irresolute is most like?",
+      "options": [
+        "Lacking Firmness Of Purpose",
+        "Lacking Respect",
+        "Deceptive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irreverent is most like?",
+      "options": [
+        "Lacking Respect",
+        "Deceptive",
+        "Concern With Death And Disease"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Manipulative is most like?",
+      "options": [
+        "Deceptive",
+        "Concern With Death And Disease",
+        "Short-Sighted (Literal Or Metaphoric)"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Morbidity is most like?",
+      "options": [
+        "Concern With Death And Disease",
+        "Short-Sighted (Literal Or Metaphoric)",
+        "Shutting Out"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Myopic is most like?",
+      "options": [
+        "Short-Sighted (Literal Or Metaphoric)",
+        "Shutting Out",
+        "Interfering"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Occlusion is most like?",
+      "options": [
+        "Shutting Out",
+        "Interfering",
+        " Irritability"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Officious is most like?",
+      "options": [
+        "Interfering",
+        " Irritability",
+        "Peaceful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Peevishness is most like?",
+      "options": [
+        " Irritability",
+        "Peaceful",
+        "Wise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Placid is most like?",
+      "options": [
+        "Peaceful",
+        "Wise",
+        "Meticulous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prudent is most like?",
+      "options": [
+        "Wise",
+        "Meticulous",
+        "Boisterous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Punctilious is most like?",
+      "options": [
+        "Meticulous",
+        "Boisterous",
+        "Bitterness And Bad Feeling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rambunctious is most like?",
+      "options": [
+        "Boisterous",
+        "Bitterness And Bad Feeling",
+        "Examine Carefully"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rancor is most like?",
+      "options": [
+        "Bitterness And Bad Feeling",
+        "Examine Carefully",
+        "Sunk"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Scrutinize is most like?",
+      "options": [
+        "Examine Carefully",
+        "Sunk",
+        "Calm"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Scuttled is most like?",
+      "options": [
+        "Sunk",
+        "Calm",
+        "Peaceful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sedate is most like?",
+      "options": [
+        "Calm",
+        "Peaceful",
+        "Waste"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Serene is most like?",
+      "options": [
+        "Peaceful",
+        "Waste",
+        "Proved Right"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Squander is most like?",
+      "options": [
+        "Waste",
+        "Proved Right",
+        "Bravery"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Validated is most like?",
+      "options": [
+        "Proved Right",
+        "Bravery",
+        "Open To Attack"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Valor is most like?",
+      "options": [
+        "Bravery",
+        "Open To Attack",
+        "Skill"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Vulnerable is most like?",
+      "options": [
+        "Open To Attack",
+        "Skill",
+        "Self-Sacrifice"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Adroitness is most like?",
+      "options": [
+        "Skill",
+        "Self-Sacrifice",
+        "Mediating Between Disputing Sides"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Altruism is most like?",
+      "options": [
+        "Self-Sacrifice",
+        "Mediating Between Disputing Sides",
+        "Old-Fashioned"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Arbitration is most like?",
+      "options": [
+        "Mediating Between Disputing Sides",
+        "Old-Fashioned",
+        "Through The Sense Of Hearing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Archaic is most like?",
+      "options": [
+        "Old-Fashioned",
+        "Through The Sense Of Hearing",
+        "Mental Knowledge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Aural is most like?",
+      "options": [
+        "Through The Sense Of Hearing",
+        "Mental Knowledge",
+        "Judgment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Cognitions is most like?",
+      "options": [
+        "Mental Knowledge",
+        "Judgment",
+        "Crafty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Discernment is most like?",
+      "options": [
+        "Judgment",
+        "Crafty",
+        "Swelling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Disingenuous is most like?",
+      "options": [
+        "Crafty",
+        "Swelling",
+        "Selfish People"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Distension is most like?",
+      "options": [
+        "Swelling",
+        "Selfish People",
+        "Those Who Set Others Free"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Egotists is most like?",
+      "options": [
+        "Selfish People",
+        "Those Who Set Others Free",
+        "Puzzles"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Emancipators is most like?",
+      "options": [
+        "Those Who Set Others Free",
+        "Puzzles",
+        "Learning"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Enigmas is most like?",
+      "options": [
+        "Puzzles",
+        "Learning",
+        "Excellent Examples Of"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Erudition is most like?",
+      "options": [
+        "Learning",
+        "Excellent Examples Of",
+        "Proved Not Guilty"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exemplars is most like?",
+      "options": [
+        "Excellent Examples Of",
+        "Proved Not Guilty",
+        "Destruction"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Exonerated is most like?",
+      "options": [
+        "Proved Not Guilty",
+        "Destruction",
+        "Groveling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Extirpation is most like?",
+      "options": [
+        "Destruction",
+        "Groveling",
+        "Skill"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fawning is most like?",
+      "options": [
+        "Groveling",
+        "Skill",
+        "Intermittent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Finesse is most like?",
+      "options": [
+        "Skill",
+        "Intermittent",
+        "Signals"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Fitful is most like?",
+      "options": [
+        "Intermittent",
+        "Signals",
+        "Great Laughter"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Gestures is most like?",
+      "options": [
+        "Signals",
+        "Great Laughter",
+        "Careful Management Of Resources"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Hilarity is most like?",
+      "options": [
+        "Great Laughter",
+        "Careful Management Of Resources",
+        "Shame"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Husbandry is most like?",
+      "options": [
+        "Careful Management Of Resources",
+        "Shame",
+        "Lack Of Ability"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ignominy is most like?",
+      "options": [
+        "Shame",
+        "Lack Of Ability",
+        "Flavorless"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Ineptitude is most like?",
+      "options": [
+        "Lack Of Ability",
+        "Flavorless",
+        "Gut Feelings"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Insipid is most like?",
+      "options": [
+        "Flavorless",
+        "Gut Feelings",
+        "Prayer"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Intuitions is most like?",
+      "options": [
+        "Gut Feelings",
+        "Prayer",
+        "Something Unexpected"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Invocation is most like?",
+      "options": [
+        "Prayer",
+        "Something Unexpected",
+        "Lazy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Irony is most like?",
+      "options": [
+        "Something Unexpected",
+        "Lazy",
+        "Regrettable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lackadaisical is most like?",
+      "options": [
+        "Lazy",
+        "Regrettable",
+        "Permission"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Lamentable is most like?",
+      "options": [
+        "Regrettable",
+        "Permission",
+        "Statement Of Values"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Mandate is most like?",
+      "options": [
+        "Permission",
+        "Statement Of Values",
+        "Tiny Amount"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Manifesto is most like?",
+      "options": [
+        "Statement Of Values",
+        "Tiny Amount",
+        "Infamy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Modicum is most like?",
+      "options": [
+        "Tiny Amount",
+        "Infamy",
+        "Groveling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Notoriety is most like?",
+      "options": [
+        "Infamy",
+        "Groveling",
+        "Lavish Display Of Wealth"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Obsequious is most like?",
+      "options": [
+        "Groveling",
+        "Lavish Display Of Wealth",
+        "Sadness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Opulence is most like?",
+      "options": [
+        "Lavish Display Of Wealth",
+        "Sadness",
+        "Praise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Pathos is most like?",
+      "options": [
+        "Sadness",
+        "Praise",
+        "Brochure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Plaudits is most like?",
+      "options": [
+        "Praise",
+        "Brochure",
+        "Knock Down"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Prospectus is most like?",
+      "options": [
+        "Brochure",
+        "Knock Down",
+        "Uprightness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Raze is most like?",
+      "options": [
+        "Knock Down",
+        "Uprightness",
+        "Scolded"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rectitude is most like?",
+      "options": [
+        "Uprightness",
+        "Scolded",
+        "Elementary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Reprimanded is most like?",
+      "options": [
+        "Scolded",
+        "Elementary",
+        "Mockery"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Rudimentary is most like?",
+      "options": [
+        "Elementary",
+        "Mockery",
+        "Sleep-Inducing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Sarcasm is most like?",
+      "options": [
+        "Mockery",
+        "Sleep-Inducing",
+        "Insisted"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Soporific is most like?",
+      "options": [
+        "Sleep-Inducing",
+        "Insisted",
+        "Through The Sense Of Touch"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Stipulated is most like?",
+      "options": [
+        "Insisted",
+        "Through The Sense Of Touch",
+        "Firmness Of Purpose"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tactile is most like?",
+      "options": [
+        "Through The Sense Of Touch",
+        "Firmness Of Purpose",
+        "Ability To Do Many Things"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Tenacity is most like?",
+      "options": [
+        "Firmness Of Purpose",
+        "Ability To Do Many Things",
+        "Experienced Indirectly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The word Versatility is most like?",
+      "options": [
+        "Ability To Do Many Things",
+        "Experienced Indirectly",
+        "Praise"
+      ],
+      "answer": 0
+    }
+  ]
+}
