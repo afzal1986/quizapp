@@ -11,6 +11,2247 @@
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": [
     {
+      "questionText": "Complete the sentence:\n\nAs I began my speech, my feelings of nervousness quickly ______ .",
+      "options": [
+        "Abated",
+        "Abstract",
+        "Abysmal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nJulie had trouble understanding the appeal of the ______ painting.",
+      "options": [
+        "Abstract",
+        "Abysmal",
+        "Accordingly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI got an ______ grade on my research paper!",
+      "options": [
+        "Abysmal",
+        "Accordingly",
+        "Acquisition"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe dictator sent orders to ______  the group of rebels.",
+      "options": [
+        "Annihilate",
+        "Anomaly",
+        "Anticipate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis result is an ______  and very rarely happens.",
+      "options": [
+        "Anomaly",
+        "Anticipate",
+        "Antipathy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe party was just as fun as I had ______  it would be.",
+      "options": [
+        "anticipated ",
+        "Antipathy",
+        "Apex"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nYour painting beautifully ______ the ephemerality of life.",
+      "options": [
+        "captures ",
+        "Conduct",
+        "Capture"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI was ______ by her beauty.",
+      "options": [
+        "captured ",
+        "Conduct",
+        "Civic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe cops ______ the criminal three days after the incident.",
+      "options": [
+        "captured ",
+        "Civic",
+        "Clinical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nVoting is a ______ duty.",
+      "options": [
+        "Civic",
+        "Clinical",
+        "Clout"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______ approach to situations allows her to handle them more effectively.",
+      "options": [
+        "Clinical",
+        "Clout",
+        "Coarse"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nChildren of rich and famous people often believe they have a lot of ______ .",
+      "options": [
+        "Clout",
+        "Coarse",
+        "Afford"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe horse's mane was ______ , as if it had never been washed.",
+      "options": [
+        "Coarse",
+        "Conduct",
+        "Coincide"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe queen's ______ way of speaking surprised the other members of royalty.",
+      "options": [
+        "Coarse",
+        "Coincide",
+        "Commission"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIt wasn't until after I booked my ticket that I realized the concert ______ with my finals.",
+      "options": [
+        "coincided ",
+        "Commission",
+        "Comparable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis painting was ______ by a rich merchant in 1589.",
+      "options": [
+        "commissioned ",
+        "Comparable",
+        "Competent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis novel is ______ to Huckleberry Finn.",
+      "options": [
+        "comparable ",
+        "Competent",
+        "Complacent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe need to hire a ______ web developer to create a good website for our company.",
+      "options": [
+        "Competent",
+        "Complacent",
+        "Complement"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThough he had never won any awards or even been published, he was ______ with his life as a poet.",
+      "options": [
+        "Complacent",
+        "Complement",
+        "Concede"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis wine perfectly ______ this platter of gourmet cheese.",
+      "options": [
+        "complements ",
+        "Concede",
+        "Establish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWith no chance of winning the battle, the army at last ______ .",
+      "options": [
+        "conceded",
+        "Conduct",
+        "Conceive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDan ______ to pranking his sister.",
+      "options": [
+        "conceded ",
+        "Conceive",
+        "Condone"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe plan to build the city was originally ______ in the early 1900s.",
+      "options": [
+        "conceived ",
+        "Condone",
+        "Conducive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe couldn't ______ her daughter's rebellious behavior.",
+      "options": [
+        "condone ",
+        "Conducive",
+        "Conduct"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe noisy students hardly made the campus library ______ to studying.",
+      "options": [
+        "Conducive",
+        "Conduct",
+        "Demonstrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe group ______ their research abroad last year.",
+      "options": [
+        "conducted ",
+        "Envy",
+        "Confide"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBe sure to ______ yourself accordingly.",
+      "options": [
+        "conduct ",
+        "Confide",
+        "Confine"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______ all of her biggest secrets in her best friend.",
+      "options": [
+        "confided ",
+        "Confine",
+        "Consensus"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe are going to ______ the use of this drinking fountain.",
+      "options": [
+        "confine ",
+        "Consensus",
+        "Constitute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAfter weeks of debating, the panel finally came to a ______ .",
+      "options": [
+        "Consensus",
+        "Constitute",
+        "Contemplate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe desire for equality ______ the civil rights movement.",
+      "options": [
+        "Constitute",
+        "Contemplate",
+        "Contend"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______ telling her teacher about the cheating student.",
+      "options": [
+        "contemplated ",
+        "Contend",
+        "Contradict"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe president ______ that the US government will not negotiate with terrorists.",
+      "options": [
+        "contends ",
+        "Contradict",
+        "Controversial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe camera footage ______ his alibi.",
+      "options": [
+        "contradicts ",
+        "Controversial",
+        "Conventional"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMillions of viewers watched the ______ debate take place.",
+      "options": [
+        "Controversial",
+        "Conventional",
+        "Convey"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe lives a ______ life in the suburbs.",
+      "options": [
+        "Conventional",
+        "Convey",
+        "Conviction"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI have trouble ______ my thoughts in French.",
+      "options": [
+        "conveying ",
+        "Conviction",
+        "Corroborate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer religious ______ prevent her from eating meat.",
+      "options": [
+        "convictions ",
+        "Corroborate",
+        "Counteract"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe note signed by her father ______ her claim that she was absent from class that day.",
+      "options": [
+        "corroborates ",
+        "Counteract",
+        "Counterargument"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis ingredient seems to ______ the other ones.",
+      "options": [
+        "Counteract",
+        "Counterargument",
+        "Counterproductive"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMake sure to include a ______ in your essay so that you can show you've considered the topic from all perspectives.",
+      "options": [
+        "Counterargument",
+        "Counterproductive",
+        "Culmination"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBill's idea to take a shortcut was ultimately ______ : it took us twice as long to get to the train station.",
+      "options": [
+        "Counterproductive",
+        "Culmination",
+        "Cultivate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ of the performance was unforgettable.",
+      "options": [
+        "Culmination",
+        "Cultivate",
+        "Decree"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nTeachers don't just pass on new information to students-they ______ their academic potential.",
+      "options": [
+        "Cultivate",
+        "Decree",
+        "Deference"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe president ______ that Halloween would henceforth be a national holiday.",
+      "options": [
+        "decreed ",
+        "Deference",
+        "Deficient"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______ to the elderly makes her the perfect candidate for an internship at the retirement center.",
+      "options": [
+        "Deference",
+        "Deficient",
+        "Demonstrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI feel as though the sources for my paper are ______ .",
+      "options": [
+        "Deficient",
+        "Demonstrate",
+        "Sentiment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nCould you ______ the dance move for me?",
+      "options": [
+        "Demonstrate",
+        "Envy",
+        "Demur"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______ at my request to transfer to a different department.",
+      "options": [
+        "demurred ",
+        "Deplete",
+        "Desolate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe lost campers quickly ______ their supply of food.",
+      "options": [
+        "depleted ",
+        "Desolate",
+        "Devise"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe moon is one giant, ______ landscape.",
+      "options": [
+        "Desolate",
+        "Devise",
+        "Dilemma"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nLana ______ a plan to make herself famous.",
+      "options": [
+        "devised ",
+        "Dilemma",
+        "Diligence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe main ______ is whether to pay for a commercial or not.",
+      "options": [
+        "Dilemma",
+        "Diligence",
+        "Diminish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\n______ and confidence will get you far in life.",
+      "options": [
+        "Diligence",
+        "Diminish",
+        "Dire"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe itchiness of mosquito bites usually starts to ______ after a few days.",
+      "options": [
+        "Diminish",
+        "Dire",
+        "Discord"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWhen the police didn't explain what was happening right away, Jane knew that the situation must be ______ .",
+      "options": [
+        "Dire",
+        "Discord",
+        "Disdain"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDisputes over money caused intense ______ in the family.",
+      "options": [
+        "Discord",
+        "Disdain",
+        "Dismay"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHe looked at me with such ______ that I immediately knew the job wouldn't work out.",
+      "options": [
+        "Disdain",
+        "Dismay",
+        "Sentiment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nTo Nick's ______ , he got an F on the test.",
+      "options": [
+        "Dismay",
+        "Envy",
+        "Disparage"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMany were ______ by the town's implementation of metered parking.",
+      "options": [
+        "dismayed ",
+        "Disparage",
+        "Dispatch"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nA good boss is stern but never ______ his or her employees.",
+      "options": [
+        "disparages ",
+        "Dispatch",
+        "Diversification"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe mother ______ her daughter to their neighbor's house.",
+      "options": [
+        "dispatched ",
+        "Diversification",
+        "Doctrine"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nLately, there's been noticeable ______ of students at higher institutions.",
+      "options": [
+        "diversification ",
+        "Doctrine",
+        "Dominion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDevoutly religious people often live their lives according to their ______ .",
+      "options": [
+        "doctrines",
+        "Dominion",
+        "Demonstrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe country claimed to have ______ over parts of Russia.",
+      "options": [
+        "dominion ",
+        "Envy",
+        "Dreary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nPuerto Rico is a ______ of the US.",
+      "options": [
+        "dominion ",
+        "Dreary",
+        "Dubious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe gray clouds in the sky made the day feel ______ .",
+      "options": [
+        "dreary",
+        "Dubious",
+        "Eccentric"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe man's claims to the throne were ______ since nobody knew where he'd come from.",
+      "options": [
+        "Dubious",
+        "Eccentric",
+        "Egregious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe's a little ______ but still fun to be around.",
+      "options": [
+        "Eccentric",
+        "Egregious",
+        "Eloquent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAfter cheating on the exam, Emily began to feel as though she'd made an ______ mistake.",
+      "options": [
+        "Egregious",
+        "Eloquent",
+        "Eminent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHis speech was not only ______ but also extremely compelling.",
+      "options": [
+        "Eloquent",
+        "Eminent",
+        "Emit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nOur town made news when the ______ magician came to perform at our local theater.",
+      "options": [
+        "Eminent",
+        "Emit",
+        "Emphatic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nPlants consume carbon dioxide and ______ oxygen.",
+      "options": [
+        "Emit",
+        "Emphatic",
+        "Empirical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______ smile told me she was excited to ride the roller coaster.",
+      "options": [
+        "Emphatic",
+        "Empirical",
+        "Endow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nYou need ______ evidence to support your claim.",
+      "options": [
+        "Empirical",
+        "Endow",
+        "Endure"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAccording to the myth, the gods ______ him with the gift of healing.",
+      "options": [
+        "endowed ",
+        "Endure",
+        "Entail"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI can't ______ this wait any longer. Will Stanford accept or reject me?",
+      "options": [
+        "Endure",
+        "Entail",
+        "Entrenched"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nA doctoral program ______ long nights and a heavy workload.",
+      "options": [
+        "Entails",
+        "Entrenched",
+        "Enumerate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer face will forever be ______ in my memory.",
+      "options": [
+        "Entrenched",
+        "Enumerate",
+        "Envy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI can't ______ how many times I've had to remind my students when their papers are due.",
+      "options": [
+        "Enumerate",
+        "Envy",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHis ______ of her is quite obvious.",
+      "options": [
+        "Envy",
+        "Establish",
+        "Erratic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______ her coworker's social skills.",
+      "options": [
+        "Envies",
+        "Erratic",
+        "Establish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe car became ______ after slipping on ice.",
+      "options": [
+        "Erratic",
+        "Establish",
+        "Demonstrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThey ______ a law that made it illegal to drive after drinking any amount of alcohol.",
+      "options": [
+        "established ",
+        "Modest",
+        "Evoke"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nOur group ______ a new branch in Chicago.",
+      "options": [
+        "established ",
+        "Evoke",
+        "Exacerbate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHorror movies are great at ______ fear.",
+      "options": [
+        "evoking ",
+        "Exacerbate",
+        "Excel"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe doctor told me not to run as it can ______ my knee injury.",
+      "options": [
+        "exacerbate ",
+        "Excel",
+        "Exert"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe was a well-rounded student but ______ especially in science.",
+      "options": [
+        "excelled ",
+        "Exert",
+        "Exhilarating"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDon't ______ all of your energy at once.",
+      "options": [
+        "exert ",
+        "Exhilarating",
+        "Expend"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe music playing at the club was catchy and ______ .",
+      "options": [
+        "exhilarating",
+        "Expend",
+        "Exploit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBe careful not to ______ all your energy in the first half of a marathon.",
+      "options": [
+        "Expend",
+        "Exploit",
+        "Facilitate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe shoddy company ______ its workers by paying them extremely low wages.",
+      "options": [
+        "exploited ",
+        "Facilitate",
+        "Feasibility"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIn grad school, advisors ______ students' research and offer constructive criticism.",
+      "options": [
+        "Facilitate",
+        "Feasibility",
+        "Ferocity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ of her project was doubtful; she'd have to go all the way to Antarctica and back before the school year ended.",
+      "options": [
+        "Feasibility",
+        "Ferocity",
+        "Fiscal"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe lion is just one wild animal known for its ______ .",
+      "options": [
+        "Ferocity",
+        "Fiscal",
+        "Flourish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\n______ policy is how the government uses money to influence the economy.",
+      "options": [
+        "Fiscal",
+        "Flourish",
+        "Fluctuate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAfter one year, the tiny plants had ______ into a breathtaking garden.",
+      "options": [
+        "flourished ",
+        "Fluctuate",
+        "Foment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nStocks can ______ on a daily basis, making it difficult to determine when to buy or sell one.",
+      "options": [
+        "fluctuate ",
+        "Foment",
+        "Foreseeable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe civilians accused their leader of ______ political unrest.",
+      "options": [
+        "fomenting ",
+        "Foreseeable",
+        "Frankly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI can't imagine aliens visiting us in the ______ future.",
+      "options": [
+        "foreseeable ",
+        "Frankly",
+        "Freewheeling"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI ______ don't see the point in learning to drive.",
+      "options": [
+        "Frankly",
+        "Freewheeling",
+        "Fundamental"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHis ______ attitude often got him in trouble at work.",
+      "options": [
+        "Freewheeling",
+        "Fundamental",
+        "Galvanizing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nA thesis is arguably the most ______ part of an essay.",
+      "options": [
+        "Fundamental",
+        "Galvanizing",
+        "Geriatric"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ performance left everyone spellbound.",
+      "options": [
+        "Galvanizing",
+        "Geriatric",
+        "Hostile"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI became interested in ______ medicine shortly after my grandfather passed away from cancer.",
+      "options": [
+        "Geriatric",
+        "Hostile",
+        "Hypothetical"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe voices around the corner sounded angry, ______ even.",
+      "options": [
+        "Hostile",
+        "Hypothetical",
+        "Ignominious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nFor my physics homework, I must come up with a ______ situation.",
+      "options": [
+        "Hypothetical",
+        "Ignominious",
+        "Impart"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe politician's expensive campaign ultimately ended in ______ defeat.",
+      "options": [
+        "Ignominious",
+        "Impart",
+        "Impartiality"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nParents must ______ common sense to their children.",
+      "options": [
+        "Impart",
+        "Impartiality",
+        "Imposing"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nTo ensure ______ , we require everyone to follow these general guidelines.",
+      "options": [
+        "Impartiality",
+        "Imposing",
+        "Imposition"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe old mansion was ______ in its huge size and gothic architecture.",
+      "options": [
+        "Imposing",
+        "Imposition",
+        "Imprudent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIf it's not too much of an ______ , could you proofread my paper?",
+      "options": [
+        "Imposition",
+        "Imprudent",
+        "Incite"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBackpacking abroad can be fun, but don't be ______ about money.",
+      "options": [
+        "Imprudent",
+        "Incite",
+        "Indifference"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer hateful words ______ anger in the crowd.",
+      "options": [
+        "incited ",
+        "Indifference",
+        "Indiscriminately"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe girl's ______ toward her brother upset their parents.",
+      "options": [
+        "Indifference",
+        "Indiscriminately",
+        "Indulge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nLottery winners are chosen ______ .",
+      "options": [
+        "Indiscriminately",
+        "Indulge",
+        "Infer"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy friend loves to ______ in cheesy romance movies.",
+      "options": [
+        "Indulge",
+        "Infer",
+        "Innovative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nYou can ______ from this quotation that the writer didn't care for “pretty” language.",
+      "options": [
+        "Infer",
+        "Innovative",
+        "Insatiable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer invention was incredibly ______ and won her multiple awards.",
+      "options": [
+        "Innovative",
+        "Insatiable",
+        "Inversion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nA vampire's thirst for blood is said to be ______ .",
+      "options": [
+        "Insatiable",
+        "Inversion",
+        "Invoke"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe culture's norms were an ______ of our own.",
+      "options": [
+        "Inversion",
+        "Invoke",
+        "Irreconcilable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe shaman attempted to ______ a demon.",
+      "options": [
+        "Invoke",
+        "Irreconcilable",
+        "Lament"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe couple's differences were ultimately ______ , giving them no choice but to break up.",
+      "options": [
+        "Irreconcilable",
+        "Lament",
+        "Locomotion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nSusan ______ her missed chance at going to Europe with her high school class.",
+      "options": [
+        "lamented ",
+        "Locomotion",
+        "Lucrative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nPhysics involves the study of ______ .",
+      "options": [
+        "Locomotion",
+        "Lucrative",
+        "Malicious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWriting books isn't a particularly ______ career, unless you're J.K. Rowling.",
+      "options": [
+        "Lucrative",
+        "Malicious",
+        "Malleable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ spirit drove out the inhabitants from their home.",
+      "options": [
+        "Malicious",
+        "Malleable",
+        "Materialistic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nChildren's minds are ______ but only for so long.",
+      "options": [
+        "Malleable",
+        "Materialistic",
+        "Melodramatic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMany people accuse Americans of being ______ .",
+      "options": [
+        "Materialistic",
+        "Melodramatic",
+        "Modest"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ play was well liked by the audience.",
+      "options": [
+        "Melodramatic",
+        "Modest",
+        "Establish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThey moved into a ______ house in the countryside.",
+      "options": [
+        "Modest",
+        "Potent",
+        "Modify"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI received a ______ sum of money for my help at the company event.",
+      "options": [
+        "Modest",
+        "Modify",
+        "Momentous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDr. Nguyen ______ the gene so that it wouldn't carry the disease.",
+      "options": [
+        "modified ",
+        "Momentous",
+        "Novel"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer win in the election was ______ .",
+      "options": [
+        "Momentous",
+        "Novel",
+        "Nuance"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe are looking for ______ ways to approach the project.",
+      "options": [
+        "Novel",
+        "Nuance",
+        "Null"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBody-language experts even understand the ______ of facial expressions.",
+      "options": [
+        "Nuance",
+        "Null",
+        "Objectivity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe government declared their marriage ______ .",
+      "options": [
+        "Null",
+        "Objectivity",
+        "Obsolete"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIn scientific research, ______ is of utmost importance.",
+      "options": [
+        "Objectivity",
+        "Obsolete",
+        "Omnipotent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHistorians assumed record players would be ______ by now, but in fact they're making a huge comeback.",
+      "options": [
+        "Obsolete",
+        "Omnipotent",
+        "Onset"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nGods are ______ beings who can control human destiny.",
+      "options": [
+        "Omnipotent",
+        "Onset",
+        "Opine"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAt the ______ of her career as a lawyer, things were looking up.",
+      "options": [
+        "Onset",
+        "Opine",
+        "Ornate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe new employee ______ at the company meeting.",
+      "options": [
+        "opined ",
+        "Ornate",
+        "Oust"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThat ______ silverware must be worth thousands of dollars!",
+      "options": [
+        "Ornate",
+        "Oust",
+        "Paramount"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nSick and tired of putting up with his bad moods, the pirates ______ their captain.",
+      "options": [
+        "ousted ",
+        "Paramount",
+        "Peculiar"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nOur ______ concern is the safety of our employees.",
+      "options": [
+        "Paramount",
+        "Peculiar",
+        "Perish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nUpon entering the abandoned house, Kate experienced a ______ feeling, as if someone was watching her.",
+      "options": [
+        "Peculiar",
+        "Perish",
+        "Persecute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAccording to the news, nobody ______ in the fire.",
+      "options": [
+        "perished ",
+        "Persecute",
+        "Petulant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThey will ______ anyone who doesn't agree with their views of the world.",
+      "options": [
+        "Persecute",
+        "Petulant",
+        "Pinnacle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\n______ children are especially difficult to care for.",
+      "options": [
+        "Petulant",
+        "Pinnacle",
+        "Pitiable"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMany believe that composers such as Beethoven and Mozart represent the ______ of classical music.",
+      "options": [
+        "Pinnacle",
+        "Pitiable",
+        "Plausible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe frail-looking dog was ______ , so I gave it some food and took it inside to care for it.",
+      "options": [
+        "Pitiable",
+        "Plausible",
+        "Postulate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer story is ______ , but that doesn't mean she's telling the truth.",
+      "options": [
+        "Plausible",
+        "Postulate",
+        "Potent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe literary critic ______ that romanticism and naturalism are actually interconnected.",
+      "options": [
+        "postulates ",
+        "Potent",
+        "Envy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe bald eagle is a ______ symbol of the US.",
+      "options": [
+        "Potent",
+        "Pragmatic",
+        "Establish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe potion was definitely ______ -it healed my wounds immediately!",
+      "options": [
+        "Potent",
+        "Pragmatic",
+        "Precedent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIt's not necessarily more ______ to study engineering than it is to study philosophy.",
+      "options": [
+        "Pragmatic",
+        "Precedent",
+        "Predecessor"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis change in law is without historical ______ .",
+      "options": [
+        "Precedent",
+        "Predecessor",
+        "Prescribe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy ______ gave me many tips for running the office.",
+      "options": [
+        "Predecessor",
+        "Prescribe",
+        "Sentiment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe directions for our essay ______ a length of at least ten pages.",
+      "options": [
+        "Prescribe",
+        "Potent",
+        "Principle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nA doctor must ______ you this medication before you can begin taking it.",
+      "options": [
+        "Prescribe",
+        "Principle",
+        "Prohibit"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nRemember the universal ______ : treat others as you want them to treat you.",
+      "options": [
+        "Principle",
+        "Prohibit",
+        "Prompt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAlcohol was ______ in the US in the 1920s.",
+      "options": [
+        "prohibited ",
+        "Prompt",
+        "Yield"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe is always ______ when it comes to turning in her homework.",
+      "options": [
+        "Prompt",
+        "Prescribe",
+        "Raw"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI had to write an essay based on a ______ .",
+      "options": [
+        "Prompt",
+        "Prescribe",
+        "Promulgate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe possibility of a scholarship ______ him to apply to Harvard.",
+      "options": [
+        "prompted ",
+        "Promulgate",
+        "Prosecute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ruler will at last ______ an amnesty with the neighboring countries.",
+      "options": [
+        "Promulgate",
+        "Prosecute",
+        "Provocative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe suspect was ______ yesterday.",
+      "options": [
+        "prosecuted ",
+        "Provocative",
+        "Qualitative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer nude paintings are considered quite ______ .",
+      "options": [
+        "Provocative",
+        "Qualitative",
+        "Quantitative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI noticed a ______ change in her paintings.",
+      "options": [
+        "Qualitative",
+        "Quantitative",
+        "Quirk"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe must conduct a ______ analysis.",
+      "options": [
+        "Quantitative",
+        "Quirk",
+        "Ramify"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHis biggest ______ is his love of old marbles.",
+      "options": [
+        "Quirk",
+        "Ramify",
+        "Rash"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nCars ______ throughout the world in the twentieth century.",
+      "options": [
+        "ramified ",
+        "Rash",
+        "Raw"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______ decision to pass the car nearly resulted in a crash.",
+      "options": [
+        "Rash",
+        "Raw",
+        "Establish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHe's got ______ talent as a singer, but he needs to work on his performance skills.",
+      "options": [
+        "Raw",
+        "Yield",
+        "Readily"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIn some countries, such as Japan, it is normal to eat ______ fish.",
+      "options": [
+        "Raw",
+        "Readily",
+        "Reconsideration"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWater was ______ available at different points in the race.",
+      "options": [
+        "Readily",
+        "Reconsideration",
+        "Reform"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe judges' ______ of her performance resulted in her victory.",
+      "options": [
+        "Reconsideration",
+        "Reform",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ made it so that only those 18 and older can legally drive.",
+      "options": [
+        "Reform",
+        "Raw",
+        "Refute"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe government ______ its vague policies on marijuana use.",
+      "options": [
+        "reformed ",
+        "Refute",
+        "Reinforce"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe student ______ the professor's claim in class.",
+      "options": [
+        "refuted ",
+        "Reinforce",
+        "Reluctantly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe can use these pipes to ______ the structure.",
+      "options": [
+        "Reinforce",
+        "Reluctantly",
+        "Renounce"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMax ______ agreed to see the horror movie with his friends.",
+      "options": [
+        "Reluctantly",
+        "Renounce",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nOur CEO ______ her position yesterday.",
+      "options": [
+        "renounced ",
+        "Raw",
+        "Reproach"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHe ______ his friend after he caught her stealing money from him.",
+      "options": [
+        "renounced ",
+        "Reproach",
+        "Repudiate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe mother ______ her daughter's school for making students come in during a blizzard.",
+      "options": [
+        "reproached ",
+        "Repudiate",
+        "Establish"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe father ______ his son's marriage.",
+      "options": [
+        "repudiated ",
+        "Raw",
+        "Retention"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______ her son once she found out he'd married someone without telling her.",
+      "options": [
+        "repudiated ",
+        "Retention",
+        "Satiated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWater ______ can make you weigh more on certain days.",
+      "options": [
+        "Retention",
+        "Satiated",
+        "Savvy"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI felt ______ after eating a snack.",
+      "options": [
+        "Satiated",
+        "Savvy",
+        "Scandalous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy brother is not very ______ when it comes to using public transportation.",
+      "options": [
+        "Savvy",
+        "Scandalous",
+        "Scorn"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ politician decided it was best to resign from office.",
+      "options": [
+        "Scandalous",
+        "Scorn",
+        "Scrupulous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIt's difficult for me not to ______ those who use improper grammar.",
+      "options": [
+        "Scorn",
+        "Scrupulous",
+        "Scrutinize"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI am a ______ proofreader and never miss an error.",
+      "options": [
+        "Scrupulous",
+        "Scrutinize",
+        "Secrete"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe teacher ______ her students' essays.",
+      "options": [
+        "scrutinized ",
+        "Secrete",
+        "Sentiment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nTrees ______ a sticky substance called sap.",
+      "options": [
+        "Secrete",
+        "Sentiment",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI am of the ______ that you should never give out your passwords to anyone.",
+      "options": [
+        "Sentiment",
+        "Raw",
+        "Sheer"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nEven though I'm not a big fan of porcelain dolls, I appreciated the ______ .",
+      "options": [
+        "Sentiment",
+        "Sheer",
+        "Simple"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe curtains on the window were so ______ you could clearly see inside the house.",
+      "options": [
+        "Sheer",
+        "Simple",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis math problem is so ______ even a first grader can solve it.",
+      "options": [
+        "Simple",
+        "Raw",
+        "Sinister"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ beauty of the ocean is what makes it memorable.",
+      "options": [
+        "Simple",
+        "Sinister",
+        "Solidarity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMedieval peasants believed ______ demons could harm humans.",
+      "options": [
+        "Sinister",
+        "Solidarity",
+        "Sparingly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI stood in ______ with other female students by refusing to wear the school's sexist uniform.",
+      "options": [
+        "Solidarity",
+        "Sparingly",
+        "Spawn"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDue to my condition, I must eat salt ______ .",
+      "options": [
+        "Sparingly",
+        "Spawn",
+        "Sentiment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nFrogs typically ______ in ponds.",
+      "options": [
+        "Spawn",
+        "Raw",
+        "Spur"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe topic ______ an ongoing debate among his family members.",
+      "options": [
+        "spawned ",
+        "Spur",
+        "Squalid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer bravery ______ others to act.",
+      "options": [
+        "spurred ",
+        "Squalid",
+        "Stark"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ cabin needed a new roof and an exterminator.",
+      "options": [
+        "Squalid",
+        "Stark",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nLooking out at the ______ landscape, I felt a keen sense of isolation.",
+      "options": [
+        "Stark",
+        "Static",
+        "Dismay"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ball is ______ .",
+      "options": [
+        "Static",
+        "Raw",
+        "Subordinate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer life has been ______ for the past three years.",
+      "options": [
+        "Static",
+        "Subordinate",
+        "Prescribe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ officers work every day.",
+      "options": [
+        "Subordinate",
+        "Raw",
+        "Prescribe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy ______ will check you in.",
+      "options": [
+        "Subordinate",
+        "Raw",
+        "Subsequently"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nYou aren't my boss-you can't ______ me to the role of receptionist!",
+      "options": [
+        "Subordinate",
+        "Subsequently",
+        "Substantial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI ______ went home.",
+      "options": [
+        "Subsequently",
+        "Substantial",
+        "Substantiate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI was shocked to find a ______ amount of money beneath the park bench.",
+      "options": [
+        "Substantial",
+        "Substantiate",
+        "Subtle"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIt is important for scientists to ______ their theories whenever possible.",
+      "options": [
+        "Substantiate",
+        "Subtle",
+        "Sufficient"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI detected in her expression a ______ hint of irritation.",
+      "options": [
+        "Subtle",
+        "Sufficient",
+        "Surly"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThese boxes should be ______ for our move.",
+      "options": [
+        "Sufficient",
+        "Surly",
+        "Surmount"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe bartender was a ______ fellow who wasn't afraid to start a fight.",
+      "options": [
+        "Surly",
+        "Surmount",
+        "Susceptible"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThey managed to ______ the language barrier by using a translation app.",
+      "options": [
+        "Surmount",
+        "Susceptible",
+        "Tactful"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nChildren are more ______ to certain illnesses than adults are.",
+      "options": [
+        "Susceptible",
+        "Tactful",
+        "Taut"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______ attitude toward our class made her one of my favorite teachers.",
+      "options": [
+        "Tactful",
+        "Taut",
+        "Teeming"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe rubberband was ______ and ready to be fired.",
+      "options": [
+        "Taut",
+        "Teeming",
+        "Temperament"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDoorknobs are not as clean as they look and are often ______ with germs.",
+      "options": [
+        "Teeming",
+        "Temperament",
+        "Tentative"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe had a hostile ______ , making her intimidating to most people.",
+      "options": [
+        "Temperament",
+        "Tentative",
+        "Transparent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe haven't made any official arrangements yet, but the ______ location for our wedding is Hawaii.",
+      "options": [
+        "Tentative",
+        "Transparent",
+        "Sentiment"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nStained window glass isn't as ______  as regular window glass is.",
+      "options": [
+        "Transparent",
+        "Raw",
+        "Treacherous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe was ______ about her plans to end her marriage.",
+      "options": [
+        "Transparent",
+        "Treacherous",
+        "Tremendous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe journey was becoming ______  , but they continued on regardless.",
+      "options": [
+        "Treacherous",
+        "Tremendous",
+        "Ubiquitous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\n______ news! You don't have to repay your loans!",
+      "options": [
+        "Tremendous",
+        "Ubiquitous",
+        "Unadorned"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nCell phones are ______  these days.",
+      "options": [
+        "Ubiquitous",
+        "Unadorned",
+        "Undermine"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThough the dress was cheap and ______  , it was by far her favorite one on the rack.",
+      "options": [
+        "Unadorned",
+        "Undermine",
+        "Underscore"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nParents should take care not to constantly ______  their children.",
+      "options": [
+        "Undermine",
+        "Underscore",
+        "Undulate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThis sentence seems to ______ the overall meaning of the passage.",
+      "options": [
+        "Underscore",
+        "Undulate",
+        "Unilateral"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBelly dancers are known for their ability to skillfully ______ their stomachs.",
+      "options": [
+        "Undulate",
+        "Unilateral",
+        "Unjust"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ decision was deemed unfair by the other party involved.",
+      "options": [
+        "Unilateral",
+        "Unjust",
+        "Unmitigated"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe court's decision is ______ -he should not go free.",
+      "options": [
+        "Unjust",
+        "Unmitigated",
+        "Unprecedented"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy speech was an ______  disaster!",
+      "options": [
+        "Unmitigated",
+        "Unprecedented",
+        "Unveil"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe number of protestors was ______ .",
+      "options": [
+        "Unprecedented",
+        "Unveil",
+        "Urge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWe plan to ______  our plans for the new company project on Sunday.",
+      "options": [
+        "Unveil",
+        "Urge",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHe had the ______  to tell his parents about his acceptance to Columbia but decided against it.",
+      "options": [
+        "Urge",
+        "Transparent",
+        "Validate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______  her sister to apply to Stanford.",
+      "options": [
+        "urged ",
+        "Validate",
+        "Viability"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nYour selfish actions do not ______  your feelings for me.",
+      "options": [
+        "Validate",
+        "Viability",
+        "Vital"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______  of the solution is questionable.",
+      "options": [
+        "Viability",
+        "Vital",
+        "Vow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIt is ______  that you respond by the deadline.",
+      "options": [
+        "Vital",
+        "Vow",
+        "Warrant"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy brother quickly broke his ______  to never eat chocolate again.",
+      "options": [
+        "Vow",
+        "Warrant",
+        "Yield"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nWanting to look cool in front of your friends doesn't ______  breaking the law.",
+      "options": [
+        "Warrant",
+        "Yield",
+        "Static"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe farmer's annual pumpkin  ______ exceeded 10,000.",
+      "options": [
+        "Yield",
+        "Prescribe",
+        "Conduct"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nCars turning right on red must ______  to oncoming traffic.",
+      "options": [
+        "Yield",
+        "Urge",
+        "Conduct"
+      ],
+      "answer": 0
+    },
+    {
       "questionText": "The word Abhor is most like?",
       "options": [
         "Hate",
@@ -4954,6 +7195,195 @@
       "answer": 0
     },
     {
+      "questionText": "Complete the sentence:\n\nAll students must behave ______ .",
+      "options": [
+        "Accordingly",
+        "Acquisition",
+        "Adapt"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nLanguage ______ is easier for kids than it is for adults.",
+      "options": [
+        "Acquisition",
+        "Adapt",
+        "Advocate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe US has ______ many foreign foods to better suit the tastes of Americans.",
+      "options": [
+        "Adapted",
+        "Capture",
+        "Adept"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nDogs are known for their ability to quickly ______ to their environments.",
+      "options": [
+        "Adapt",
+        "Adept",
+        "Adequate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nBeth loves playing the piano, but she's especially ______ at the violin.",
+      "options": [
+        "Adept",
+        "Adequate",
+        "Advent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThough his resume was ______ , the company doubted whether he'd be a good fit.",
+      "options": [
+        "Adequate",
+        "Advent",
+        "Adversarial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe world has never been the same since the ______ of the light bulb.",
+      "options": [
+        "Advent",
+        "Adversarial",
+        "Advocate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAn ______ attitude will make you many enemies in life.",
+      "options": [
+        "Adversarial",
+        "Advocate",
+        "Afford"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI am an ______  for free higher education.",
+      "options": [
+        "Advocate",
+        "Afford",
+        "Aesthetic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nEnvironmental protesters often ______ for cleaner energy practices.",
+      "options": [
+        "Advocate",
+        "Aesthetic",
+        "Afford"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ decorations at the wedding reception made you feel as if you were a character in a fairy tale.",
+      "options": [
+        "Aesthetic",
+        "Afford",
+        "Demonstrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHe's saving money so he can ______ to buy a new car.",
+      "options": [
+        "Afford",
+        "Conduct",
+        "Agitate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI can't ______ to lose any more pencils!",
+      "options": [
+        "Afford",
+        "Agitate",
+        "Allow"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThey're ______ for better health care.",
+      "options": [
+        "agitating ",
+        "Allow",
+        "Allude"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nUS law ______ citizens to speak freely.",
+      "options": [
+        "Allow",
+        "Allude",
+        "Altercation"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______ to the problem at hand but didn't say anything more about it.",
+      "options": [
+        "alluded ",
+        "Altercation",
+        "Ambiguous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nGreg got into an ______ with a stranger at the bar.",
+      "options": [
+        "Altercation",
+        "Ambiguous",
+        "Ambitious"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______  statement made me question whether she could be trusted.",
+      "options": [
+        "Ambiguous",
+        "Ambitious",
+        "Ambivalence"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nPenny is so ______ , she wants to be president someday.",
+      "options": [
+        "Ambitious",
+        "Ambivalence",
+        "Analogous"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHis ______  prevented him from immediately signing the contract.",
+      "options": [
+        "Ambivalence",
+        "Analogous",
+        "Annihilate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nGreen onions are considered ______  to spring onions.",
+      "options": [
+        "Analogous",
+        "Annihilate",
+        "Anomaly"
+      ],
+      "answer": 0
+    },
+    {
       "questionText": "The word Egotistical is most like?",
       "options": [
         "Selfish",
@@ -6840,6 +9270,276 @@
         "Hesitant",
         "Not Giving Up",
         "Wary"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______  toward the professor was obvious: she rolled her eyes whenever he entered the classroom.",
+      "options": [
+        "Antipathy",
+        "Apex",
+        "Apprehension"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe spring play was the ______  of our school year.",
+      "options": [
+        "Apex",
+        "Apprehension",
+        "Articulate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHer ______  to leave her house resulted in her missing the train.",
+      "options": [
+        "Apprehension",
+        "Articulate",
+        "Artificial"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______  her opinion on the price of the house.",
+      "options": [
+        "articulated ",
+        "Artificial",
+        "Assertion"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMany candies use ______  flavors to make them taste fruity.",
+      "options": [
+        "Artificial",
+        "Assertion",
+        "Austere"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHis ______  that sharks are mammals made everyone laugh.",
+      "options": [
+        "Assertion",
+        "Austere",
+        "Afford"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nHe lived in a small, ______ cabin in the middle of the woods.",
+      "options": [
+        "Austere",
+        "Bear",
+        "Conduct"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy boss had an ______ expression on her face.",
+      "options": [
+        "Austere",
+        "Bear",
+        "Authenticity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nAn ______ lifestyle, like that of monks, isn't for everybody.",
+      "options": [
+        "Austere",
+        "Authenticity",
+        "Avenue"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe police officer doubted the ______ of the suspect's story.",
+      "options": [
+        "Authenticity",
+        "Avenue",
+        "Avid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe company has decided to pursue other ______ .",
+      "options": [
+        "avenues",
+        "Avid",
+        "Basic"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nGerald is an ______ soccer fan.",
+      "options": [
+        "Avid",
+        "Basic",
+        "Bear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nYou have to start with ______  Russian before you can move on to the advanced level.",
+      "options": [
+        "Basic",
+        "Bear",
+        "Afford"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nShe ______  a strong resemblance to your mother.",
+      "options": [
+        "bears ",
+        "Conduct",
+        "Bear"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nJudy will ______  her first child later this year.",
+      "options": [
+        "Bear",
+        "Conduct",
+        "Brawl"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMy garden is going to ______  pumpkins this year.",
+      "options": [
+        "Bear",
+        "Conduct",
+        "Benevolent"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI can't ______ her complaining any longer!",
+      "options": [
+        "Bear",
+        "Benevolent",
+        "Bias"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nMany cultures believe in ______ spirits.",
+      "options": [
+        "Benevolent",
+        "Bias",
+        "Bittersweet"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIt's important to avoid ______ when investigating a crime.",
+      "options": [
+        "Bias",
+        "Bittersweet",
+        "Bolster"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ending of the romance movie was ______ .",
+      "options": [
+        "Bittersweet",
+        "Bolster",
+        "Boost"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIf we work together, we should be able to lift and then ______ the couch.",
+      "options": [
+        "Bolster",
+        "Boost",
+        "Afford"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ in profits was a welcome change.",
+      "options": [
+        "Boost",
+        "Capture",
+        "Brawl"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nIn order to ______ profits, you need to cater to your customers.",
+      "options": [
+        "Boost",
+        "Brawl",
+        "Prescribe"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nA ______ broke out at school today after one student accused another of cheating.",
+      "options": [
+        "Brawl",
+        "Boost",
+        "Brevity"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe two students ______ for an hour.",
+      "options": [
+        "brawled ",
+        "Brevity",
+        "Candid"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe ______ of their time together made it all the more romantic.",
+      "options": [
+        "Brevity",
+        "Candid",
+        "Candor"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nJosh is ______ about his desire to become an actor.",
+      "options": [
+        "Candid",
+        "Candor",
+        "Capitalize"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI admire her ______ , especially when nobody else bothers to speak up.",
+      "options": [
+        "Candor",
+        "Capitalize",
+        "Capture"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nI'd like to ______ on your math skills by having your work the cash register.",
+      "options": [
+        "Capitalize",
+        "Capture",
+        "Demonstrate"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Complete the sentence:\n\nThe spy was ______ by the enemy.",
+      "options": [
+        "captured ",
+        "Conduct",
+        "Capture"
       ],
       "answer": 0
     },
