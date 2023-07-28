@@ -4,7 +4,7 @@
   "practiceQuestions": 30,
   "passPercent": 75,
   "passQuestions": -1,
-  "timeInMins": 10,
+  "timeInMins": 5,
   "credits": 2,
   "practiceMsg": "Answer 30 practice questions.\n\nNo time limit.",
   "testMsg": "Answer 15 questions.\n\nScore 75% or above in 5 mins to pass the test",
