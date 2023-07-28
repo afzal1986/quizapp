@@ -11,6 +11,258 @@
   "earnMsg": "Watch sponsored content to earn +3 credits?",
   "questions": [
     {
+      "questionText": "Name the mausoleum in Agra that is one of the most famous landmarks in India.",
+      "options": [
+        "Taj Mahal",
+        "Buckingham Palace",
+        "Harbour Bridge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the tallest mountain on earth?",
+      "options": [
+        "Mount Everest",
+        "Mount Chelia",
+        "Mount Koussi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The Eiffel Tower can be found in which European capital city?",
+      "options": [
+        "Paris",
+        "London",
+        "Berlin"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Queen Elizabeth's main London residence is in what famous landmark?",
+      "options": [
+        "Buckingham Palace",
+        "Taj Mahal",
+        "Harbour Bridge"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The Statue of Liberty was a gift to America from which country?",
+      "options": [
+        "France",
+        "Egypt",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "In which country would you find the last standing original 7 Wonders of the World, the Great Pyramid of Giza?",
+      "options": [
+        "Egypt",
+        "France",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Christ the Redeemer is a statue which looks over which city?",
+      "options": [
+        "Rio de Janeiro",
+        "Mexico",
+        "Jordan"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What landmark in Rome was said to have seated more than 50,000 fans, all vying for blood?",
+      "options": [
+        "The Colosseum",
+        "Colosseum",
+        "St. Peter's square"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What famous landmark has a length of approximately 21,000km and meets the Bohai Sea at the Shanhai Pass?",
+      "options": [
+        "The Great Wall of china",
+        "Taj Mahal",
+        "Buckingham Palace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "In which country would you find Chichen Itza?",
+      "options": [
+        "Mexico",
+        "France",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Opened in 2010, which building became the tallest in the world, at an astonishing 829.8m?",
+      "options": [
+        "Burj Khalifa",
+        "Taj Mahal",
+        "Buckingham Palace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The amazing landmark of Petra, where stunning buildings have been carved into the rock, is in which Middle East country?",
+      "options": [
+        "Jordan",
+        "Mexico",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The Blue Mosque and Hagia Sophia can be found in which city, formerly known as Constantinople?",
+      "options": [
+        "Istanbul",
+        "Mexico",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Mecca can be found in which country?",
+      "options": [
+        "Saudi Arabia",
+        "Mexico",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The UNESCO World Heritage site of Naqsh-e Jahan Square is located in which country?",
+      "options": [
+        "Iran",
+        "Mexico",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "In what country would you be if you were looking at the Tower of David?",
+      "options": [
+        "Israel",
+        "Mexico",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the name of the UNESCO World Heritage ruins that were badly damaged by ISIS, that can be found to the east of Homs?",
+      "options": [
+        "Palmyra",
+        "Los Glaciares National Park ",
+        "Tasmanian Wilderness"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the name of the town in Turkey made famous by Instagram for stunning rooftop photos filled with hot air balloons?",
+      "options": [
+        "Cappadocia",
+        "Trabzon",
+        "Edirne"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Famous for its high salt content that allows you to float, the Dead Sea has shores on which two countries?",
+      "options": [
+        "Israel & Jordan",
+        "Mexico",
+        "India"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Dome of the Rock, located on Temple Mount can be found in which city?",
+      "options": [
+        "Jerusalem",
+        "London",
+        "Karachi"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Jorn Utzon designed the winning entry of an international design competition - what was the famous landmark that was built on th",
+      "options": [
+        "The Sydney Opera House",
+        "Port Arthur Historic Site",
+        "12 Apostles & The Great Ocean Road"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the famous landmark Uluru also known as?",
+      "options": [
+        "Ayers Rock",
+        "Taj Mahal",
+        "Buckingham Palace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "What is the name of the highest peak in New Zealand?",
+      "options": [
+        "Mt Cook",
+        "North Pk",
+        "The Thumbs"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "With a famous National Day in New Zealand named after this town, and where the treaty was signed between the Maori and European",
+      "options": [
+        "Waitangi",
+        "Langs Beach",
+        "Riwaka"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Able to be seen from space, and the world's largest living organism, what is the name to the region off the coast of Queensland?",
+      "options": [
+        "The Great Barrier Reef",
+        "Taj Mahal",
+        "Buckingham Palace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Built on a farm on New Zealand's North Island as a filming location, which now very famous tourist destination includes the Gree",
+      "options": [
+        "Hobbiton",
+        "Lepperton",
+        "Roxburgh"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "Part of the Great Ocean Road, what is the name of the landmark given to the craggy limestone rock formations, of which there are",
+      "options": [
+        "The Twelve Apostles",
+        "Taj Mahal",
+        "Buckingham Palace"
+      ],
+      "answer": 0
+    },
+    {
+      "questionText": "The tallest building in the southern hemisphere at 328m tall (as of 2020), what is the name of this major Auckland landmark?",
+      "options": [
+        "The Sky Tower",
+        "Taj Mahal",
+        "Buckingham Palace"
+      ],
+      "answer": 0
+    },
+    {
       "questionText": "What is the capital of Afghanistan?",
       "options": [
         "Kabul",
