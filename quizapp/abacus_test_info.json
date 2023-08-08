@@ -2663,7 +2663,7 @@
       "level": "1"
     },
     {
-      "questionText": "600 - 101-201",
+      "questionText": "600 - 101 - 201",
       "options": [
         "298",
         "303",
@@ -2675,7 +2675,7 @@
       "level": "2"
     },
     {
-      "questionText": "602 - 102-204",
+      "questionText": "602 - 102 - 204",
       "options": [
         "296",
         "301",
@@ -2687,7 +2687,7 @@
       "level": "2"
     },
     {
-      "questionText": "604 - 103-207",
+      "questionText": "604 - 103 - 207",
       "options": [
         "294",
         "299",
@@ -2699,7 +2699,7 @@
       "level": "2"
     },
     {
-      "questionText": "606 - 104-210",
+      "questionText": "606 - 104 - 210",
       "options": [
         "292",
         "297",
@@ -2711,7 +2711,7 @@
       "level": "2"
     },
     {
-      "questionText": "608 - 105-213",
+      "questionText": "608 - 105 - 213",
       "options": [
         "290",
         "295",
@@ -2723,7 +2723,7 @@
       "level": "2"
     },
     {
-      "questionText": "610 - 106-216",
+      "questionText": "610 - 106 - 216",
       "options": [
         "288",
         "293",
@@ -2735,7 +2735,7 @@
       "level": "2"
     },
     {
-      "questionText": "612 - 107-219",
+      "questionText": "612 - 107 - 219",
       "options": [
         "286",
         "291",
@@ -2747,7 +2747,7 @@
       "level": "2"
     },
     {
-      "questionText": "614 - 108-222",
+      "questionText": "614 - 108 - 222",
       "options": [
         "284",
         "289",
@@ -2759,7 +2759,7 @@
       "level": "2"
     },
     {
-      "questionText": "616 - 109-225",
+      "questionText": "616 - 109 - 225",
       "options": [
         "282",
         "287",
@@ -2771,7 +2771,7 @@
       "level": "2"
     },
     {
-      "questionText": "618 - 110-228",
+      "questionText": "618 - 110 - 228",
       "options": [
         "280",
         "285",
@@ -2783,7 +2783,7 @@
       "level": "2"
     },
     {
-      "questionText": "620 - 111-231",
+      "questionText": "620 - 111 - 231",
       "options": [
         "278",
         "283",
@@ -2795,7 +2795,7 @@
       "level": "2"
     },
     {
-      "questionText": "622 - 112-234",
+      "questionText": "622 - 112 - 234",
       "options": [
         "276",
         "281",
@@ -2807,7 +2807,7 @@
       "level": "2"
     },
     {
-      "questionText": "624 - 113-237",
+      "questionText": "624 - 113 - 237",
       "options": [
         "274",
         "279",
@@ -2819,7 +2819,7 @@
       "level": "2"
     },
     {
-      "questionText": "626 - 114-240",
+      "questionText": "626 - 114 - 240",
       "options": [
         "272",
         "277",
@@ -2831,7 +2831,7 @@
       "level": "2"
     },
     {
-      "questionText": "628 - 115-243",
+      "questionText": "628 - 115 - 243",
       "options": [
         "270",
         "275",
@@ -2843,7 +2843,7 @@
       "level": "2"
     },
     {
-      "questionText": "630 - 116-246",
+      "questionText": "630 - 116 - 246",
       "options": [
         "268",
         "273",
@@ -2855,7 +2855,7 @@
       "level": "2"
     },
     {
-      "questionText": "632 - 117-249",
+      "questionText": "632 - 117 - 249",
       "options": [
         "266",
         "271",
@@ -2867,7 +2867,7 @@
       "level": "2"
     },
     {
-      "questionText": "634 - 118-252",
+      "questionText": "634 - 118 - 252",
       "options": [
         "264",
         "269",
@@ -2879,7 +2879,7 @@
       "level": "2"
     },
     {
-      "questionText": "636 - 119-255",
+      "questionText": "636 - 119 - 255",
       "options": [
         "262",
         "267",
@@ -2891,7 +2891,7 @@
       "level": "2"
     },
     {
-      "questionText": "638 - 120-258",
+      "questionText": "638 - 120 - 258",
       "options": [
         "260",
         "265",
@@ -2903,7 +2903,7 @@
       "level": "2"
     },
     {
-      "questionText": "640 - 121-261",
+      "questionText": "640 - 121 - 261",
       "options": [
         "258",
         "263",
@@ -2915,7 +2915,7 @@
       "level": "2"
     },
     {
-      "questionText": "642 - 122-264",
+      "questionText": "642 - 122 - 264",
       "options": [
         "256",
         "261",
@@ -2927,7 +2927,7 @@
       "level": "2"
     },
     {
-      "questionText": "644 - 123-267",
+      "questionText": "644 - 123 - 267",
       "options": [
         "254",
         "259",
@@ -2939,7 +2939,7 @@
       "level": "2"
     },
     {
-      "questionText": "646 - 124-270",
+      "questionText": "646 - 124 - 270",
       "options": [
         "252",
         "257",
@@ -2951,7 +2951,7 @@
       "level": "2"
     },
     {
-      "questionText": "648 - 125-273",
+      "questionText": "648 - 125 - 273",
       "options": [
         "250",
         "255",
@@ -2963,7 +2963,7 @@
       "level": "2"
     },
     {
-      "questionText": "650 - 126-276",
+      "questionText": "650 - 126 - 276",
       "options": [
         "248",
         "253",
@@ -2975,7 +2975,7 @@
       "level": "2"
     },
     {
-      "questionText": "652 - 127-279",
+      "questionText": "652 - 127 - 279",
       "options": [
         "246",
         "251",
@@ -2987,7 +2987,7 @@
       "level": "2"
     },
     {
-      "questionText": "654 - 128-282",
+      "questionText": "654 - 128 - 282",
       "options": [
         "244",
         "249",
@@ -2999,7 +2999,7 @@
       "level": "2"
     },
     {
-      "questionText": "656 - 129-285",
+      "questionText": "656 - 129 - 285",
       "options": [
         "242",
         "247",
@@ -3011,7 +3011,7 @@
       "level": "2"
     },
     {
-      "questionText": "658 - 130-288",
+      "questionText": "658 - 130 - 288",
       "options": [
         "240",
         "245",
@@ -3023,7 +3023,7 @@
       "level": "2"
     },
     {
-      "questionText": "660 - 131-291",
+      "questionText": "660 - 131 - 291",
       "options": [
         "238",
         "243",
@@ -3035,7 +3035,7 @@
       "level": "2"
     },
     {
-      "questionText": "662 - 132-294",
+      "questionText": "662 - 132 - 294",
       "options": [
         "236",
         "241",
@@ -3047,7 +3047,7 @@
       "level": "2"
     },
     {
-      "questionText": "664 - 133-297",
+      "questionText": "664 - 133 - 297",
       "options": [
         "234",
         "239",
@@ -3059,7 +3059,7 @@
       "level": "2"
     },
     {
-      "questionText": "666 - 134-300",
+      "questionText": "666 - 134 - 300",
       "options": [
         "232",
         "237",
@@ -3071,7 +3071,7 @@
       "level": "2"
     },
     {
-      "questionText": "668 - 135-303",
+      "questionText": "668 - 135 - 303",
       "options": [
         "230",
         "235",
@@ -3083,7 +3083,7 @@
       "level": "2"
     },
     {
-      "questionText": "670 - 136-306",
+      "questionText": "670 - 136 - 306",
       "options": [
         "228",
         "233",
@@ -3095,7 +3095,7 @@
       "level": "2"
     },
     {
-      "questionText": "672 - 137-309",
+      "questionText": "672 - 137 - 309",
       "options": [
         "226",
         "231",
@@ -3107,7 +3107,7 @@
       "level": "2"
     },
     {
-      "questionText": "674 - 138-312",
+      "questionText": "674 - 138 - 312",
       "options": [
         "224",
         "229",
@@ -3119,7 +3119,7 @@
       "level": "2"
     },
     {
-      "questionText": "676 - 139-315",
+      "questionText": "676 - 139 - 315",
       "options": [
         "222",
         "227",
@@ -3131,7 +3131,7 @@
       "level": "2"
     },
     {
-      "questionText": "678 - 140-318",
+      "questionText": "678 - 140 - 318",
       "options": [
         "220",
         "225",
@@ -3143,7 +3143,7 @@
       "level": "2"
     },
     {
-      "questionText": "680 - 141-321",
+      "questionText": "680 - 141 - 321",
       "options": [
         "218",
         "223",
@@ -3155,7 +3155,7 @@
       "level": "2"
     },
     {
-      "questionText": "682 - 142-324",
+      "questionText": "682 - 142 - 324",
       "options": [
         "216",
         "221",
@@ -3167,7 +3167,7 @@
       "level": "2"
     },
     {
-      "questionText": "684 - 143-327",
+      "questionText": "684 - 143 - 327",
       "options": [
         "214",
         "219",
@@ -3179,7 +3179,7 @@
       "level": "2"
     },
     {
-      "questionText": "686 - 144-330",
+      "questionText": "686 - 144 - 330",
       "options": [
         "212",
         "217",
@@ -3191,7 +3191,7 @@
       "level": "2"
     },
     {
-      "questionText": "688 - 145-333",
+      "questionText": "688 - 145 - 333",
       "options": [
         "210",
         "215",
@@ -3203,7 +3203,7 @@
       "level": "2"
     },
     {
-      "questionText": "690 - 146-336",
+      "questionText": "690 - 146 - 336",
       "options": [
         "208",
         "213",
@@ -3215,7 +3215,7 @@
       "level": "2"
     },
     {
-      "questionText": "692 - 147-339",
+      "questionText": "692 - 147 - 339",
       "options": [
         "206",
         "211",
@@ -3227,7 +3227,7 @@
       "level": "2"
     },
     {
-      "questionText": "694 - 148-342",
+      "questionText": "694 - 148 - 342",
       "options": [
         "204",
         "209",
@@ -3239,7 +3239,7 @@
       "level": "2"
     },
     {
-      "questionText": "696 - 149-345",
+      "questionText": "696 - 149 - 345",
       "options": [
         "202",
         "207",
@@ -3251,7 +3251,7 @@
       "level": "2"
     },
     {
-      "questionText": "698 - 150-348",
+      "questionText": "698 - 150 - 348",
       "options": [
         "200",
         "205",
@@ -3263,7 +3263,7 @@
       "level": "2"
     },
     {
-      "questionText": "700 - 151-351",
+      "questionText": "700 - 151 - 351",
       "options": [
         "198",
         "203",
@@ -3275,7 +3275,7 @@
       "level": "2"
     },
     {
-      "questionText": "702 - 152-354",
+      "questionText": "702 - 152 - 354",
       "options": [
         "196",
         "201",
@@ -3287,7 +3287,7 @@
       "level": "2"
     },
     {
-      "questionText": "704 - 153-357",
+      "questionText": "704 - 153 - 357",
       "options": [
         "194",
         "199",
@@ -3299,7 +3299,7 @@
       "level": "2"
     },
     {
-      "questionText": "706 - 154-360",
+      "questionText": "706 - 154 - 360",
       "options": [
         "192",
         "197",
@@ -3311,7 +3311,7 @@
       "level": "2"
     },
     {
-      "questionText": "708 - 155-363",
+      "questionText": "708 - 155 - 363",
       "options": [
         "190",
         "195",
@@ -3323,7 +3323,7 @@
       "level": "2"
     },
     {
-      "questionText": "710 - 156-366",
+      "questionText": "710 - 156 - 366",
       "options": [
         "188",
         "193",
@@ -3335,7 +3335,7 @@
       "level": "2"
     },
     {
-      "questionText": "712 - 157-369",
+      "questionText": "712 - 157 - 369",
       "options": [
         "186",
         "191",
@@ -3347,7 +3347,7 @@
       "level": "2"
     },
     {
-      "questionText": "714 - 158-372",
+      "questionText": "714 - 158 - 372",
       "options": [
         "184",
         "189",
@@ -3359,7 +3359,7 @@
       "level": "2"
     },
     {
-      "questionText": "716 - 159-375",
+      "questionText": "716 - 159 - 375",
       "options": [
         "182",
         "187",
@@ -3371,7 +3371,7 @@
       "level": "2"
     },
     {
-      "questionText": "718 - 160-378",
+      "questionText": "718 - 160 - 378",
       "options": [
         "180",
         "185",
@@ -3383,7 +3383,7 @@
       "level": "2"
     },
     {
-      "questionText": "720 - 161-381",
+      "questionText": "720 - 161 - 381",
       "options": [
         "178",
         "183",
@@ -3395,7 +3395,7 @@
       "level": "2"
     },
     {
-      "questionText": "722 - 162-384",
+      "questionText": "722 - 162 - 384",
       "options": [
         "176",
         "181",
@@ -3407,7 +3407,7 @@
       "level": "2"
     },
     {
-      "questionText": "724 - 163-387",
+      "questionText": "724 - 163 - 387",
       "options": [
         "174",
         "179",
@@ -3419,7 +3419,7 @@
       "level": "2"
     },
     {
-      "questionText": "726 - 164-390",
+      "questionText": "726 - 164 - 390",
       "options": [
         "172",
         "177",
@@ -3431,7 +3431,7 @@
       "level": "2"
     },
     {
-      "questionText": "728 - 165-393",
+      "questionText": "728 - 165 - 393",
       "options": [
         "170",
         "175",
@@ -3443,7 +3443,7 @@
       "level": "2"
     },
     {
-      "questionText": "730 - 166-396",
+      "questionText": "730 - 166 - 396",
       "options": [
         "168",
         "173",
@@ -3455,7 +3455,7 @@
       "level": "2"
     },
     {
-      "questionText": "732 - 167-399",
+      "questionText": "732 - 167 - 399",
       "options": [
         "166",
         "171",
@@ -3467,7 +3467,7 @@
       "level": "2"
     },
     {
-      "questionText": "734 - 168-402",
+      "questionText": "734 - 168 - 402",
       "options": [
         "164",
         "169",
@@ -3479,7 +3479,7 @@
       "level": "2"
     },
     {
-      "questionText": "736 - 169-405",
+      "questionText": "736 - 169 - 405",
       "options": [
         "162",
         "167",
@@ -3491,7 +3491,7 @@
       "level": "2"
     },
     {
-      "questionText": "738 - 170-408",
+      "questionText": "738 - 170 - 408",
       "options": [
         "160",
         "165",
@@ -3503,7 +3503,7 @@
       "level": "2"
     },
     {
-      "questionText": "740 - 171-411",
+      "questionText": "740 - 171 - 411",
       "options": [
         "158",
         "163",
@@ -3515,7 +3515,7 @@
       "level": "2"
     },
     {
-      "questionText": "742 - 172-414",
+      "questionText": "742 - 172 - 414",
       "options": [
         "156",
         "161",
@@ -3527,7 +3527,7 @@
       "level": "2"
     },
     {
-      "questionText": "744 - 173-417",
+      "questionText": "744 - 173 - 417",
       "options": [
         "154",
         "159",
@@ -3539,7 +3539,7 @@
       "level": "2"
     },
     {
-      "questionText": "746 - 174-420",
+      "questionText": "746 - 174 - 420",
       "options": [
         "152",
         "157",
@@ -3551,7 +3551,7 @@
       "level": "2"
     },
     {
-      "questionText": "748 - 175-423",
+      "questionText": "748 - 175 - 423",
       "options": [
         "150",
         "155",
@@ -3563,7 +3563,7 @@
       "level": "2"
     },
     {
-      "questionText": "750 - 176-426",
+      "questionText": "750 - 176 - 426",
       "options": [
         "148",
         "153",
@@ -3575,7 +3575,7 @@
       "level": "2"
     },
     {
-      "questionText": "752 - 177-429",
+      "questionText": "752 - 177 - 429",
       "options": [
         "146",
         "151",
@@ -3587,7 +3587,7 @@
       "level": "2"
     },
     {
-      "questionText": "754 - 178-432",
+      "questionText": "754 - 178 - 432",
       "options": [
         "144",
         "149",
@@ -3599,7 +3599,7 @@
       "level": "2"
     },
     {
-      "questionText": "756 - 179-435",
+      "questionText": "756 - 179 - 435",
       "options": [
         "142",
         "147",
@@ -3611,7 +3611,7 @@
       "level": "2"
     },
     {
-      "questionText": "758 - 180-438",
+      "questionText": "758 - 180 - 438",
       "options": [
         "140",
         "145",
@@ -3623,7 +3623,7 @@
       "level": "2"
     },
     {
-      "questionText": "760 - 181-441",
+      "questionText": "760 - 181 - 441",
       "options": [
         "138",
         "143",
@@ -3635,7 +3635,7 @@
       "level": "2"
     },
     {
-      "questionText": "762 - 182-444",
+      "questionText": "762 - 182 - 444",
       "options": [
         "136",
         "141",
@@ -3647,7 +3647,7 @@
       "level": "2"
     },
     {
-      "questionText": "764 - 183-447",
+      "questionText": "764 - 183 - 447",
       "options": [
         "134",
         "139",
@@ -4165,10 +4165,10 @@
     {
       "questionText": "27 + 18 - 88",
       "options": [
-        "-43",
-        "-38",
-        "-30",
-        "-20"
+        " - 43",
+        " - 38",
+        " - 30",
+        " - 20"
       ],
       "answer": "0",
       "category": "Addition & Subtraction",
@@ -4177,10 +4177,10 @@
     {
       "questionText": "30 + 20 - 92",
       "options": [
-        "-42",
-        "-37",
-        "-29",
-        "-19"
+        " - 42",
+        " - 37",
+        " - 29",
+        " - 19"
       ],
       "answer": "0",
       "category": "Addition & Subtraction",
@@ -4189,10 +4189,10 @@
     {
       "questionText": "33 + 22 - 96",
       "options": [
-        "-41",
-        "-36",
-        "-28",
-        "-18"
+        " - 41",
+        " - 36",
+        " - 28",
+        " - 18"
       ],
       "answer": "0",
       "category": "Addition & Subtraction",
