@@ -11,6 +11,136 @@
   "earnMsg": "Watch sponsored content to earn +2 credits?",
   "questions": [
     {
+        "questionText": "There were several cases of cyberbullying in this past school year. The principal knew that changes needed to be made to the rules, so she made a new bullying policy effective that next Monday.\n\nBased on the context of the passage, what did the principal do if \"she made a new bullying policy effective\"?",
+        "options": [
+          "made it persuasive",
+          "put it into us",
+          "made it better than the previous policy",
+          "produced it herself"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "Writing the abstract for the social experiment required figuring out the relevant information to include. An abstract is meant to be a summary of a paper to prepare the reader with a general idea for the details throughout the report.\n\nIn the passage above, \"relevant\" most closely means",
+        "options": [
+          "significant",
+          "applicable",
+          "related",
+          "suitable"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "The student raised his hand and responded with an intellectual analysis of the excerpt from the assigned reading. He made it apparent that he had considered the various meanings of the passage but found the most suitable interpretation.\n\n\"Intellectual\" in this passage most closely means",
+        "options": [
+          "scholarly",
+          "intelligent",
+          "mental",
+          "thoughtful"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "People who own service dogs are likely to have a physical or mental disability.\n\nWhich of the following would not be able to replace the phrase \"are likely to\" in the sentence?",
+        "options": [
+          "probably",
+          "apparently",
+          "presumably",
+          "are undoubtedly to"
+        ],
+        "answer": 1
+      },
+      {
+        "questionText": "The position of a social worker is one that involves a delicate balance of compassion and strength when dealing with difficult situations such as helping children in unsafe environments.\n\nAs used in the sentence, \"involves\" most nearly means",
+        "options": [
+          "comprises",
+          "includes",
+          "requires",
+          "concerns"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "The fashion designer created an outfit that was meant to enhance the natural features of the model before she walked down the runway.\n\nFrom the context of the sentence, \"enhance\" most closely means",
+        "options": [
+          "enlarge",
+          "strengthen",
+          "upgrade",
+          "complement"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "After decades of having to draw out mathematical graphs by hand, the new graphing calculator emerged in the educational market.\n\nAs used in the sentence, the verb \"emerged\" most closely means",
+        "options": [
+          "appeared",
+          "materialized",
+          "surfaced",
+          "developed"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "Internships are a good way to acquire specific skills that are necessary to join the workforce such as the abilities to communicate with others and to finish projects efficiently and effectively.\n\nAs used in this sentence, \"acquire\" most nearly means",
+        "options": [
+          "have",
+          "promote",
+          "gain",
+          "achieve"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "Karl Marx's Communist Manifesto depicts his perspective of the role government should play in our society. He believed that government should monitor business. As used in this sentence, \"perspective\" most nearly means",
+        "options": [
+          "mindset",
+          "inclination",
+          "objectivity",
+          "viewpoint"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "Blatant segregation, especially in southern states of the US, was a prominent issue. Participants in the Civil Rights Movement's insistence for equality among all races began societal changes in the United States.\n\nIn the passage above, \"insistence\" most closely means",
+        "options": [
+          "perseverance",
+          "emphasis",
+          "demand",
+          "attention"
+        ],
+        "answer": 2
+      },
+      {
+        "questionText": "In public forum debate, participants argue about relevant issues that have national importance. These debaters must pay attention to the facets of their opponent's claims to find counterarguments.\n\nIn the context of this passage, which of the following is most closely related to the word \"facets\"?",
+        "options": [
+          "aspects",
+          "issues",
+          "pitfalls",
+          "conclusions"
+        ],
+        "answer": 0
+      },
+      {
+        "questionText": "The teacher had a mandate to spend more time preparing students for the state assessments.\n\nIn the context of this passage, which of the following is most closely related to the word \"mandate\"?",
+        "options": [
+          "idea",
+          "incentive",
+          "goal",
+          "order"
+        ],
+        "answer": 3
+      },
+      {
+        "questionText": "After Jack and Susan accidentally spilled the entire container of fruit punch in the parking lot, they implicitly agreed to not mention the occurrence to the rest of their friends.\n\nIn the passage above, the adverb \"implicitly\" is most similar to",
+        "options": [
+          "audibly",
+          "subtly",
+          "openly",
+          "objectively"
+        ],
+        "answer": 1
+      },
+    {
       "questionText": "Complete the sentence:\n\nAs I began my speech, my feelings of nervousness quickly ______ .",
       "options": [
         "Abated",
