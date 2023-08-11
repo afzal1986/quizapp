@@ -1,7 +1,7 @@
 {
-  "testQuestions": 15,
+  "testQuestions": 13,
   "testFailQuestions": 0,
-  "practiceQuestions": 30,
+  "practiceQuestions": 13,
   "passPercent": 75,
   "passQuestions": -1,
   "timeInMins": 5,
