@@ -12,12 +12,12 @@
   "questions": [
     {
 "questionText": "What color would the sky be if you were standing on the moon with the sun shining upon you?",
-"options": ["Black","white","blue"],
+"options": ["Black","White","Blue"],
 "answer": 0
 },
 {
 "questionText": "The word \"astrophysics\" comes from a combination of Greek words. Are you aware of which of these bodies \"Astro\" refers to?",
-"options": ["Star","sun","moon"],
+"options": ["Star","Sun","Moon"],
 "answer": 0
 },
 {
@@ -37,7 +37,7 @@
 },
 {
 "questionText": "What is the frequency of a lunar eclipse?",
-"options": ["At least twice a year","Thrice a year","once a year"],
+"options": ["At least twice a year","Thrice a year","Once a year"],
 "answer": 0
 },
 {
@@ -62,7 +62,7 @@
 },
 {
 "questionText": "Imagine we\"ve arrived at the next planet, VENUS. In visible light, we can\"t view the surface of Venus from space. Why?",
-"options": ["Venus is covered with a thick layer of clouds","Mercury is covered with a thick layer of clouds","mars is covered with a thick layer of clouds"],
+"options": ["Venus is covered with a thick layer of clouds","Mercury is covered with a thick layer of clouds","Mars is covered with a thick layer of clouds"],
 "answer": 0
 },
 {
@@ -72,7 +72,7 @@
 },
 {
 "questionText": "In the night sky, what color does Mars appear?",
-"options": ["Red color","yellow color","Blue Color"],
+"options": ["Red color","Yellow color","Blue Color"],
 "answer": 0
 },
 {
@@ -112,7 +112,7 @@
 },
 {
 "questionText": "What direction does the sunrise from?",
-"options": ["East","west","south"],
+"options": ["East","West","South"],
 "answer": 0
 },
 {
