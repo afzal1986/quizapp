@@ -142,7 +142,7 @@
 },
 {
 "questionText": "Find 3 consecutive numbers such that 3 times the first is equal to 8 more than the sum of the other two.",
-"options": ["8"," 9"," 10","9"," 10"," 11","11"," 12"," 13","12"," 13"," 14"],
+"options": ["8 - 9 - 10","9 - 10 - 11","11 - 12 - 13","12 - 13 - 14"],
 "answer": 2
 },
 {
