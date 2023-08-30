@@ -11,134 +11,144 @@
   "earnMsg": "Watch sponsored content to earn +2 credits?",
   "questions": [
     {
-      "questionText": "There were several cases of cyberbullying in this past school year. The principal knew that changes needed to be made to the rules, so she made a new bullying policy effective that next Monday.\n\nBased on the context of the passage, what did the principal do if \"she made a new bullying policy effective\"?",
-      "options": [
-        "made it persuasive",
-        "put it into us",
-        "made it better than the previous policy",
-        "produced it herself"
-      ],
-      "answer": 1
-    },
-    {
-      "questionText": "Writing the abstract for the social experiment required figuring out the relevant information to include. An abstract is meant to be a summary of a paper to prepare the reader with a general idea for the details throughout the report.\n\nIn the passage above, \"relevant\" most closely means",
-      "options": [
-        "significant",
-        "applicable",
-        "related",
-        "suitable"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "The student raised his hand and responded with an intellectual analysis of the excerpt from the assigned reading. He made it apparent that he had considered the various meanings of the passage but found the most suitable interpretation.\n\n\"Intellectual\" in this passage most closely means",
-      "options": [
-        "scholarly",
-        "intelligent",
-        "mental",
-        "thoughtful"
-      ],
-      "answer": 3
-    },
-    {
-      "questionText": "People who own service dogs are likely to have a physical or mental disability.\n\nWhich of the following would not be able to replace the phrase \"are likely to\" in the sentence?",
-      "options": [
-        "probably",
-        "apparently",
-        "presumably",
-        "are undoubtedly to"
-      ],
-      "answer": 1
-    },
-    {
-      "questionText": "The position of a social worker is one that involves a delicate balance of compassion and strength when dealing with difficult situations such as helping children in unsafe environments.\n\nAs used in the sentence, \"involves\" most nearly means",
-      "options": [
-        "comprises",
-        "includes",
-        "requires",
-        "concerns"
-      ],
-      "answer": 2
-    },
-    {
-      "questionText": "The fashion designer created an outfit that was meant to enhance the natural features of the model before she walked down the runway.\n\nFrom the context of the sentence, \"enhance\" most closely means",
-      "options": [
-        "enlarge",
-        "strengthen",
-        "upgrade",
-        "complement"
-      ],
-      "answer": 3
-    },
-    {
-      "questionText": "After decades of having to draw out mathematical graphs by hand, the new graphing calculator emerged in the educational market.\n\nAs used in the sentence, the verb \"emerged\" most closely means",
-      "options": [
-        "appeared",
-        "materialized",
-        "surfaced",
-        "developed"
-      ],
-      "answer": 3
-    },
-    {
-      "questionText": "Internships are a good way to acquire specific skills that are necessary to join the workforce such as the abilities to communicate with others and to finish projects efficiently and effectively.\n\nAs used in this sentence, \"acquire\" most nearly means",
-      "options": [
-        "have",
-        "promote",
-        "gain",
-        "achieve"
-      ],
-      "answer": 2
-    },
-    {
-      "questionText": "Karl Marx's Communist Manifesto depicts his perspective of the role government should play in our society. He believed that government should monitor business. As used in this sentence, \"perspective\" most nearly means\n\n",
-      "options": [
-        "mindset",
-        "inclination",
-        "objectivity",
-        "viewpoint"
-      ],
-      "answer": 3
-    },
-    {
-      "questionText": "Blatant segregation, especially in southern states of the US, was a prominent issue. Participants in the Civil Rights Movement's insistence for equality among all races began societal changes in the United States.\n\nIn the passage above, \"insistence\" most closely means",
-      "options": [
-        "perseverance",
-        "emphasis",
-        "demand",
-        "attention"
-      ],
-      "answer": 2
-    },
-    {
-      "questionText": "In public forum debate, participants argue about relevant issues that have national importance. These debaters must pay attention to the facets of their opponent's claims to find counterarguments.\n\nIn the context of this passage, which of the following is most closely related to the word \"facets\"?",
-      "options": [
-        "aspects",
-        "issues",
-        "pitfalls",
-        "conclusions"
-      ],
-      "answer": 0
-    },
-    {
-      "questionText": "The teacher had a mandate to spend more time preparing students for the state assessments.\n\nIn the context of this passage, which of the following is most closely related to the word \"mandate\"?",
-      "options": [
-        "idea",
-        "incentive",
-        "goal",
-        "order"
-      ],
-      "answer": 3
-    },
-    {
-      "questionText": "After Jack and Susan accidentally spilled the entire container of fruit punch in the parking lot, they implicitly agreed to not mention the occurrence to the rest of their friends.\n\nIn the passage above, the adverb \"implicitly\" is most similar to",
-      "options": [
-        "audibly",
-        "subtly",
-        "openly",
-        "objectively"
-      ],
-      "answer": 1
-    }
+"questionText": "A father gave $500 to his two sons. He gave X dollars to one son. Which of the following expressions correctly shows the amount he gave to the other son.",
+"options": ["$500 + X","$500 ÷ X","$500 x X","$500 - X"],
+"answer": 3
+},
+{
+"questionText": "Solve X where 5X = 20.",
+"options": ["4","5","10","15"],
+"answer": 0
+},
+{
+"questionText": "Solve X where X - 5 = 15.",
+"options": ["10","15","20","25"],
+"answer": 2
+},
+{
+"questionText": "Solve X where 3X + 7 - 2 = 8.",
+"options": ["1","2","3","4"],
+"answer": 0
+},
+{
+"questionText": "Irene is N years old. If Tom is twice as old, which of the following algebraic statements shows his age now?",
+"options": ["2N","2N + X","2 - N","N - 2"],
+"answer": 0
+},
+{
+"questionText": "John has B bats and buys C bats more. He then gives away D bats. Which of the following algebraic statements corretly shows how many bats John has left?",
+"options": ["D - BC","B - C - D","B + C - D","B + D + C"],
+"answer": 2
+},
+{
+"questionText": "What is the representation algebraically of the cost of L feet of lumber at Y dollars per foot?",
+"options": ["L + Y","LY","L / Y","L - Y"],
+"answer": 1
+},
+{
+"questionText": "3x + 6x =",
+"options": ["3x","9 + 2 x","9x","9x + 2"],
+"answer": 2
+},
+{
+"questionText": "5a + 2b - b + 4a =",
+"options": ["9a + b","a + b","7a - 3b","6a"],
+"answer": 0
+},
+{
+"questionText": "Find the value of 3abc; where a = 2, b = 3 and c = 4.",
+"options": ["12","27","72","82"],
+"answer": 2
+},
+{
+"questionText": "The sum of a certain number and 3 times the number is 40. What is the number?",
+"options": ["8","9","10","11"],
+"answer": 2
+},
+{
+"questionText": "Joe is lending Frank $500 and Frank has 4 years to pay it back. Joe is charging 6% interest. Frank wants to determine how much interest he'll pay over the 4 years.  He sets up the formula, interest (i) = loan amount (l) x rate (r) x time (t).  Find i.",
+"options": ["12","120","125","1200"],
+"answer": 1
+},
+{
+"questionText": "In V = 2m - 3; V is which of the following?",
+"options": ["Constant","Dependent Variable","Independent Variable","Exponent"],
+"answer": 1
+},
+{
+"questionText": "In B = 3 + 4w; 3 is which of the following?",
+"options": ["Constant","Dependent Variable","Independent Variable","Coefficient"],
+"answer": 0
+},
+{
+"questionText": "V = bdt. Solve the formula for d.",
+"options": ["d = b/tv","d = t/bv","d = vbt","d = v/bt"],
+"answer": 3
+},
+{
+"questionText": "B = 1hm/2.  Solve the formula for h.",
+"options": ["h = 1/2Bm","h = 2B/m","h = 2m/B","h = 2Bm"],
+"answer": 1
+},
+{
+"questionText": "The absolute value of -14 is 14.",
+"options": ["TRUE","FALSE"],
+"answer": 0
+},
+{
+"questionText": "- 3 + (-14) =",
+"options": ["11","-11","-17","-42"],
+"answer": 2
+},
+{
+"questionText": "20 - (-6) =",
+"options": ["14","-14","26","120"],
+"answer": 2
+},
+{
+"questionText": "Add the following: 3x - 2y + 2y + 3z + 2z - 4x - 5y.",
+"options": ["x - 5y - z","x - 2","- x - 5y - z","- x - 5y + 5z"],
+"answer": 3
+},
+{
+"questionText": "6x - 10 = 4(x + 3). Solve for x.",
+"options": ["x = 9","x = 10","x = 11","x = 12"],
+"answer": 2
+},
+{
+"questionText": "x - 6 = 17. Solve for x.",
+"options": ["x = 23","x = 11","x = 102","x = 17 / 6"],
+"answer": 0
+},
+{
+"questionText": "Which of the following is not a grouping symbol?",
+"options": ["parentheses","braces","brackets","arrows"],
+"answer": 3
+},
+{
+"questionText": "A minus sign that precedes a parenthesis causes the sign of each term within the parentheses to change when the parentheses are removed.",
+"options": ["TRUE","FALSE"],
+"answer": 0
+},
+{
+"questionText": "If X equals 5; what is the value of 6X + 2X - X?",
+"options": ["25","30","35","40"],
+"answer": 2
+},
+{
+"questionText": "If 10 is separated into two parts, one of which is y, represent the second part.",
+"options": ["10 / y","10 + y","10 - y","y - 10"],
+"answer": 2
+},
+{
+"questionText": "Find 3 consecutive numbers such that 3 times the first is equal to 8 more than the sum of the other two.",
+"options": ["8"," 9"," 10","9"," 10"," 11","11"," 12"," 13","12"," 13"," 14"],
+"answer": 2
+},
+{
+"questionText": "The ratio of the height of two buildings is 7 to 5. The first building is 210 feet tall. How tall is the second building?",
+"options": ["140","145","150","160"],
+"answer": 2
+}
   ]
 }
