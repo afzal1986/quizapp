@@ -47,7 +47,7 @@
       "answer": 0
     },
     {
-      "questionText": "What is the name of the planet that is sometimes referred to as Earth\"s sister planet?",
+      "questionText": "What is the name of the planet that is sometimes referred to as Earth's sister planet?",
       "options": [
         "Venus",
         "Mercury",
@@ -576,7 +576,6 @@
     {
       "questionText": "Which planet has the largest dust storms, it lasts for months and covers up the whole planet?",
       "options": [
-        "Mercury",
         "Mars",
         "Jupiter",
         "Mercury"
